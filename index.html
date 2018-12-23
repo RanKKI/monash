@@ -1,0 +1,231 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+    <link rel="stylesheet" href="https://cdnjs.loli.net/ajax/libs/mdui/0.4.2/css/mdui.min.css">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="theme-color" content="#3F51B5">
+    <!-- Global site tag (gtag.js) - Google Analytics -->
+    <script src="https://www.googletagmanager.com/gtag/js?id=UA-102355473-2"></script>
+    <script>
+        window.dataLayer = window.dataLayer || [];
+        function gtag() { dataLayer.push(arguments); }
+        gtag('js', new Date());
+        gtag('config', 'UA-102355473-2');
+    </script>
+</head>
+
+<body class="mdui-appbar-with-toolbar mdui-theme-primary-indigo mdui-theme-accent-pink">
+    <div id="app">
+        <header class="mdui-appbar mdui-appbar-fixed">
+            <div class="mdui-toolbar mdui-color-theme">
+                <a href="/monash" class="mdui-typo-headline">Monash Uni Units</a>
+                <div class="mdui-toolbar-spacer"></div>
+                <span class="mdui-btn mdui-btn-icon mdui-ripple mdui-ripple-white" mdui-dialog="{target: '#search_dialog'}"
+                    mdui-tooltip="{content: '搜索'}"><i class="mdui-icon material-icons">search</i></span>
+            </div>
+        </header>
+        <div class="mdui-container doc-container">
+            <br />
+            <div class="mdui-table-fluid mdui-table-hoverable">
+                <table class="mdui-table">
+                    <thead>
+                        <tr>
+                            <th>Code</th>
+                            <th class="mdui-hidden-sm-down">Title</th>
+                            <th class="mdui-hidden-sm-down mdui-hidden-md-down">Faculty</th>
+                            <th class="mdui-table-col-numeric">Exam</th>
+                            <th class="mdui-table-col-numeric mdui-hidden-md-down">Other</th>
+                            <th>S1</th>
+                            <th>S2</th>
+                        </tr>
+                    </thead>
+                    <tbody>
+                        <tr class="mdui-row" v-for="(unit,index) in units" v-bind:key="unit.unit_code" v-on:click="selectUnit(index)">
+                            <td>{{ unit.unit_code }}</td>
+                            <td class="mdui-hidden-sm-down">{{ unit.unit_name }}</td>
+                            <td class="mdui-hidden-sm-down mdui-hidden-md-down">{{ unit.faculty }}</td>
+                            <td class="mdui-text-center">{{ unit.examination }}</td>
+                            <td class="mdui-text-center mdui-hidden-md-down">{{ unit.assessment }}</td>
+                            <td :bgcolor=getColor(unit.s1)></td>
+                            <td :bgcolor=getColor(unit.s2)></td>
+                        </tr>
+                    </tbody>
+                </table>
+            </div>
+        </div>
+        <div class="mdui-dialog" id="search_dialog">
+            <div class="mdui-dialog-content">
+                <div class="mdui-textfield">
+                    <label class="mdui-textfield-label"><label for="unit_code">Unit code</label></label>
+                    <input class="mdui-textfield-input" id="unit_code" name="unit_code" type="text" v-model="search.code">
+                </div>
+                <div class="mdui-textfield">
+                    <label class="mdui-textfield-label"><label for="unit_name">Unit name</label></label>
+                    <input class="mdui-textfield-input" id="unit_name" name="unit_name" type="text" v-model="search.name">
+                </div>
+                <div class="mdui-textfield mdui-textfield-not-empty">
+                    <label class="mdui-textfield-label"><label for="faculty">Faculty</label></label>
+                    <select class="mdui-textfield-input" id="faculty" name="faculty" v-model="search.faculty">
+                        <option value="any">Any</option>
+                        <option value="Art, Design and Architecture">Art, Design and Architecture</option>
+                        <option value="Arts">Arts</option>
+                        <option value="Business and Economics">Business and Economics</option>
+                        <option value="Education">Education</option>
+                        <option value="Information Technology">Information Technology</option>
+                        <option value="Law">Law</option>
+                        <option value="Engineering">Engineering</option>
+                        <option value="Medicine, Nursing and Health Sciences">Medicine, Nursing and Health Sciences</option>
+                        <option value="Pharmacy and Pharmaceutical Sciences">Pharmacy and Pharmaceutical Sciences</option>
+                        <option value="Science">Science</option>
+                    </select>
+                </div>
+                <div class="mdui-textfield mdui-textfield-not-empty">
+                    <label class="mdui-textfield-label"><label for="semester">Semester</label></label>
+                    <select class="mdui-textfield-input" id="semester" name="semester" v-model="search.semester">
+                        <option value="any">Any</option>
+                        <option value="both">Both</option>
+                        <option value="s1">Semester 1</option>
+                        <option value="s2">Semester 2</option>
+                    </select>
+                </div>
+                <div class="mdui-textfield mdui-textfield-not-empty">
+                    <label class="mdui-textfield-label"><label for="exam">Examination</label></label>
+                    <select class="mdui-textfield-input" id="exam" name="exam" v-model="search.exam">
+                        <option value="any">Any</option>
+                        <option value="l50">less than 50</option>
+                        <option value="no">no exam</option>
+                    </select>
+                </div>
+                <div class="mdui-textfield mdui-textfield-not-empty">
+                    <label class="mdui-textfield-label"><label for="year">Year</label></label>
+                    <select class="mdui-textfield-input" id="year" name="year" v-model="search.year">
+                        <option value="any">Any</option>
+                        <option value="1">First Year</option>
+                        <option value="2">Second Year</option>
+                        <option value="3">Third Year</option>
+                    </select>
+                </div>
+                <br><br>
+                <button class="mdui-btn mdui-btn-raised mdui-ripple mdui-color-theme-accent" v-on:click="filterUnits()"
+                    mdui-dialog-confirm>搜索</button>
+            </div>
+        </div>
+        <div class="mdui-dialog" id="help">
+            <div class="mdui-dialog-content">
+                <p>此项目用于帮助Monash学生快速的挑选课程.</p>
+                <p>内容包括了课程代码,名称,所属专业,期末考试和Assessment占比,以及开课学期</p>
+                <p>内容全部来自Monash 2019 handbook, 不保证信息完全正确, 还请同学向Monash进行确认</p>
+                <p>如何任何缺失课程或者课程信息错误, 请根据以下联系方式联系作者. </p>
+                <p>搜索功能在右上角，</p>
+                <p>联系方式: <a href="http://t.me/RanKKI_L">Telegram</a></p>
+                <p>具体这个工具怎么来的，可以去看我的<a href="https://rankki.xyz/posts/Monash-Uni-Units-Search/">Blog</a></p>
+            </div>
+            <div class="mdui-dialog-actions">
+                <button class="mdui-btn mdui-ripple" mdui-dialog-close>知道了。</button>
+            </div>
+        </div>
+        <div class="mdui-dialog" id="selected_unit">
+            <div class="mdui-dialog-content">
+                <p>Unit name: {{selected_unit.unit_name}}</p>
+                <p>Unit code: {{selected_unit.unit_code}}</p>
+                <p>Faculty: {{selected_unit.faculty}}</p>
+                <p>Exam: {{selected_unit.examination}}</p>
+                <p>Other assessment: {{selected_unit.assessment}}</p>
+                <p>Semester 1: {{selected_unit.s1 ? "✓":"✕"}}</p>
+                <p>Semester 2: {{selected_unit.s2 ? "✓":"✕"}}</p>
+            </div>
+            <div class="mdui-dialog-actions">
+                <button class="mdui-btn mdui-ripple" mdui-dialog-close>好的。</button>
+            </div>
+        </div>
+        <button mdui-dialog="{target: '#help'}" class="mdui-fab mdui-fab-fixed mdui-ripple mdui-color-theme-accent"><i
+                class="mdui-icon material-icons">help</i></button>
+    </div>
+    <script src="https://cdnjs.loli.net/ajax/libs/mdui/0.4.2/js/mdui.min.js"></script>
+    <script src="https://cdnjs.loli.net/ajax/libs/vue/2.5.21/vue.min.js"></script>
+    <script src="https://cdnjs.loli.net/ajax/libs/axios/0.9.1/axios.min.js"></script>
+    <script>
+        new Vue({
+            el: "#app",
+            methods: {
+                getColor: function (d) {
+                    return d ? "#00FF00" : "#FF0000"
+                },
+                selectUnit: function (index) {
+                    this.selected_unit = this.units[index]
+                    new mdui.Dialog("#selected_unit").open();
+                },
+                filterUnits: function () {
+                    let self = this;
+                    let search = self.search
+
+                    self.units = self.all_units.slice(0)
+
+                    if (search.name != "") {
+                        self.units = self.units.filter(function (data) { return data.unit_name.toLowerCase().indexOf(search.name.toLowerCase()) != -1 })
+                    }
+
+                    if (search.code != "") {
+                        self.units = self.units.filter(function (data) { return data.unit_code.indexOf(search.code) != -1 })
+                    }
+
+                    if (search.exam != "any") {
+                        if (search.exam == "no") {
+                            self.units = self.units.filter(function (data) { return data.examination == 0 })
+                        } else if (search.exam == "l50") {
+                            self.units = self.units.filter(function (data) { return data.examination <= 0 })
+                        }
+                    }
+
+                    if (search.faculty != "any") {
+                        self.units = self.units.filter(function (data) { return data.faculty == search.faculty })
+                    }
+
+                    if (search.semester != "any") {
+                        if (search.semester == "both") {
+                            self.units = self.units.filter(function (data) { return data.s1 == true && data.s2 == true })
+                        } else if (search.semester == "s1") {
+                            self.units = self.units.filter(function (data) { return data.s1 == true })
+                        } else if (search.semester == "s2") {
+                            self.units = self.units.filter(function (data) { return data.s2 == true })
+                        }
+                    }
+
+                    if (search.year != "any") {
+                        self.units = self.units.filter(function (data) { return data.unit_code.slice(3, 4) == search.year })
+                    }
+
+                    self.units = self.units.slice(0, 100)
+
+                }
+            },
+            data: {
+                "units": [],
+                "all_units": [],
+                "search": {
+                    "code": "",
+                    "name": "",
+                    "faculty": "any",
+                    "semester": "any",
+                    "exam": "any",
+                    "year": "any",
+                },
+                "selected_unit": {}
+            },
+            created: function () {
+                let self = this;
+                axios.get("https://raw.githubusercontent.com/RanKKI/monash/master/data.json")
+                    .then(function (res) {
+                        self.all_units = res.data
+                        self.all_units.sort(function (a, b) { return a.unit_code > b.unit_code })
+                        self.units = self.all_units.slice(0, 100)
+                    })
+            }
+        })
+    </script>
+</body>
+
+</html>

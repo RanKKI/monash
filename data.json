@@ -1,0 +1,6959 @@
+[
+    {
+        "assessment": 40,
+        "examination": 60,
+        "faculty": "Information Technology",
+        "s1": true,
+        "s2": false,
+        "unit_code": "FIT1006",
+        "unit_name": "Business information analysis"
+    },
+    {
+        "assessment": 40,
+        "examination": 60,
+        "faculty": "Information Technology",
+        "s1": true,
+        "s2": true,
+        "unit_code": "FIT1008",
+        "unit_name": "Introduction to computer science"
+    },
+    {
+        "assessment": 50,
+        "examination": 50,
+        "faculty": "Information Technology",
+        "s1": false,
+        "s2": true,
+        "unit_code": "FIT1013",
+        "unit_name": "Digital futures: IT for business"
+    },
+    {
+        "assessment": 100,
+        "examination": 0,
+        "faculty": "Information Technology",
+        "s1": true,
+        "s2": false,
+        "unit_code": "FIT1033",
+        "unit_name": "Foundations of 3D"
+    },
+    {
+        "assessment": 50,
+        "examination": 50,
+        "faculty": "Information Technology",
+        "s1": false,
+        "s2": true,
+        "unit_code": "FIT1043",
+        "unit_name": "Introduction to data science"
+    },
+    {
+        "assessment": 60,
+        "examination": 40,
+        "faculty": "Information Technology",
+        "s1": true,
+        "s2": true,
+        "unit_code": "FIT1045",
+        "unit_name": "Algorithms and programming fundamentals in python"
+    },
+    {
+        "assessment": 100,
+        "examination": 0,
+        "faculty": "Information Technology",
+        "s1": false,
+        "s2": true,
+        "unit_code": "FIT1046",
+        "unit_name": "Interactive media foundations"
+    },
+    {
+        "assessment": 50,
+        "examination": 50,
+        "faculty": "Information Technology",
+        "s1": true,
+        "s2": true,
+        "unit_code": "FIT1047",
+        "unit_name": "Introduction to computer systems, networks and security"
+    },
+    {
+        "assessment": 50,
+        "examination": 50,
+        "faculty": "Information Technology",
+        "s1": false,
+        "s2": true,
+        "unit_code": "FIT1048",
+        "unit_name": "Fundamentals of C++"
+    },
+    {
+        "assessment": 60,
+        "examination": 40,
+        "faculty": "Information Technology",
+        "s1": true,
+        "s2": true,
+        "unit_code": "FIT1049",
+        "unit_name": "IT professional practice"
+    },
+    {
+        "assessment": 50,
+        "examination": 50,
+        "faculty": "Information Technology",
+        "s1": true,
+        "s2": false,
+        "unit_code": "FIT1050",
+        "unit_name": "Web fundamentals"
+    },
+    {
+        "assessment": 40,
+        "examination": 60,
+        "faculty": "Information Technology",
+        "s1": true,
+        "s2": true,
+        "unit_code": "FIT1051",
+        "unit_name": "Programming fundamentals in java"
+    },
+    {
+        "assessment": 50,
+        "examination": 50,
+        "faculty": "Information Technology",
+        "s1": true,
+        "s2": false,
+        "unit_code": "FIT1052",
+        "unit_name": "Digital futures: IT shaping society"
+    },
+    {
+        "assessment": 60,
+        "examination": 40,
+        "faculty": "Information Technology",
+        "s1": true,
+        "s2": false,
+        "unit_code": "FIT1053",
+        "unit_name": "Algorithms and programming in python (advanced)"
+    },
+    {
+        "assessment": 40,
+        "examination": 60,
+        "faculty": "Information Technology",
+        "s1": false,
+        "s2": true,
+        "unit_code": "FIT1054",
+        "unit_name": "Computer science (advanced)"
+    },
+    {
+        "assessment": 50,
+        "examination": 50,
+        "faculty": "Information Technology",
+        "s1": true,
+        "s2": true,
+        "unit_code": "FIT2001",
+        "unit_name": "Systems development"
+    },
+    {
+        "assessment": 50,
+        "examination": 50,
+        "faculty": "Information Technology",
+        "s1": true,
+        "s2": true,
+        "unit_code": "FIT2002",
+        "unit_name": "IT project management"
+    },
+    {
+        "assessment": 40,
+        "examination": 60,
+        "faculty": "Information Technology",
+        "s1": true,
+        "s2": true,
+        "unit_code": "FIT2004",
+        "unit_name": "Algorithms and data structures"
+    },
+    {
+        "assessment": 40,
+        "examination": 60,
+        "faculty": "Information Technology",
+        "s1": false,
+        "s2": true,
+        "unit_code": "FIT2014",
+        "unit_name": "Theory of computation"
+    },
+    {
+        "assessment": 100,
+        "examination": 0,
+        "faculty": "Information Technology",
+        "s1": true,
+        "s2": true,
+        "unit_code": "FIT2032",
+        "unit_name": "Industry-based learning"
+    },
+    {
+        "assessment": 100,
+        "examination": 0,
+        "faculty": "Information Technology",
+        "s1": false,
+        "s2": true,
+        "unit_code": "FIT2073",
+        "unit_name": "Game design studio 1"
+    },
+    {
+        "assessment": 40,
+        "examination": 60,
+        "faculty": "Information Technology",
+        "s1": true,
+        "s2": false,
+        "unit_code": "FIT2081",
+        "unit_name": "Mobile application development"
+    },
+    {
+        "assessment": 100,
+        "examination": 0,
+        "faculty": "Information Technology",
+        "s1": false,
+        "s2": true,
+        "unit_code": "FIT2082",
+        "unit_name": "Computer science research project"
+    },
+    {
+        "assessment": 100,
+        "examination": 0,
+        "faculty": "Information Technology",
+        "s1": true,
+        "s2": false,
+        "unit_code": "FIT2083",
+        "unit_name": "Innovation and research in computer science"
+    },
+    {
+        "assessment": 40,
+        "examination": 60,
+        "faculty": "Information Technology",
+        "s1": true,
+        "s2": true,
+        "unit_code": "FIT2085",
+        "unit_name": "Introduction to computer science for engineers"
+    },
+    {
+        "assessment": 50,
+        "examination": 50,
+        "faculty": "Information Technology",
+        "s1": false,
+        "s2": true,
+        "unit_code": "FIT2086",
+        "unit_name": "Modelling for data analysis"
+    },
+    {
+        "assessment": 100,
+        "examination": 0,
+        "faculty": "Information Technology",
+        "s1": false,
+        "s2": true,
+        "unit_code": "FIT2087",
+        "unit_name": "Advanced 3D"
+    },
+    {
+        "assessment": 40,
+        "examination": 60,
+        "faculty": "Information Technology",
+        "s1": false,
+        "s2": true,
+        "unit_code": "FIT2090",
+        "unit_name": "Business information systems and processes"
+    },
+    {
+        "assessment": 100,
+        "examination": 0,
+        "faculty": "Information Technology",
+        "s1": true,
+        "s2": false,
+        "unit_code": "FIT2091",
+        "unit_name": "Interactive media studio 1"
+    },
+    {
+        "assessment": 100,
+        "examination": 0,
+        "faculty": "Information Technology",
+        "s1": false,
+        "s2": true,
+        "unit_code": "FIT2092",
+        "unit_name": "Interactive media studio 2"
+    },
+    {
+        "assessment": 40,
+        "examination": 60,
+        "faculty": "Information Technology",
+        "s1": true,
+        "s2": false,
+        "unit_code": "FIT2093",
+        "unit_name": "Introduction to cyber security"
+    },
+    {
+        "assessment": 50,
+        "examination": 50,
+        "faculty": "Information Technology",
+        "s1": true,
+        "s2": true,
+        "unit_code": "FIT2094",
+        "unit_name": "Databases"
+    },
+    {
+        "assessment": 40,
+        "examination": 60,
+        "faculty": "Information Technology",
+        "s1": false,
+        "s2": true,
+        "unit_code": "FIT2095",
+        "unit_name": "e-Business software technologies"
+    },
+    {
+        "assessment": 50,
+        "examination": 50,
+        "faculty": "Information Technology",
+        "s1": true,
+        "s2": false,
+        "unit_code": "FIT2096",
+        "unit_name": "Games programming 1"
+    },
+    {
+        "assessment": 50,
+        "examination": 50,
+        "faculty": "Information Technology",
+        "s1": false,
+        "s2": true,
+        "unit_code": "FIT2097",
+        "unit_name": "Games programming 2"
+    },
+    {
+        "assessment": 100,
+        "examination": 0,
+        "faculty": "Information Technology",
+        "s1": false,
+        "s2": true,
+        "unit_code": "FIT2098",
+        "unit_name": "Virtual and augmented reality"
+    },
+    {
+        "assessment": 60,
+        "examination": 40,
+        "faculty": "Information Technology",
+        "s1": true,
+        "s2": true,
+        "unit_code": "FIT2099",
+        "unit_name": "Object oriented design and implementation"
+    },
+    {
+        "assessment": 50,
+        "examination": 50,
+        "faculty": "Information Technology",
+        "s1": false,
+        "s2": true,
+        "unit_code": "FIT2100",
+        "unit_name": "Operating systems"
+    },
+    {
+        "assessment": 60,
+        "examination": 40,
+        "faculty": "Information Technology",
+        "s1": false,
+        "s2": true,
+        "unit_code": "FIT2101",
+        "unit_name": "Software engineering process and management"
+    },
+    {
+        "assessment": 60,
+        "examination": 40,
+        "faculty": "Information Technology",
+        "s1": false,
+        "s2": true,
+        "unit_code": "FIT2102",
+        "unit_name": "Programming paradigms"
+    },
+    {
+        "assessment": 50,
+        "examination": 50,
+        "faculty": "Information Technology",
+        "s1": false,
+        "s2": true,
+        "unit_code": "FIT2104",
+        "unit_name": "Web database interface"
+    },
+    {
+        "assessment": 60,
+        "examination": 40,
+        "faculty": "Information Technology",
+        "s1": false,
+        "s2": true,
+        "unit_code": "FIT2107",
+        "unit_name": "Software quality and testing"
+    },
+    {
+        "assessment": 100,
+        "examination": 0,
+        "faculty": "Information Technology",
+        "s1": true,
+        "s2": false,
+        "unit_code": "FIT2108",
+        "unit_name": "Industry based learning seminar"
+    },
+    {
+        "assessment": 40,
+        "examination": 60,
+        "faculty": "Information Technology",
+        "s1": true,
+        "s2": false,
+        "unit_code": "MAT1830",
+        "unit_name": "Discrete mathematics for computer science"
+    },
+    {
+        "assessment": 40,
+        "examination": 60,
+        "faculty": "Information Technology",
+        "s1": false,
+        "s2": true,
+        "unit_code": "MAT1841",
+        "unit_name": "Continuous mathematics for computer science"
+    },
+    {
+        "assessment": 45,
+        "examination": 55,
+        "faculty": "Arts",
+        "s1": true,
+        "s2": false,
+        "unit_code": "ATS1001",
+        "unit_name": "Chinese introductory 1"
+    },
+    {
+        "assessment": 45,
+        "examination": 55,
+        "faculty": "Arts",
+        "s1": false,
+        "s2": true,
+        "unit_code": "ATS1002",
+        "unit_name": "Chinese introductory 2"
+    },
+    {
+        "assessment": 100,
+        "examination": 0,
+        "faculty": "Arts",
+        "s1": true,
+        "s2": false,
+        "unit_code": "ATS1020",
+        "unit_name": "Leadership for social change 1"
+    },
+    {
+        "assessment": 70,
+        "examination": 30,
+        "faculty": "Arts",
+        "s1": false,
+        "s2": true,
+        "unit_code": "ATS1040",
+        "unit_name": "Religions and society"
+    },
+    {
+        "assessment": 70,
+        "examination": 30,
+        "faculty": "Arts",
+        "s1": true,
+        "s2": true,
+        "unit_code": "ATS1041",
+        "unit_name": "World religions"
+    },
+    {
+        "assessment": 40,
+        "examination": 60,
+        "faculty": "Arts",
+        "s1": true,
+        "s2": true,
+        "unit_code": "ATS1044",
+        "unit_name": "Performance 1"
+    },
+    {
+        "assessment": 40,
+        "examination": 60,
+        "faculty": "Arts",
+        "s1": true,
+        "s2": true,
+        "unit_code": "ATS1045",
+        "unit_name": "Performance 2"
+    },
+    {
+        "assessment": 100,
+        "examination": 0,
+        "faculty": "Arts",
+        "s1": true,
+        "s2": false,
+        "unit_code": "ATS1046",
+        "unit_name": "Composition and music technology 1: Introduction to composition genres"
+    },
+    {
+        "assessment": 100,
+        "examination": 0,
+        "faculty": "Arts",
+        "s1": false,
+        "s2": true,
+        "unit_code": "ATS1047",
+        "unit_name": "Composition and music technology 2: Materials of composition"
+    },
+    {
+        "assessment": 60,
+        "examination": 40,
+        "faculty": "Arts",
+        "s1": true,
+        "s2": false,
+        "unit_code": "ATS1061",
+        "unit_name": "French introductory 1"
+    },
+    {
+        "assessment": 60,
+        "examination": 40,
+        "faculty": "Arts",
+        "s1": false,
+        "s2": true,
+        "unit_code": "ATS1062",
+        "unit_name": "French introductory 2"
+    },
+    {
+        "assessment": 100,
+        "examination": 0,
+        "faculty": "Arts",
+        "s1": true,
+        "s2": false,
+        "unit_code": "ATS1089",
+        "unit_name": "Fundamentals of journalism"
+    },
+    {
+        "assessment": 100,
+        "examination": 0,
+        "faculty": "Arts",
+        "s1": false,
+        "s2": true,
+        "unit_code": "ATS1090",
+        "unit_name": "Practice of journalism"
+    },
+    {
+        "assessment": 30,
+        "examination": 70,
+        "faculty": "Arts",
+        "s1": true,
+        "s2": false,
+        "unit_code": "ATS1091",
+        "unit_name": "German introductory 1"
+    },
+    {
+        "assessment": 25,
+        "examination": 75,
+        "faculty": "Arts",
+        "s1": false,
+        "s2": true,
+        "unit_code": "ATS1092",
+        "unit_name": "German introductory 2"
+    },
+    {
+        "assessment": 70,
+        "examination": 30,
+        "faculty": "Arts",
+        "s1": true,
+        "s2": false,
+        "unit_code": "ATS1111",
+        "unit_name": "Indonesian 1: Biographies"
+    },
+    {
+        "assessment": 75,
+        "examination": 25,
+        "faculty": "Arts",
+        "s1": false,
+        "s2": true,
+        "unit_code": "ATS1112",
+        "unit_name": "Indonesian 2: Journeys and cultural encounters"
+    },
+    {
+        "assessment": 100,
+        "examination": 0,
+        "faculty": "Arts",
+        "s1": false,
+        "s2": true,
+        "unit_code": "ATS1119",
+        "unit_name": "Communicating in the digital era"
+    },
+    {
+        "assessment": 100,
+        "examination": 0,
+        "faculty": "Arts",
+        "s1": true,
+        "s2": false,
+        "unit_code": "ATS1125",
+        "unit_name": "Public relations foundations"
+    },
+    {
+        "assessment": 60,
+        "examination": 40,
+        "faculty": "Arts",
+        "s1": true,
+        "s2": false,
+        "unit_code": "ATS1141",
+        "unit_name": "Japanese introductory 1"
+    },
+    {
+        "assessment": 60,
+        "examination": 40,
+        "faculty": "Arts",
+        "s1": false,
+        "s2": true,
+        "unit_code": "ATS1142",
+        "unit_name": "Japanese introductory 2"
+    },
+    {
+        "assessment": 60,
+        "examination": 40,
+        "faculty": "Arts",
+        "s1": true,
+        "s2": false,
+        "unit_code": "ATS1171",
+        "unit_name": "Korean introductory 1"
+    },
+    {
+        "assessment": 60,
+        "examination": 40,
+        "faculty": "Arts",
+        "s1": false,
+        "s2": true,
+        "unit_code": "ATS1172",
+        "unit_name": "Korean introductory 2"
+    },
+    {
+        "assessment": 100,
+        "examination": 0,
+        "faculty": "Arts",
+        "s1": true,
+        "s2": false,
+        "unit_code": "ATS1189",
+        "unit_name": "Acting 1: Theory and practice"
+    },
+    {
+        "assessment": 100,
+        "examination": 0,
+        "faculty": "Arts",
+        "s1": false,
+        "s2": true,
+        "unit_code": "ATS1190",
+        "unit_name": "Acting 2: Theory and practice"
+    },
+    {
+        "assessment": 70,
+        "examination": 30,
+        "faculty": "Arts",
+        "s1": true,
+        "s2": false,
+        "unit_code": "ATS1191",
+        "unit_name": "Spanish introductory 1"
+    },
+    {
+        "assessment": 75,
+        "examination": 25,
+        "faculty": "Arts",
+        "s1": false,
+        "s2": true,
+        "unit_code": "ATS1192",
+        "unit_name": "Spanish introductory 2"
+    },
+    {
+        "assessment": 100,
+        "examination": 0,
+        "faculty": "Arts",
+        "s1": true,
+        "s2": false,
+        "unit_code": "ATS1206",
+        "unit_name": "Media challenges"
+    },
+    {
+        "assessment": 100,
+        "examination": 0,
+        "faculty": "Arts",
+        "s1": true,
+        "s2": false,
+        "unit_code": "ATS1208",
+        "unit_name": "Digital Humanities: Concepts, tools and debates"
+    },
+    {
+        "assessment": 100,
+        "examination": 0,
+        "faculty": "Arts",
+        "s1": true,
+        "s2": false,
+        "unit_code": "ATS1211",
+        "unit_name": "Ukrainian introductory 1"
+    },
+    {
+        "assessment": 100,
+        "examination": 0,
+        "faculty": "Arts",
+        "s1": false,
+        "s2": true,
+        "unit_code": "ATS1212",
+        "unit_name": "Ukrainian introductory 2"
+    },
+    {
+        "assessment": 70,
+        "examination": 30,
+        "faculty": "Arts",
+        "s1": true,
+        "s2": false,
+        "unit_code": "ATS1221",
+        "unit_name": "Italian introductory 1"
+    },
+    {
+        "assessment": 70,
+        "examination": 30,
+        "faculty": "Arts",
+        "s1": false,
+        "s2": true,
+        "unit_code": "ATS1222",
+        "unit_name": "Italian introductory 2"
+    },
+    {
+        "assessment": 70,
+        "examination": 30,
+        "faculty": "Arts",
+        "s1": true,
+        "s2": false,
+        "unit_code": "ATS1247",
+        "unit_name": "Introducing archaeology 1"
+    },
+    {
+        "assessment": 70,
+        "examination": 30,
+        "faculty": "Arts",
+        "s1": false,
+        "s2": true,
+        "unit_code": "ATS1248",
+        "unit_name": "Introducing archaeology 2"
+    },
+    {
+        "assessment": 100,
+        "examination": 0,
+        "faculty": "Arts",
+        "s1": false,
+        "s2": true,
+        "unit_code": "ATS1250",
+        "unit_name": "Social justice and Indigenous Australians"
+    },
+    {
+        "assessment": 100,
+        "examination": 0,
+        "faculty": "Arts",
+        "s1": true,
+        "s2": false,
+        "unit_code": "ATS1254",
+        "unit_name": "Culture, power and difference: Indigeneity and Australian identity"
+    },
+    {
+        "assessment": 100,
+        "examination": 0,
+        "faculty": "Arts",
+        "s1": true,
+        "s2": false,
+        "unit_code": "ATS1255",
+        "unit_name": "Encountering cultures: Introduction to anthropology 1"
+    },
+    {
+        "assessment": 100,
+        "examination": 0,
+        "faculty": "Arts",
+        "s1": true,
+        "s2": false,
+        "unit_code": "ATS1261",
+        "unit_name": "Understanding human behaviour"
+    },
+    {
+        "assessment": 70,
+        "examination": 30,
+        "faculty": "Arts",
+        "s1": false,
+        "s2": true,
+        "unit_code": "ATS1262",
+        "unit_name": "Understanding social behaviour"
+    },
+    {
+        "assessment": 65,
+        "examination": 35,
+        "faculty": "Arts",
+        "s1": true,
+        "s2": false,
+        "unit_code": "ATS1263",
+        "unit_name": "Bioethics: Current controversies"
+    },
+    {
+        "assessment": 65,
+        "examination": 35,
+        "faculty": "Arts",
+        "s1": false,
+        "s2": true,
+        "unit_code": "ATS1264",
+        "unit_name": "Bioethics, justice and the law"
+    },
+    {
+        "assessment": 100,
+        "examination": 0,
+        "faculty": "Arts",
+        "s1": true,
+        "s2": false,
+        "unit_code": "ATS1279",
+        "unit_name": "Media and culture"
+    },
+    {
+        "assessment": 100,
+        "examination": 0,
+        "faculty": "Arts",
+        "s1": false,
+        "s2": true,
+        "unit_code": "ATS1280",
+        "unit_name": "Understanding the media"
+    },
+    {
+        "assessment": 60,
+        "examination": 40,
+        "faculty": "Arts",
+        "s1": true,
+        "s2": false,
+        "unit_code": "ATS1287",
+        "unit_name": "Performance in context 1"
+    },
+    {
+        "assessment": 60,
+        "examination": 40,
+        "faculty": "Arts",
+        "s1": false,
+        "s2": true,
+        "unit_code": "ATS1288",
+        "unit_name": "Performance in context 2"
+    },
+    {
+        "assessment": 100,
+        "examination": 0,
+        "faculty": "Arts",
+        "s1": true,
+        "s2": false,
+        "unit_code": "ATS1297",
+        "unit_name": "Academic writing"
+    },
+    {
+        "assessment": 100,
+        "examination": 0,
+        "faculty": "Arts",
+        "s1": false,
+        "s2": true,
+        "unit_code": "ATS1298",
+        "unit_name": "Professional writing"
+    },
+    {
+        "assessment": 100,
+        "examination": 0,
+        "faculty": "Arts",
+        "s1": false,
+        "s2": true,
+        "unit_code": "ATS1304",
+        "unit_name": "Introduction to television studies"
+    },
+    {
+        "assessment": 100,
+        "examination": 0,
+        "faculty": "Arts",
+        "s1": true,
+        "s2": false,
+        "unit_code": "ATS1305",
+        "unit_name": "Introduction to film studies"
+    },
+    {
+        "assessment": 60,
+        "examination": 40,
+        "faculty": "Arts",
+        "s1": false,
+        "s2": true,
+        "unit_code": "ATS1309",
+        "unit_name": "The global challenge"
+    },
+    {
+        "assessment": 70,
+        "examination": 30,
+        "faculty": "Arts",
+        "s1": true,
+        "s2": false,
+        "unit_code": "ATS1310",
+        "unit_name": "Extreme earth! Natural hazards and human vulnerability"
+    },
+    {
+        "assessment": 70,
+        "examination": 30,
+        "faculty": "Arts",
+        "s1": true,
+        "s2": false,
+        "unit_code": "ATS1314",
+        "unit_name": "Human rights theory 1"
+    },
+    {
+        "assessment": 70,
+        "examination": 30,
+        "faculty": "Arts",
+        "s1": false,
+        "s2": true,
+        "unit_code": "ATS1315",
+        "unit_name": "Human rights theory 2"
+    },
+    {
+        "assessment": 100,
+        "examination": 0,
+        "faculty": "Arts",
+        "s1": true,
+        "s2": false,
+        "unit_code": "ATS1316",
+        "unit_name": "Medieval worlds: From Vikings to the Silk Road"
+    },
+    {
+        "assessment": 100,
+        "examination": 0,
+        "faculty": "Arts",
+        "s1": false,
+        "s2": true,
+        "unit_code": "ATS1317",
+        "unit_name": "Renaissance worlds: Conflict, art, invention"
+    },
+    {
+        "assessment": 100,
+        "examination": 0,
+        "faculty": "Arts",
+        "s1": false,
+        "s2": true,
+        "unit_code": "ATS1319",
+        "unit_name": "Global Asia"
+    },
+    {
+        "assessment": 100,
+        "examination": 0,
+        "faculty": "Arts",
+        "s1": true,
+        "s2": false,
+        "unit_code": "ATS1320",
+        "unit_name": "Nations at war: Revolution and empire"
+    },
+    {
+        "assessment": 100,
+        "examination": 0,
+        "faculty": "Arts",
+        "s1": false,
+        "s2": true,
+        "unit_code": "ATS1321",
+        "unit_name": "Nations at war: The twentieth century"
+    },
+    {
+        "assessment": 100,
+        "examination": 0,
+        "faculty": "Arts",
+        "s1": true,
+        "s2": false,
+        "unit_code": "ATS1325",
+        "unit_name": "International studies: Origins of globalisation"
+    },
+    {
+        "assessment": 70,
+        "examination": 30,
+        "faculty": "Arts",
+        "s1": false,
+        "s2": true,
+        "unit_code": "ATS1326",
+        "unit_name": "International studies: Challenges of globalisation"
+    },
+    {
+        "assessment": 50,
+        "examination": 50,
+        "faculty": "Arts",
+        "s1": false,
+        "s2": false,
+        "unit_code": "ATS1336",
+        "unit_name": "Yiddish language, culture and literature 1A"
+    },
+    {
+        "assessment": 60,
+        "examination": 40,
+        "faculty": "Arts",
+        "s1": true,
+        "s2": false,
+        "unit_code": "ATS1338",
+        "unit_name": "Language and communication: Sounds and words"
+    },
+    {
+        "assessment": 70,
+        "examination": 30,
+        "faculty": "Arts",
+        "s1": false,
+        "s2": true,
+        "unit_code": "ATS1339",
+        "unit_name": "Language and communication: Putting words together"
+    },
+    {
+        "assessment": 80,
+        "examination": 20,
+        "faculty": "Arts",
+        "s1": false,
+        "s2": false,
+        "unit_code": "ATS1340",
+        "unit_name": "English for academic purposes"
+    },
+    {
+        "assessment": 100,
+        "examination": 0,
+        "faculty": "Arts",
+        "s1": true,
+        "s2": false,
+        "unit_code": "ATS1343",
+        "unit_name": "Popular music in global perspective"
+    },
+    {
+        "assessment": 100,
+        "examination": 0,
+        "faculty": "Arts",
+        "s1": true,
+        "s2": false,
+        "unit_code": "ATS1345",
+        "unit_name": "Music and history"
+    },
+    {
+        "assessment": 100,
+        "examination": 0,
+        "faculty": "Arts",
+        "s1": false,
+        "s2": true,
+        "unit_code": "ATS1346",
+        "unit_name": "Music and culture"
+    },
+    {
+        "assessment": 100,
+        "examination": 0,
+        "faculty": "Arts",
+        "s1": true,
+        "s2": false,
+        "unit_code": "ATS1347",
+        "unit_name": "Music ensemble 1"
+    },
+    {
+        "assessment": 100,
+        "examination": 0,
+        "faculty": "Arts",
+        "s1": false,
+        "s2": true,
+        "unit_code": "ATS1348",
+        "unit_name": "Music ensemble 2"
+    },
+    {
+        "assessment": 100,
+        "examination": 0,
+        "faculty": "Arts",
+        "s1": true,
+        "s2": false,
+        "unit_code": "ATS1353",
+        "unit_name": "Foundations of modern politics"
+    },
+    {
+        "assessment": 100,
+        "examination": 0,
+        "faculty": "Arts",
+        "s1": true,
+        "s2": false,
+        "unit_code": "ATS1365",
+        "unit_name": "Introduction to sociology"
+    },
+    {
+        "assessment": 100,
+        "examination": 0,
+        "faculty": "Arts",
+        "s1": false,
+        "s2": true,
+        "unit_code": "ATS1366",
+        "unit_name": "The individual and society"
+    },
+    {
+        "assessment": 60,
+        "examination": 40,
+        "faculty": "Arts",
+        "s1": true,
+        "s2": true,
+        "unit_code": "ATS1371",
+        "unit_name": "Life, death and morality (Introduction to philosophy A)"
+    },
+    {
+        "assessment": 100,
+        "examination": 0,
+        "faculty": "Arts",
+        "s1": false,
+        "s2": true,
+        "unit_code": "ATS1396",
+        "unit_name": "Drug cultures"
+    },
+    {
+        "assessment": 100,
+        "examination": 0,
+        "faculty": "Arts",
+        "s1": true,
+        "s2": false,
+        "unit_code": "ATS1420",
+        "unit_name": "The global crime problem"
+    },
+    {
+        "assessment": 100,
+        "examination": 0,
+        "faculty": "Arts",
+        "s1": true,
+        "s2": false,
+        "unit_code": "ATS1421",
+        "unit_name": "The complexity of crime"
+    },
+    {
+        "assessment": 100,
+        "examination": 0,
+        "faculty": "Arts",
+        "s1": false,
+        "s2": true,
+        "unit_code": "ATS1422",
+        "unit_name": "Controlling crime, controlling society"
+    },
+    {
+        "assessment": 70,
+        "examination": 30,
+        "faculty": "Arts",
+        "s1": false,
+        "s2": true,
+        "unit_code": "ATS1423",
+        "unit_name": "Punishment, courts and corrections"
+    },
+    {
+        "assessment": 100,
+        "examination": 0,
+        "faculty": "Arts",
+        "s1": false,
+        "s2": true,
+        "unit_code": "ATS1515",
+        "unit_name": "Reading across cultures"
+    },
+    {
+        "assessment": 55,
+        "examination": 45,
+        "faculty": "Arts",
+        "s1": false,
+        "s2": true,
+        "unit_code": "ATS1701",
+        "unit_name": "Terrorism and political violence: An introduction"
+    },
+    {
+        "assessment": 60,
+        "examination": 40,
+        "faculty": "Arts",
+        "s1": true,
+        "s2": true,
+        "unit_code": "ATS1835",
+        "unit_name": "Time, self and mind (Introduction to philosophy B)"
+    },
+    {
+        "assessment": 60,
+        "examination": 40,
+        "faculty": "Arts",
+        "s1": true,
+        "s2": false,
+        "unit_code": "ATS1873",
+        "unit_name": "Introduction to international relations"
+    },
+    {
+        "assessment": 100,
+        "examination": 0,
+        "faculty": "Arts",
+        "s1": true,
+        "s2": false,
+        "unit_code": "ATS1899",
+        "unit_name": "Music theory and ear training 1"
+    },
+    {
+        "assessment": 100,
+        "examination": 0,
+        "faculty": "Arts",
+        "s1": false,
+        "s2": true,
+        "unit_code": "ATS1900",
+        "unit_name": "Music theory and ear training 2"
+    },
+    {
+        "assessment": 65,
+        "examination": 35,
+        "faculty": "Arts",
+        "s1": true,
+        "s2": false,
+        "unit_code": "ATS1903",
+        "unit_name": "Introducing literature: Ways of reading"
+    },
+    {
+        "assessment": 65,
+        "examination": 35,
+        "faculty": "Arts",
+        "s1": false,
+        "s2": true,
+        "unit_code": "ATS1904",
+        "unit_name": "Reading the city: Literary genres"
+    },
+    {
+        "assessment": 65,
+        "examination": 35,
+        "faculty": "Arts",
+        "s1": true,
+        "s2": false,
+        "unit_code": "ATS1905",
+        "unit_name": "Chinese introductory for background speakers 1"
+    },
+    {
+        "assessment": 65,
+        "examination": 35,
+        "faculty": "Arts",
+        "s1": false,
+        "s2": true,
+        "unit_code": "ATS1906",
+        "unit_name": "Chinese introductory for background speakers 2"
+    },
+    {
+        "assessment": 60,
+        "examination": 40,
+        "faculty": "Arts",
+        "s1": false,
+        "s2": true,
+        "unit_code": "ATS1940",
+        "unit_name": "Chinese translation 2"
+    },
+    {
+        "assessment": 60,
+        "examination": 40,
+        "faculty": "Arts",
+        "s1": false,
+        "s2": true,
+        "unit_code": "ATS1945",
+        "unit_name": "Australian government and politics"
+    },
+    {
+        "assessment": 60,
+        "examination": 40,
+        "faculty": "Arts",
+        "s1": true,
+        "s2": false,
+        "unit_code": "ATS1959",
+        "unit_name": "Chinese translation 1"
+    },
+    {
+        "assessment": 50,
+        "examination": 50,
+        "faculty": "Arts",
+        "s1": true,
+        "s2": false,
+        "unit_code": "ATS2003",
+        "unit_name": "Chinese intermediate 1"
+    },
+    {
+        "assessment": 50,
+        "examination": 50,
+        "faculty": "Arts",
+        "s1": false,
+        "s2": true,
+        "unit_code": "ATS2004",
+        "unit_name": "Chinese intermediate 2"
+    },
+    {
+        "assessment": 50,
+        "examination": 50,
+        "faculty": "Arts",
+        "s1": true,
+        "s2": false,
+        "unit_code": "ATS2005",
+        "unit_name": "Chinese proficient 1"
+    },
+    {
+        "assessment": 50,
+        "examination": 50,
+        "faculty": "Arts",
+        "s1": false,
+        "s2": true,
+        "unit_code": "ATS2006",
+        "unit_name": "Chinese proficient 2"
+    },
+    {
+        "assessment": 100,
+        "examination": 0,
+        "faculty": "Arts",
+        "s1": true,
+        "s2": false,
+        "unit_code": "ATS2039",
+        "unit_name": "Understanding modern China"
+    },
+    {
+        "assessment": 100,
+        "examination": 0,
+        "faculty": "Arts",
+        "s1": false,
+        "s2": true,
+        "unit_code": "ATS2040",
+        "unit_name": "Understanding contemporary China"
+    },
+    {
+        "assessment": 60,
+        "examination": 40,
+        "faculty": "Arts",
+        "s1": true,
+        "s2": false,
+        "unit_code": "ATS2043",
+        "unit_name": "Chinese translation for professional purposes 1"
+    },
+    {
+        "assessment": 60,
+        "examination": 40,
+        "faculty": "Arts",
+        "s1": false,
+        "s2": true,
+        "unit_code": "ATS2044",
+        "unit_name": "Chinese translation for professional purposes 2"
+    },
+    {
+        "assessment": 100,
+        "examination": 0,
+        "faculty": "Arts",
+        "s1": false,
+        "s2": true,
+        "unit_code": "ATS2056",
+        "unit_name": "Crime and inequality"
+    },
+    {
+        "assessment": 70,
+        "examination": 30,
+        "faculty": "Arts",
+        "s1": false,
+        "s2": true,
+        "unit_code": "ATS2057",
+        "unit_name": "Genocide"
+    },
+    {
+        "assessment": 100,
+        "examination": 0,
+        "faculty": "Arts",
+        "s1": true,
+        "s2": false,
+        "unit_code": "ATS2060",
+        "unit_name": "The art of teaching music performance"
+    },
+    {
+        "assessment": 80,
+        "examination": 20,
+        "faculty": "Arts",
+        "s1": true,
+        "s2": false,
+        "unit_code": "ATS2063",
+        "unit_name": "French intermediate 1"
+    },
+    {
+        "assessment": 80,
+        "examination": 20,
+        "faculty": "Arts",
+        "s1": false,
+        "s2": true,
+        "unit_code": "ATS2064",
+        "unit_name": "French intermediate 2"
+    },
+    {
+        "assessment": 85,
+        "examination": 15,
+        "faculty": "Arts",
+        "s1": true,
+        "s2": false,
+        "unit_code": "ATS2065",
+        "unit_name": "French proficient 1"
+    },
+    {
+        "assessment": 85,
+        "examination": 15,
+        "faculty": "Arts",
+        "s1": false,
+        "s2": true,
+        "unit_code": "ATS2066",
+        "unit_name": "French proficient 2"
+    },
+    {
+        "assessment": 100,
+        "examination": 0,
+        "faculty": "Arts",
+        "s1": false,
+        "s2": true,
+        "unit_code": "ATS2084",
+        "unit_name": "Ancient mythologies"
+    },
+    {
+        "assessment": 100,
+        "examination": 0,
+        "faculty": "Arts",
+        "s1": true,
+        "s2": false,
+        "unit_code": "ATS2086",
+        "unit_name": "Leadership for social change 2"
+    },
+    {
+        "assessment": 100,
+        "examination": 0,
+        "faculty": "Arts",
+        "s1": true,
+        "s2": false,
+        "unit_code": "ATS2087",
+        "unit_name": "Lifestyle journalism"
+    },
+    {
+        "assessment": 80,
+        "examination": 20,
+        "faculty": "Arts",
+        "s1": true,
+        "s2": false,
+        "unit_code": "ATS2093",
+        "unit_name": "German intermediate 1"
+    },
+    {
+        "assessment": 80,
+        "examination": 20,
+        "faculty": "Arts",
+        "s1": false,
+        "s2": true,
+        "unit_code": "ATS2094",
+        "unit_name": "German intermediate 2"
+    },
+    {
+        "assessment": 80,
+        "examination": 20,
+        "faculty": "Arts",
+        "s1": true,
+        "s2": false,
+        "unit_code": "ATS2095",
+        "unit_name": "German proficient 1"
+    },
+    {
+        "assessment": 80,
+        "examination": 20,
+        "faculty": "Arts",
+        "s1": false,
+        "s2": true,
+        "unit_code": "ATS2096",
+        "unit_name": "German proficient 2"
+    },
+    {
+        "assessment": 100,
+        "examination": 0,
+        "faculty": "Arts",
+        "s1": false,
+        "s2": true,
+        "unit_code": "ATS2105",
+        "unit_name": "Theatre and performance: Theory and practice 2"
+    },
+    {
+        "assessment": 100,
+        "examination": 0,
+        "faculty": "Arts",
+        "s1": true,
+        "s2": false,
+        "unit_code": "ATS2110",
+        "unit_name": "Slavery: A history"
+    },
+    {
+        "assessment": 70,
+        "examination": 30,
+        "faculty": "Arts",
+        "s1": true,
+        "s2": false,
+        "unit_code": "ATS2113",
+        "unit_name": "Indonesian 3: Contemporary issues in Indonesia"
+    },
+    {
+        "assessment": 70,
+        "examination": 30,
+        "faculty": "Arts",
+        "s1": false,
+        "s2": true,
+        "unit_code": "ATS2114",
+        "unit_name": "Indonesian 4: Stories and storytelling in the Indonesian archipelago"
+    },
+    {
+        "assessment": 40,
+        "examination": 60,
+        "faculty": "Arts",
+        "s1": true,
+        "s2": true,
+        "unit_code": "ATS2122",
+        "unit_name": "Performance 3"
+    },
+    {
+        "assessment": 40,
+        "examination": 60,
+        "faculty": "Arts",
+        "s1": true,
+        "s2": true,
+        "unit_code": "ATS2123",
+        "unit_name": "Performance 4"
+    },
+    {
+        "assessment": 100,
+        "examination": 0,
+        "faculty": "Arts",
+        "s1": true,
+        "s2": false,
+        "unit_code": "ATS2127",
+        "unit_name": "Composition and music technology 3: Spatial composition techniques"
+    },
+    {
+        "assessment": 100,
+        "examination": 0,
+        "faculty": "Arts",
+        "s1": false,
+        "s2": true,
+        "unit_code": "ATS2128",
+        "unit_name": "Composition and music technology 4: Composition for screen"
+    },
+    {
+        "assessment": 100,
+        "examination": 0,
+        "faculty": "Arts",
+        "s1": true,
+        "s2": false,
+        "unit_code": "ATS2139",
+        "unit_name": "Song writing: How to write a popular song"
+    },
+    {
+        "assessment": 60,
+        "examination": 40,
+        "faculty": "Arts",
+        "s1": true,
+        "s2": false,
+        "unit_code": "ATS2143",
+        "unit_name": "Japanese intermediate 1"
+    },
+    {
+        "assessment": 60,
+        "examination": 40,
+        "faculty": "Arts",
+        "s1": false,
+        "s2": true,
+        "unit_code": "ATS2144",
+        "unit_name": "Japanese intermediate 2"
+    },
+    {
+        "assessment": 70,
+        "examination": 30,
+        "faculty": "Arts",
+        "s1": true,
+        "s2": false,
+        "unit_code": "ATS2145",
+        "unit_name": "Japanese proficient 1"
+    },
+    {
+        "assessment": 70,
+        "examination": 30,
+        "faculty": "Arts",
+        "s1": false,
+        "s2": true,
+        "unit_code": "ATS2146",
+        "unit_name": "Japanese proficient 2"
+    },
+    {
+        "assessment": 100,
+        "examination": 0,
+        "faculty": "Arts",
+        "s1": true,
+        "s2": false,
+        "unit_code": "ATS2159",
+        "unit_name": "Recording and computer music production"
+    },
+    {
+        "assessment": 100,
+        "examination": 0,
+        "faculty": "Arts",
+        "s1": true,
+        "s2": false,
+        "unit_code": "ATS2160",
+        "unit_name": "Language, culture and society on the Korean Peninsula"
+    },
+    {
+        "assessment": 100,
+        "examination": 0,
+        "faculty": "Arts",
+        "s1": true,
+        "s2": false,
+        "unit_code": "ATS2169",
+        "unit_name": "Photojournalism"
+    },
+    {
+        "assessment": 60,
+        "examination": 40,
+        "faculty": "Arts",
+        "s1": true,
+        "s2": false,
+        "unit_code": "ATS2173",
+        "unit_name": "Korean intermediate 1"
+    },
+    {
+        "assessment": 60,
+        "examination": 40,
+        "faculty": "Arts",
+        "s1": false,
+        "s2": true,
+        "unit_code": "ATS2174",
+        "unit_name": "Korean intermediate 2"
+    },
+    {
+        "assessment": 100,
+        "examination": 0,
+        "faculty": "Arts",
+        "s1": true,
+        "s2": false,
+        "unit_code": "ATS2185",
+        "unit_name": "Biblical texts and contexts"
+    },
+    {
+        "assessment": 100,
+        "examination": 0,
+        "faculty": "Arts",
+        "s1": true,
+        "s2": false,
+        "unit_code": "ATS2186",
+        "unit_name": "Audio lab"
+    },
+    {
+        "assessment": 100,
+        "examination": 0,
+        "faculty": "Arts",
+        "s1": false,
+        "s2": true,
+        "unit_code": "ATS2187",
+        "unit_name": "Video lab"
+    },
+    {
+        "assessment": 70,
+        "examination": 30,
+        "faculty": "Arts",
+        "s1": true,
+        "s2": false,
+        "unit_code": "ATS2189",
+        "unit_name": "Conflict and coexistence 1: Jews, Christians and Muslims from antiquity through the middle ages"
+    },
+    {
+        "assessment": 70,
+        "examination": 30,
+        "faculty": "Arts",
+        "s1": true,
+        "s2": false,
+        "unit_code": "ATS2193",
+        "unit_name": "Spanish intermediate 1"
+    },
+    {
+        "assessment": 70,
+        "examination": 30,
+        "faculty": "Arts",
+        "s1": false,
+        "s2": true,
+        "unit_code": "ATS2194",
+        "unit_name": "Spanish intermediate 2"
+    },
+    {
+        "assessment": 75,
+        "examination": 25,
+        "faculty": "Arts",
+        "s1": true,
+        "s2": false,
+        "unit_code": "ATS2195",
+        "unit_name": "Spanish proficient 1"
+    },
+    {
+        "assessment": 70,
+        "examination": 30,
+        "faculty": "Arts",
+        "s1": false,
+        "s2": true,
+        "unit_code": "ATS2196",
+        "unit_name": "Spanish proficient 2"
+    },
+    {
+        "assessment": 100,
+        "examination": 0,
+        "faculty": "Arts",
+        "s1": true,
+        "s2": false,
+        "unit_code": "ATS2215",
+        "unit_name": "Ukrainian intermediate 1"
+    },
+    {
+        "assessment": 100,
+        "examination": 0,
+        "faculty": "Arts",
+        "s1": false,
+        "s2": true,
+        "unit_code": "ATS2216",
+        "unit_name": "Ukrainian intermediate 2"
+    },
+    {
+        "assessment": 100,
+        "examination": 0,
+        "faculty": "Arts",
+        "s1": false,
+        "s2": true,
+        "unit_code": "ATS2219",
+        "unit_name": "Sport journalism in the digital age"
+    },
+    {
+        "assessment": 70,
+        "examination": 30,
+        "faculty": "Arts",
+        "s1": true,
+        "s2": false,
+        "unit_code": "ATS2223",
+        "unit_name": "Italian intermediate 1"
+    },
+    {
+        "assessment": 70,
+        "examination": 30,
+        "faculty": "Arts",
+        "s1": false,
+        "s2": true,
+        "unit_code": "ATS2224",
+        "unit_name": "Italian intermediate 2"
+    },
+    {
+        "assessment": 70,
+        "examination": 30,
+        "faculty": "Arts",
+        "s1": true,
+        "s2": false,
+        "unit_code": "ATS2225",
+        "unit_name": "Italian proficient 1"
+    },
+    {
+        "assessment": 70,
+        "examination": 30,
+        "faculty": "Arts",
+        "s1": false,
+        "s2": true,
+        "unit_code": "ATS2226",
+        "unit_name": "Italian proficient 2"
+    },
+    {
+        "assessment": 60,
+        "examination": 40,
+        "faculty": "Arts",
+        "s1": false,
+        "s2": true,
+        "unit_code": "ATS2256",
+        "unit_name": "Political psychology"
+    },
+    {
+        "assessment": 100,
+        "examination": 0,
+        "faculty": "Arts",
+        "s1": true,
+        "s2": false,
+        "unit_code": "ATS2257",
+        "unit_name": "Long-form television: 'HBO' and beyond"
+    },
+    {
+        "assessment": 100,
+        "examination": 0,
+        "faculty": "Arts",
+        "s1": false,
+        "s2": true,
+        "unit_code": "ATS2269",
+        "unit_name": "Exploring contemporary Australia: People, events, ideas"
+    },
+    {
+        "assessment": 100,
+        "examination": 0,
+        "faculty": "Arts",
+        "s1": true,
+        "s2": false,
+        "unit_code": "ATS2271",
+        "unit_name": "Beowulf: An interdisciplinary approach"
+    },
+    {
+        "assessment": 100,
+        "examination": 0,
+        "faculty": "Arts",
+        "s1": true,
+        "s2": false,
+        "unit_code": "ATS2277",
+        "unit_name": "Artefacts, objects and remains: Making sense of archaeological sites"
+    },
+    {
+        "assessment": 100,
+        "examination": 0,
+        "faculty": "Arts",
+        "s1": false,
+        "s2": true,
+        "unit_code": "ATS2280",
+        "unit_name": "Video games: Industry and culture"
+    },
+    {
+        "assessment": 60,
+        "examination": 40,
+        "faculty": "Arts",
+        "s1": true,
+        "s2": false,
+        "unit_code": "ATS2283",
+        "unit_name": "The archaeology of empires"
+    },
+    {
+        "assessment": 100,
+        "examination": 0,
+        "faculty": "Arts",
+        "s1": false,
+        "s2": false,
+        "unit_code": "ATS2290",
+        "unit_name": "Global leadership and advanced research program"
+    },
+    {
+        "assessment": 100,
+        "examination": 0,
+        "faculty": "Arts",
+        "s1": true,
+        "s2": false,
+        "unit_code": "ATS2296",
+        "unit_name": "Musical theatre 1: History and form"
+    },
+    {
+        "assessment": 100,
+        "examination": 0,
+        "faculty": "Arts",
+        "s1": false,
+        "s2": true,
+        "unit_code": "ATS2297",
+        "unit_name": "Musical theatre 2: Skills and performance"
+    },
+    {
+        "assessment": 100,
+        "examination": 0,
+        "faculty": "Arts",
+        "s1": false,
+        "s2": true,
+        "unit_code": "ATS2305",
+        "unit_name": "Digital humanities: Expanding research paradigms"
+    },
+    {
+        "assessment": 100,
+        "examination": 0,
+        "faculty": "Arts",
+        "s1": false,
+        "s2": true,
+        "unit_code": "ATS2310",
+        "unit_name": "Newsroom practice"
+    },
+    {
+        "assessment": 100,
+        "examination": 0,
+        "faculty": "Arts",
+        "s1": false,
+        "s2": true,
+        "unit_code": "ATS2323",
+        "unit_name": "Media anthropology: Power, culture and representation"
+    },
+    {
+        "assessment": 100,
+        "examination": 0,
+        "faculty": "Arts",
+        "s1": false,
+        "s2": true,
+        "unit_code": "ATS2324",
+        "unit_name": "Climate change communication"
+    },
+    {
+        "assessment": 100,
+        "examination": 0,
+        "faculty": "Arts",
+        "s1": false,
+        "s2": true,
+        "unit_code": "ATS2329",
+        "unit_name": "Project in applied digital humanities"
+    },
+    {
+        "assessment": 100,
+        "examination": 0,
+        "faculty": "Arts",
+        "s1": false,
+        "s2": true,
+        "unit_code": "ATS2333",
+        "unit_name": "Jazz history"
+    },
+    {
+        "assessment": 100,
+        "examination": 0,
+        "faculty": "Arts",
+        "s1": false,
+        "s2": true,
+        "unit_code": "ATS2341",
+        "unit_name": "Asian imaginaries: Bollywood, Manga and other fictions in Asian worlds"
+    },
+    {
+        "assessment": 100,
+        "examination": 0,
+        "faculty": "Arts",
+        "s1": false,
+        "s2": true,
+        "unit_code": "ATS2349",
+        "unit_name": "The golden age of Athens"
+    },
+    {
+        "assessment": 80,
+        "examination": 20,
+        "faculty": "Arts",
+        "s1": false,
+        "s2": true,
+        "unit_code": "ATS2351",
+        "unit_name": "The archaeology of death in ancient Egypt"
+    },
+    {
+        "assessment": 100,
+        "examination": 0,
+        "faculty": "Arts",
+        "s1": true,
+        "s2": false,
+        "unit_code": "ATS2352",
+        "unit_name": "Egypt's golden age"
+    },
+    {
+        "assessment": 100,
+        "examination": 0,
+        "faculty": "Arts",
+        "s1": true,
+        "s2": false,
+        "unit_code": "ATS2355",
+        "unit_name": "Race and power: Imagining Indigenous Australia"
+    },
+    {
+        "assessment": 100,
+        "examination": 0,
+        "faculty": "Arts",
+        "s1": false,
+        "s2": true,
+        "unit_code": "ATS2358",
+        "unit_name": "Contesting laws: Heritage, culture and land"
+    },
+    {
+        "assessment": 100,
+        "examination": 0,
+        "faculty": "Arts",
+        "s1": false,
+        "s2": true,
+        "unit_code": "ATS2359",
+        "unit_name": "Hearing the country: Studies in Indigenous Australian ethnoecology"
+    },
+    {
+        "assessment": 100,
+        "examination": 0,
+        "faculty": "Arts",
+        "s1": true,
+        "s2": false,
+        "unit_code": "ATS2371",
+        "unit_name": "Magic, science and religion"
+    },
+    {
+        "assessment": 100,
+        "examination": 0,
+        "faculty": "Arts",
+        "s1": false,
+        "s2": true,
+        "unit_code": "ATS2378",
+        "unit_name": "The anthropology of international development"
+    },
+    {
+        "assessment": 100,
+        "examination": 0,
+        "faculty": "Arts",
+        "s1": false,
+        "s2": false,
+        "unit_code": "ATS2380",
+        "unit_name": "Australia: Migrant nation"
+    },
+    {
+        "assessment": 100,
+        "examination": 0,
+        "faculty": "Arts",
+        "s1": false,
+        "s2": true,
+        "unit_code": "ATS2385",
+        "unit_name": "Australians at war"
+    },
+    {
+        "assessment": 60,
+        "examination": 40,
+        "faculty": "Arts",
+        "s1": true,
+        "s2": false,
+        "unit_code": "ATS2400",
+        "unit_name": "Personality: Beyond the persona"
+    },
+    {
+        "assessment": 100,
+        "examination": 0,
+        "faculty": "Arts",
+        "s1": false,
+        "s2": true,
+        "unit_code": "ATS2410",
+        "unit_name": "Narrative"
+    },
+    {
+        "assessment": 100,
+        "examination": 0,
+        "faculty": "Arts",
+        "s1": false,
+        "s2": true,
+        "unit_code": "ATS2422",
+        "unit_name": "Romanticism and its literary legacy"
+    },
+    {
+        "assessment": 60,
+        "examination": 40,
+        "faculty": "Arts",
+        "s1": true,
+        "s2": false,
+        "unit_code": "ATS2436",
+        "unit_name": "New media: From the telegraph to Twitter"
+    },
+    {
+        "assessment": 100,
+        "examination": 0,
+        "faculty": "Arts",
+        "s1": true,
+        "s2": false,
+        "unit_code": "ATS2439",
+        "unit_name": "Youth media: Understanding media research"
+    },
+    {
+        "assessment": 60,
+        "examination": 40,
+        "faculty": "Arts",
+        "s1": false,
+        "s2": true,
+        "unit_code": "ATS2440",
+        "unit_name": "The public sphere"
+    },
+    {
+        "assessment": 100,
+        "examination": 0,
+        "faculty": "Arts",
+        "s1": false,
+        "s2": true,
+        "unit_code": "ATS2455",
+        "unit_name": "Public relations strategy"
+    },
+    {
+        "assessment": 100,
+        "examination": 0,
+        "faculty": "Arts",
+        "s1": false,
+        "s2": true,
+        "unit_code": "ATS2456",
+        "unit_name": "Cybercrime"
+    },
+    {
+        "assessment": 60,
+        "examination": 40,
+        "faculty": "Arts",
+        "s1": true,
+        "s2": false,
+        "unit_code": "ATS2457",
+        "unit_name": "Crime, media and culture"
+    },
+    {
+        "assessment": 60,
+        "examination": 40,
+        "faculty": "Arts",
+        "s1": true,
+        "s2": false,
+        "unit_code": "ATS2469",
+        "unit_name": "Victims, justice and the law"
+    },
+    {
+        "assessment": 100,
+        "examination": 0,
+        "faculty": "Arts",
+        "s1": true,
+        "s2": false,
+        "unit_code": "ATS2485",
+        "unit_name": "Reading the past"
+    },
+    {
+        "assessment": 100,
+        "examination": 0,
+        "faculty": "Arts",
+        "s1": false,
+        "s2": true,
+        "unit_code": "ATS2492",
+        "unit_name": "Shakespeare and Renaissance literature"
+    },
+    {
+        "assessment": 100,
+        "examination": 0,
+        "faculty": "Arts",
+        "s1": true,
+        "s2": false,
+        "unit_code": "ATS2508",
+        "unit_name": "Introduction to poetry writing"
+    },
+    {
+        "assessment": 100,
+        "examination": 0,
+        "faculty": "Arts",
+        "s1": true,
+        "s2": false,
+        "unit_code": "ATS2517",
+        "unit_name": "Introduction to fiction writing"
+    },
+    {
+        "assessment": 100,
+        "examination": 0,
+        "faculty": "Arts",
+        "s1": false,
+        "s2": true,
+        "unit_code": "ATS2519",
+        "unit_name": "Children's literature: A comparative study"
+    },
+    {
+        "assessment": 100,
+        "examination": 0,
+        "faculty": "Arts",
+        "s1": false,
+        "s2": true,
+        "unit_code": "ATS2529",
+        "unit_name": "Australian film and television: Local and global"
+    },
+    {
+        "assessment": 100,
+        "examination": 0,
+        "faculty": "Arts",
+        "s1": false,
+        "s2": true,
+        "unit_code": "ATS2538",
+        "unit_name": "Film and television institutions"
+    },
+    {
+        "assessment": 70,
+        "examination": 30,
+        "faculty": "Arts",
+        "s1": false,
+        "s2": true,
+        "unit_code": "ATS2547",
+        "unit_name": "Cities and sustainability"
+    },
+    {
+        "assessment": 100,
+        "examination": 0,
+        "faculty": "Arts",
+        "s1": true,
+        "s2": false,
+        "unit_code": "ATS2548",
+        "unit_name": "Environmental policy and management"
+    },
+    {
+        "assessment": 100,
+        "examination": 0,
+        "faculty": "Arts",
+        "s1": false,
+        "s2": true,
+        "unit_code": "ATS2552",
+        "unit_name": "Crime, justice and the public"
+    },
+    {
+        "assessment": 100,
+        "examination": 0,
+        "faculty": "Arts",
+        "s1": true,
+        "s2": false,
+        "unit_code": "ATS2553",
+        "unit_name": "Indigenous justice in Australia"
+    },
+    {
+        "assessment": 100,
+        "examination": 0,
+        "faculty": "Arts",
+        "s1": true,
+        "s2": false,
+        "unit_code": "ATS2560",
+        "unit_name": "Gender, theory and society"
+    },
+    {
+        "assessment": 100,
+        "examination": 0,
+        "faculty": "Arts",
+        "s1": true,
+        "s2": false,
+        "unit_code": "ATS2561",
+        "unit_name": "Sex and the media"
+    },
+    {
+        "assessment": 100,
+        "examination": 0,
+        "faculty": "Arts",
+        "s1": true,
+        "s2": false,
+        "unit_code": "ATS2579",
+        "unit_name": "Witches and depravity in the medieval and early modern world"
+    },
+    {
+        "assessment": 80,
+        "examination": 20,
+        "faculty": "Arts",
+        "s1": true,
+        "s2": false,
+        "unit_code": "ATS2586",
+        "unit_name": "Islam: Principles, civilisations, influences"
+    },
+    {
+        "assessment": 100,
+        "examination": 0,
+        "faculty": "Arts",
+        "s1": false,
+        "s2": true,
+        "unit_code": "ATS2595",
+        "unit_name": "The rise and fall of Nazi Germany"
+    },
+    {
+        "assessment": 100,
+        "examination": 0,
+        "faculty": "Arts",
+        "s1": true,
+        "s2": false,
+        "unit_code": "ATS2596",
+        "unit_name": "The Vietnam War"
+    },
+    {
+        "assessment": 80,
+        "examination": 20,
+        "faculty": "Arts",
+        "s1": true,
+        "s2": false,
+        "unit_code": "ATS2600",
+        "unit_name": "The Holocaust"
+    },
+    {
+        "assessment": 100,
+        "examination": 0,
+        "faculty": "Arts",
+        "s1": false,
+        "s2": true,
+        "unit_code": "ATS2603",
+        "unit_name": "The age of crusades: Cultures and societies"
+    },
+    {
+        "assessment": 100,
+        "examination": 0,
+        "faculty": "Arts",
+        "s1": true,
+        "s2": false,
+        "unit_code": "ATS2620",
+        "unit_name": "The age of the Samurai"
+    },
+    {
+        "assessment": 100,
+        "examination": 0,
+        "faculty": "Arts",
+        "s1": false,
+        "s2": true,
+        "unit_code": "ATS2624",
+        "unit_name": "Global governance"
+    },
+    {
+        "assessment": 100,
+        "examination": 0,
+        "faculty": "Arts",
+        "s1": true,
+        "s2": false,
+        "unit_code": "ATS2625",
+        "unit_name": "Mobile worlds: Borders, displacement and belonging"
+    },
+    {
+        "assessment": 100,
+        "examination": 0,
+        "faculty": "Arts",
+        "s1": true,
+        "s2": false,
+        "unit_code": "ATS2628",
+        "unit_name": "Power and poverty: International development in a globalised world"
+    },
+    {
+        "assessment": 100,
+        "examination": 0,
+        "faculty": "Arts",
+        "s1": true,
+        "s2": false,
+        "unit_code": "ATS2633",
+        "unit_name": "Global cities: Past, present and future"
+    },
+    {
+        "assessment": 65,
+        "examination": 35,
+        "faculty": "Arts",
+        "s1": true,
+        "s2": false,
+        "unit_code": "ATS2637",
+        "unit_name": "Global bioethics"
+    },
+    {
+        "assessment": 70,
+        "examination": 30,
+        "faculty": "Arts",
+        "s1": true,
+        "s2": true,
+        "unit_code": "ATS2640",
+        "unit_name": "The ethics of global conflict"
+    },
+    {
+        "assessment": 60,
+        "examination": 40,
+        "faculty": "Arts",
+        "s1": true,
+        "s2": false,
+        "unit_code": "ATS2648",
+        "unit_name": "Contemporary Japan"
+    },
+    {
+        "assessment": 70,
+        "examination": 30,
+        "faculty": "Arts",
+        "s1": false,
+        "s2": true,
+        "unit_code": "ATS2653",
+        "unit_name": "Japanese: Language, culture and communication"
+    },
+    {
+        "assessment": 80,
+        "examination": 20,
+        "faculty": "Arts",
+        "s1": false,
+        "s2": true,
+        "unit_code": "ATS2671",
+        "unit_name": "Managing intercultural communication"
+    },
+    {
+        "assessment": 100,
+        "examination": 0,
+        "faculty": "Arts",
+        "s1": true,
+        "s2": false,
+        "unit_code": "ATS2676",
+        "unit_name": "Sociolinguistics"
+    },
+    {
+        "assessment": 70,
+        "examination": 30,
+        "faculty": "Arts",
+        "s1": false,
+        "s2": true,
+        "unit_code": "ATS2681",
+        "unit_name": "Structure of English"
+    },
+    {
+        "assessment": 100,
+        "examination": 0,
+        "faculty": "Arts",
+        "s1": true,
+        "s2": false,
+        "unit_code": "ATS2687",
+        "unit_name": "The ethnomusicology of improvisation"
+    },
+    {
+        "assessment": 100,
+        "examination": 0,
+        "faculty": "Arts",
+        "s1": false,
+        "s2": true,
+        "unit_code": "ATS2693",
+        "unit_name": "Politics, media and elections"
+    },
+    {
+        "assessment": 60,
+        "examination": 40,
+        "faculty": "Arts",
+        "s1": false,
+        "s2": true,
+        "unit_code": "ATS2698",
+        "unit_name": "Middle East politics"
+    },
+    {
+        "assessment": 60,
+        "examination": 40,
+        "faculty": "Arts",
+        "s1": true,
+        "s2": false,
+        "unit_code": "ATS2699",
+        "unit_name": "Parties and power"
+    },
+    {
+        "assessment": 55,
+        "examination": 45,
+        "faculty": "Arts",
+        "s1": true,
+        "s2": false,
+        "unit_code": "ATS2706",
+        "unit_name": "Foreign policy analysis"
+    },
+    {
+        "assessment": 100,
+        "examination": 0,
+        "faculty": "Arts",
+        "s1": true,
+        "s2": false,
+        "unit_code": "ATS2716",
+        "unit_name": "Cultural diversity and identity"
+    },
+    {
+        "assessment": 100,
+        "examination": 0,
+        "faculty": "Arts",
+        "s1": false,
+        "s2": true,
+        "unit_code": "ATS2718",
+        "unit_name": "Families, relationships and society"
+    },
+    {
+        "assessment": 100,
+        "examination": 0,
+        "faculty": "Arts",
+        "s1": true,
+        "s2": false,
+        "unit_code": "ATS2720",
+        "unit_name": "Youth, culture and social change"
+    },
+    {
+        "assessment": 100,
+        "examination": 0,
+        "faculty": "Arts",
+        "s1": false,
+        "s2": true,
+        "unit_code": "ATS2723",
+        "unit_name": "Social research methods"
+    },
+    {
+        "assessment": 100,
+        "examination": 0,
+        "faculty": "Arts",
+        "s1": false,
+        "s2": true,
+        "unit_code": "ATS2727",
+        "unit_name": "Men, masculinity and society"
+    },
+    {
+        "assessment": 100,
+        "examination": 0,
+        "faculty": "Arts",
+        "s1": true,
+        "s2": true,
+        "unit_code": "ATS2743",
+        "unit_name": "Build your career: Planning and strategies for employability"
+    },
+    {
+        "assessment": 100,
+        "examination": 0,
+        "faculty": "Arts",
+        "s1": false,
+        "s2": true,
+        "unit_code": "ATS2757",
+        "unit_name": "Towards decolonisation: The United Nations, rights and Indigenous peoples"
+    },
+    {
+        "assessment": 100,
+        "examination": 0,
+        "faculty": "Arts",
+        "s1": true,
+        "s2": false,
+        "unit_code": "ATS2758",
+        "unit_name": "Religion, philosophy, science"
+    },
+    {
+        "assessment": 100,
+        "examination": 0,
+        "faculty": "Arts",
+        "s1": true,
+        "s2": false,
+        "unit_code": "ATS2769",
+        "unit_name": "English as an international language"
+    },
+    {
+        "assessment": 100,
+        "examination": 0,
+        "faculty": "Arts",
+        "s1": false,
+        "s2": true,
+        "unit_code": "ATS2770",
+        "unit_name": "English as an international language: Language and globalisation"
+    },
+    {
+        "assessment": 100,
+        "examination": 0,
+        "faculty": "Arts",
+        "s1": false,
+        "s2": true,
+        "unit_code": "ATS2784",
+        "unit_name": "News and power"
+    },
+    {
+        "assessment": 100,
+        "examination": 0,
+        "faculty": "Arts",
+        "s1": true,
+        "s2": false,
+        "unit_code": "ATS2787",
+        "unit_name": "Social media and digital storytelling"
+    },
+    {
+        "assessment": 100,
+        "examination": 0,
+        "faculty": "Arts",
+        "s1": false,
+        "s2": true,
+        "unit_code": "ATS2788",
+        "unit_name": "Podcasting and audio journalism"
+    },
+    {
+        "assessment": 100,
+        "examination": 0,
+        "faculty": "Arts",
+        "s1": true,
+        "s2": false,
+        "unit_code": "ATS2790",
+        "unit_name": "Longform journalism"
+    },
+    {
+        "assessment": 100,
+        "examination": 0,
+        "faculty": "Arts",
+        "s1": true,
+        "s2": false,
+        "unit_code": "ATS2791",
+        "unit_name": "Editing and design"
+    },
+    {
+        "assessment": 50,
+        "examination": 50,
+        "faculty": "Arts",
+        "s1": false,
+        "s2": false,
+        "unit_code": "ATS2795",
+        "unit_name": "Yiddish language, culture and literature 2A"
+    },
+    {
+        "assessment": 50,
+        "examination": 50,
+        "faculty": "Arts",
+        "s1": false,
+        "s2": false,
+        "unit_code": "ATS2796",
+        "unit_name": "Yiddish language, culture and literature 2B"
+    },
+    {
+        "assessment": 100,
+        "examination": 0,
+        "faculty": "Arts",
+        "s1": false,
+        "s2": true,
+        "unit_code": "ATS2799",
+        "unit_name": "Audio culture: From Cage to Gaga"
+    },
+    {
+        "assessment": 100,
+        "examination": 0,
+        "faculty": "Arts",
+        "s1": true,
+        "s2": false,
+        "unit_code": "ATS2800",
+        "unit_name": "Music ensemble 3"
+    },
+    {
+        "assessment": 100,
+        "examination": 0,
+        "faculty": "Arts",
+        "s1": false,
+        "s2": true,
+        "unit_code": "ATS2801",
+        "unit_name": "Music ensemble 4"
+    },
+    {
+        "assessment": 100,
+        "examination": 0,
+        "faculty": "Arts",
+        "s1": true,
+        "s2": false,
+        "unit_code": "ATS2804",
+        "unit_name": "From the erotic to the exotic: Music in the nineteenth century"
+    },
+    {
+        "assessment": 100,
+        "examination": 0,
+        "faculty": "Arts",
+        "s1": false,
+        "s2": true,
+        "unit_code": "ATS2805",
+        "unit_name": "Music, identity and place"
+    },
+    {
+        "assessment": 100,
+        "examination": 0,
+        "faculty": "Arts",
+        "s1": true,
+        "s2": false,
+        "unit_code": "ATS2811",
+        "unit_name": "Theatre and performance: Theory and practice 1"
+    },
+    {
+        "assessment": 60,
+        "examination": 40,
+        "faculty": "Arts",
+        "s1": true,
+        "s2": true,
+        "unit_code": "ATS2839",
+        "unit_name": "Ethics"
+    },
+    {
+        "assessment": 70,
+        "examination": 30,
+        "faculty": "Arts",
+        "s1": true,
+        "s2": true,
+        "unit_code": "ATS2840",
+        "unit_name": "Philosophy of mind"
+    },
+    {
+        "assessment": 100,
+        "examination": 0,
+        "faculty": "Arts",
+        "s1": false,
+        "s2": true,
+        "unit_code": "ATS2845",
+        "unit_name": "Screenwriting for media production"
+    },
+    {
+        "assessment": 60,
+        "examination": 40,
+        "faculty": "Arts",
+        "s1": true,
+        "s2": true,
+        "unit_code": "ATS2861",
+        "unit_name": "God, freedom and evil"
+    },
+    {
+        "assessment": 100,
+        "examination": 0,
+        "faculty": "Arts",
+        "s1": true,
+        "s2": false,
+        "unit_code": "ATS2866",
+        "unit_name": "Symbolic logic"
+    },
+    {
+        "assessment": 75,
+        "examination": 25,
+        "faculty": "Arts",
+        "s1": true,
+        "s2": true,
+        "unit_code": "ATS2867",
+        "unit_name": "Thinking about science"
+    },
+    {
+        "assessment": 70,
+        "examination": 30,
+        "faculty": "Arts",
+        "s1": false,
+        "s2": true,
+        "unit_code": "ATS2868",
+        "unit_name": "Anarchy, property, and the state"
+    },
+    {
+        "assessment": 70,
+        "examination": 30,
+        "faculty": "Arts",
+        "s1": true,
+        "s2": false,
+        "unit_code": "ATS2871",
+        "unit_name": "Environmental ethics"
+    },
+    {
+        "assessment": 70,
+        "examination": 30,
+        "faculty": "Arts",
+        "s1": true,
+        "s2": true,
+        "unit_code": "ATS2872",
+        "unit_name": "Topics in Indian philosophy"
+    },
+    {
+        "assessment": 60,
+        "examination": 40,
+        "faculty": "Arts",
+        "s1": false,
+        "s2": true,
+        "unit_code": "ATS2875",
+        "unit_name": "The moral psychology of evil"
+    },
+    {
+        "assessment": 100,
+        "examination": 0,
+        "faculty": "Arts",
+        "s1": false,
+        "s2": true,
+        "unit_code": "ATS2890",
+        "unit_name": "Script development 1"
+    },
+    {
+        "assessment": 100,
+        "examination": 0,
+        "faculty": "Arts",
+        "s1": false,
+        "s2": true,
+        "unit_code": "ATS2900",
+        "unit_name": "Writing about music: Headlines and hashtags"
+    },
+    {
+        "assessment": 100,
+        "examination": 0,
+        "faculty": "Arts",
+        "s1": true,
+        "s2": false,
+        "unit_code": "ATS2901",
+        "unit_name": "Music theory and ear training 3"
+    },
+    {
+        "assessment": 100,
+        "examination": 0,
+        "faculty": "Arts",
+        "s1": false,
+        "s2": true,
+        "unit_code": "ATS2902",
+        "unit_name": "Music theory and ear training 4"
+    },
+    {
+        "assessment": 100,
+        "examination": 0,
+        "faculty": "Arts",
+        "s1": false,
+        "s2": false,
+        "unit_code": "ATS2910",
+        "unit_name": "Professional and academic presentation skills"
+    },
+    {
+        "assessment": 100,
+        "examination": 0,
+        "faculty": "Arts",
+        "s1": true,
+        "s2": false,
+        "unit_code": "ATS2913",
+        "unit_name": "Greek tragedy: Performance and reception"
+    },
+    {
+        "assessment": 100,
+        "examination": 0,
+        "faculty": "Arts",
+        "s1": true,
+        "s2": false,
+        "unit_code": "ATS2914",
+        "unit_name": "The dark hero"
+    },
+    {
+        "assessment": 100,
+        "examination": 0,
+        "faculty": "Arts",
+        "s1": true,
+        "s2": false,
+        "unit_code": "ATS2924",
+        "unit_name": "Introduction to Ancient Egyptian language"
+    },
+    {
+        "assessment": 100,
+        "examination": 0,
+        "faculty": "Arts",
+        "s1": false,
+        "s2": false,
+        "unit_code": "ATS2931",
+        "unit_name": "Making history at the museum"
+    },
+    {
+        "assessment": 100,
+        "examination": 0,
+        "faculty": "Arts",
+        "s1": false,
+        "s2": true,
+        "unit_code": "ATS2932",
+        "unit_name": "Struggles for justice: The history of rebellion, resistance and revolt"
+    },
+    {
+        "assessment": 70,
+        "examination": 30,
+        "faculty": "Arts",
+        "s1": true,
+        "s2": false,
+        "unit_code": "ATS2941",
+        "unit_name": "Asia's underside: Violence, crime and protest"
+    },
+    {
+        "assessment": 75,
+        "examination": 25,
+        "faculty": "Arts",
+        "s1": true,
+        "s2": true,
+        "unit_code": "ATS2946",
+        "unit_name": "Critical thinking: How to analyse arguments and improve your reasoning skills"
+    },
+    {
+        "assessment": 60,
+        "examination": 40,
+        "faculty": "Arts",
+        "s1": false,
+        "s2": true,
+        "unit_code": "ATS2961",
+        "unit_name": "Political ideas"
+    },
+    {
+        "assessment": 100,
+        "examination": 0,
+        "faculty": "Arts",
+        "s1": true,
+        "s2": false,
+        "unit_code": "ATS2964",
+        "unit_name": "Screen theories"
+    },
+    {
+        "assessment": 50,
+        "examination": 50,
+        "faculty": "Engineering",
+        "s1": false,
+        "s2": true,
+        "unit_code": "CHE2161",
+        "unit_name": "Mechanics of fluids"
+    },
+    {
+        "assessment": 50,
+        "examination": 50,
+        "faculty": "Engineering",
+        "s1": false,
+        "s2": true,
+        "unit_code": "CHE2162",
+        "unit_name": "Material and energy balances"
+    },
+    {
+        "assessment": 50,
+        "examination": 50,
+        "faculty": "Engineering",
+        "s1": false,
+        "s2": true,
+        "unit_code": "CHE2163",
+        "unit_name": "Heat and mass transfer"
+    },
+    {
+        "assessment": 40,
+        "examination": 60,
+        "faculty": "Engineering",
+        "s1": true,
+        "s2": true,
+        "unit_code": "CHE2164",
+        "unit_name": "Thermodynamics I"
+    },
+    {
+        "assessment": 50,
+        "examination": 50,
+        "faculty": "Engineering",
+        "s1": false,
+        "s2": true,
+        "unit_code": "CHE2166",
+        "unit_name": "Introduction to process simulation"
+    },
+    {
+        "assessment": 50,
+        "examination": 50,
+        "faculty": "Engineering",
+        "s1": true,
+        "s2": false,
+        "unit_code": "CHE2167",
+        "unit_name": "Process material selection"
+    },
+    {
+        "assessment": 50,
+        "examination": 50,
+        "faculty": "Engineering",
+        "s1": true,
+        "s2": false,
+        "unit_code": "CIV2206",
+        "unit_name": "Structural mechanics"
+    },
+    {
+        "assessment": 50,
+        "examination": 50,
+        "faculty": "Engineering",
+        "s1": true,
+        "s2": false,
+        "unit_code": "CIV2225",
+        "unit_name": "Design of steel and timber structures"
+    },
+    {
+        "assessment": 50,
+        "examination": 50,
+        "faculty": "Engineering",
+        "s1": false,
+        "s2": true,
+        "unit_code": "CIV2242",
+        "unit_name": "Geomechanics 1"
+    },
+    {
+        "assessment": 40,
+        "examination": 60,
+        "faculty": "Engineering",
+        "s1": true,
+        "s2": false,
+        "unit_code": "CIV2263",
+        "unit_name": "Water systems"
+    },
+    {
+        "assessment": 60,
+        "examination": 40,
+        "faculty": "Engineering",
+        "s1": false,
+        "s2": true,
+        "unit_code": "CIV2282",
+        "unit_name": "Transport and traffic engineering"
+    },
+    {
+        "assessment": 100,
+        "examination": 0,
+        "faculty": "Engineering",
+        "s1": true,
+        "s2": false,
+        "unit_code": "CIV2283",
+        "unit_name": "Civil engineering construction"
+    },
+    {
+        "assessment": 40,
+        "examination": 60,
+        "faculty": "Engineering",
+        "s1": true,
+        "s2": false,
+        "unit_code": "ECE2071",
+        "unit_name": "Computer organisation and programming"
+    },
+    {
+        "assessment": 40,
+        "examination": 60,
+        "faculty": "Engineering",
+        "s1": false,
+        "s2": true,
+        "unit_code": "ECE2072",
+        "unit_name": "Digital systems"
+    },
+    {
+        "assessment": 40,
+        "examination": 60,
+        "faculty": "Engineering",
+        "s1": false,
+        "s2": true,
+        "unit_code": "ECE2111",
+        "unit_name": "Signals and systems"
+    },
+    {
+        "assessment": 40,
+        "examination": 60,
+        "faculty": "Engineering",
+        "s1": true,
+        "s2": false,
+        "unit_code": "ECE2131",
+        "unit_name": "Electrical circuits"
+    },
+    {
+        "assessment": 40,
+        "examination": 60,
+        "faculty": "Engineering",
+        "s1": false,
+        "s2": true,
+        "unit_code": "ECE2191",
+        "unit_name": "Probability models in engineering"
+    },
+    {
+        "assessment": 50,
+        "examination": 50,
+        "faculty": "Engineering",
+        "s1": true,
+        "s2": false,
+        "unit_code": "ENE1621",
+        "unit_name": "Environmental engineering"
+    },
+    {
+        "assessment": 60,
+        "examination": 40,
+        "faculty": "Engineering",
+        "s1": true,
+        "s2": false,
+        "unit_code": "ENE2021",
+        "unit_name": "Energy and the environment"
+    },
+    {
+        "assessment": 50,
+        "examination": 50,
+        "faculty": "Engineering",
+        "s1": false,
+        "s2": true,
+        "unit_code": "ENE2503",
+        "unit_name": "Materials properties and recycling"
+    },
+    {
+        "assessment": 60,
+        "examination": 40,
+        "faculty": "Engineering",
+        "s1": true,
+        "s2": true,
+        "unit_code": "ENG1001",
+        "unit_name": "Engineering design: Lighter, faster, stronger"
+    },
+    {
+        "assessment": 60,
+        "examination": 40,
+        "faculty": "Engineering",
+        "s1": true,
+        "s2": true,
+        "unit_code": "ENG1002",
+        "unit_name": "Engineering design: Cleaner, safer, smarter"
+    },
+    {
+        "assessment": 60,
+        "examination": 40,
+        "faculty": "Engineering",
+        "s1": true,
+        "s2": true,
+        "unit_code": "ENG1003",
+        "unit_name": "Engineering mobile apps"
+    },
+    {
+        "assessment": 40,
+        "examination": 60,
+        "faculty": "Engineering",
+        "s1": true,
+        "s2": true,
+        "unit_code": "ENG1005",
+        "unit_name": "Engineering mathematics"
+    },
+    {
+        "assessment": 45,
+        "examination": 55,
+        "faculty": "Engineering",
+        "s1": false,
+        "s2": true,
+        "unit_code": "ENG1021",
+        "unit_name": "Spatial communication in engineering"
+    },
+    {
+        "assessment": 50,
+        "examination": 50,
+        "faculty": "Engineering",
+        "s1": true,
+        "s2": true,
+        "unit_code": "ENG1051",
+        "unit_name": "Materials for energy and sustainability"
+    },
+    {
+        "assessment": 40,
+        "examination": 60,
+        "faculty": "Engineering",
+        "s1": true,
+        "s2": true,
+        "unit_code": "ENG1060",
+        "unit_name": "Computing for engineers"
+    },
+    {
+        "assessment": 40,
+        "examination": 60,
+        "faculty": "Engineering",
+        "s1": true,
+        "s2": false,
+        "unit_code": "ENG1090",
+        "unit_name": "Foundation mathematics"
+    },
+    {
+        "assessment": 40,
+        "examination": 60,
+        "faculty": "Engineering",
+        "s1": true,
+        "s2": true,
+        "unit_code": "ENG2005",
+        "unit_name": "Advanced engineering mathematics"
+    },
+    {
+        "assessment": 40,
+        "examination": 60,
+        "faculty": "Engineering",
+        "s1": true,
+        "s2": false,
+        "unit_code": "MAE2401",
+        "unit_name": "Aircraft structures 1"
+    },
+    {
+        "assessment": 40,
+        "examination": 60,
+        "faculty": "Engineering",
+        "s1": false,
+        "s2": true,
+        "unit_code": "MAE2402",
+        "unit_name": "Thermodynamics and heat transfer"
+    },
+    {
+        "assessment": 40,
+        "examination": 60,
+        "faculty": "Engineering",
+        "s1": false,
+        "s2": true,
+        "unit_code": "MAE2404",
+        "unit_name": "Aerodynamics 1"
+    },
+    {
+        "assessment": 40,
+        "examination": 60,
+        "faculty": "Engineering",
+        "s1": false,
+        "s2": true,
+        "unit_code": "MAE2405",
+        "unit_name": "Aircraft performance"
+    },
+    {
+        "assessment": 40,
+        "examination": 60,
+        "faculty": "Engineering",
+        "s1": true,
+        "s2": false,
+        "unit_code": "MAE2406",
+        "unit_name": "Orbital mechanics and spaceflight dynamics"
+    },
+    {
+        "assessment": 40,
+        "examination": 60,
+        "faculty": "Engineering",
+        "s1": true,
+        "s2": false,
+        "unit_code": "MEC2401",
+        "unit_name": "Dynamics 1"
+    },
+    {
+        "assessment": 70,
+        "examination": 30,
+        "faculty": "Engineering",
+        "s1": true,
+        "s2": false,
+        "unit_code": "MEC2402",
+        "unit_name": "Engineering design 1"
+    },
+    {
+        "assessment": 40,
+        "examination": 60,
+        "faculty": "Engineering",
+        "s1": true,
+        "s2": false,
+        "unit_code": "MEC2403",
+        "unit_name": "Mechanics of materials"
+    },
+    {
+        "assessment": 40,
+        "examination": 60,
+        "faculty": "Engineering",
+        "s1": true,
+        "s2": true,
+        "unit_code": "MEC2405",
+        "unit_name": "Thermodynamics"
+    },
+    {
+        "assessment": 40,
+        "examination": 60,
+        "faculty": "Engineering",
+        "s1": false,
+        "s2": true,
+        "unit_code": "MEC2407",
+        "unit_name": "Electromechanics"
+    },
+    {
+        "assessment": 50,
+        "examination": 50,
+        "faculty": "Engineering",
+        "s1": true,
+        "s2": false,
+        "unit_code": "MTE2541",
+        "unit_name": "Crystal structures, thermodynamics and phase equilibria"
+    },
+    {
+        "assessment": 50,
+        "examination": 50,
+        "faculty": "Engineering",
+        "s1": false,
+        "s2": true,
+        "unit_code": "MTE2542",
+        "unit_name": "Microstructural development"
+    },
+    {
+        "assessment": 50,
+        "examination": 50,
+        "faculty": "Engineering",
+        "s1": true,
+        "s2": false,
+        "unit_code": "MTE2544",
+        "unit_name": "Functional materials"
+    },
+    {
+        "assessment": 50,
+        "examination": 50,
+        "faculty": "Engineering",
+        "s1": false,
+        "s2": true,
+        "unit_code": "MTE2545",
+        "unit_name": "Polymers and ceramics 1"
+    },
+    {
+        "assessment": 50,
+        "examination": 50,
+        "faculty": "Engineering",
+        "s1": false,
+        "s2": true,
+        "unit_code": "MTE2548",
+        "unit_name": "Biomaterials 1"
+    },
+    {
+        "assessment": 50,
+        "examination": 50,
+        "faculty": "Engineering",
+        "s1": false,
+        "s2": true,
+        "unit_code": "RSE1010",
+        "unit_name": "Natural resources engineering"
+    },
+    {
+        "assessment": 50,
+        "examination": 50,
+        "faculty": "Engineering",
+        "s1": false,
+        "s2": true,
+        "unit_code": "RSE2010",
+        "unit_name": "Fixed plant engineering and project management"
+    },
+    {
+        "assessment": 60,
+        "examination": 40,
+        "faculty": "Engineering",
+        "s1": false,
+        "s2": true,
+        "unit_code": "TRC2001",
+        "unit_name": "Introduction to systems engineering"
+    },
+    {
+        "assessment": 40,
+        "examination": 60,
+        "faculty": "Engineering",
+        "s1": false,
+        "s2": true,
+        "unit_code": "TRC2201",
+        "unit_name": "Mechanics"
+    },
+    {
+        "assessment": 100,
+        "examination": 0,
+        "faculty": "Art, Design and Architecture",
+        "s1": true,
+        "s2": true,
+        "unit_code": "ADA1011",
+        "unit_name": "Interdisciplinary studies 1"
+    },
+    {
+        "assessment": 100,
+        "examination": 0,
+        "faculty": "Art, Design and Architecture",
+        "s1": true,
+        "s2": true,
+        "unit_code": "ADA1111",
+        "unit_name": "Design thinking"
+    },
+    {
+        "assessment": 100,
+        "examination": 0,
+        "faculty": "Art, Design and Architecture",
+        "s1": true,
+        "s2": true,
+        "unit_code": "ADA2001",
+        "unit_name": "Interdisciplinary studio 1"
+    },
+    {
+        "assessment": 100,
+        "examination": 0,
+        "faculty": "Art, Design and Architecture",
+        "s1": true,
+        "s2": true,
+        "unit_code": "ADA2011",
+        "unit_name": "Interdisciplinary studies 2"
+    },
+    {
+        "assessment": 100,
+        "examination": 0,
+        "faculty": "Art, Design and Architecture",
+        "s1": true,
+        "s2": false,
+        "unit_code": "AHT1101",
+        "unit_name": "Introduction to visual culture in art, design and architecture"
+    },
+    {
+        "assessment": 100,
+        "examination": 0,
+        "faculty": "Art, Design and Architecture",
+        "s1": false,
+        "s2": true,
+        "unit_code": "AHT1102",
+        "unit_name": "Modernism and the avant-garde"
+    },
+    {
+        "assessment": 100,
+        "examination": 0,
+        "faculty": "Art, Design and Architecture",
+        "s1": true,
+        "s2": false,
+        "unit_code": "AHT2001",
+        "unit_name": "Art writing and criticism"
+    },
+    {
+        "assessment": 100,
+        "examination": 0,
+        "faculty": "Art, Design and Architecture",
+        "s1": true,
+        "s2": false,
+        "unit_code": "AHT2011",
+        "unit_name": "Baroque to enlightenment: European art before modernism"
+    },
+    {
+        "assessment": 100,
+        "examination": 0,
+        "faculty": "Art, Design and Architecture",
+        "s1": true,
+        "s2": false,
+        "unit_code": "AHT2102",
+        "unit_name": "International art 1945-1990"
+    },
+    {
+        "assessment": 100,
+        "examination": 0,
+        "faculty": "Art, Design and Architecture",
+        "s1": false,
+        "s2": true,
+        "unit_code": "AHT2137",
+        "unit_name": "Art and the moving image"
+    },
+    {
+        "assessment": 100,
+        "examination": 0,
+        "faculty": "Art, Design and Architecture",
+        "s1": false,
+        "s2": true,
+        "unit_code": "AHT2138",
+        "unit_name": "Space, place and society"
+    },
+    {
+        "assessment": 100,
+        "examination": 0,
+        "faculty": "Art, Design and Architecture",
+        "s1": true,
+        "s2": false,
+        "unit_code": "AHT2301",
+        "unit_name": "Indigenous Australian art, practice and ways of knowing"
+    },
+    {
+        "assessment": 100,
+        "examination": 0,
+        "faculty": "Art, Design and Architecture",
+        "s1": false,
+        "s2": true,
+        "unit_code": "AHT2712",
+        "unit_name": "Curating: Histories and theories"
+    },
+    {
+        "assessment": 100,
+        "examination": 0,
+        "faculty": "Art, Design and Architecture",
+        "s1": true,
+        "s2": false,
+        "unit_code": "AHT2722",
+        "unit_name": "Curating: Practices"
+    },
+    {
+        "assessment": 100,
+        "examination": 0,
+        "faculty": "Art, Design and Architecture",
+        "s1": true,
+        "s2": false,
+        "unit_code": "ARC1001",
+        "unit_name": "Foundation studio 1"
+    },
+    {
+        "assessment": 100,
+        "examination": 0,
+        "faculty": "Art, Design and Architecture",
+        "s1": false,
+        "s2": true,
+        "unit_code": "ARC1002",
+        "unit_name": "Foundation studio 2"
+    },
+    {
+        "assessment": 100,
+        "examination": 0,
+        "faculty": "Art, Design and Architecture",
+        "s1": false,
+        "s2": true,
+        "unit_code": "ARC1102",
+        "unit_name": "Technologies and environments 1"
+    },
+    {
+        "assessment": 100,
+        "examination": 0,
+        "faculty": "Art, Design and Architecture",
+        "s1": true,
+        "s2": false,
+        "unit_code": "ARC1301",
+        "unit_name": "Architecture communications 1"
+    },
+    {
+        "assessment": 100,
+        "examination": 0,
+        "faculty": "Art, Design and Architecture",
+        "s1": true,
+        "s2": false,
+        "unit_code": "ARC2001",
+        "unit_name": "Architecture design studio 3"
+    },
+    {
+        "assessment": 100,
+        "examination": 0,
+        "faculty": "Art, Design and Architecture",
+        "s1": false,
+        "s2": true,
+        "unit_code": "ARC2002",
+        "unit_name": "Architecture design studio 4"
+    },
+    {
+        "assessment": 100,
+        "examination": 0,
+        "faculty": "Art, Design and Architecture",
+        "s1": true,
+        "s2": true,
+        "unit_code": "ARC2101",
+        "unit_name": "Technologies and environments 2"
+    },
+    {
+        "assessment": 100,
+        "examination": 0,
+        "faculty": "Art, Design and Architecture",
+        "s1": false,
+        "s2": true,
+        "unit_code": "ARC2301",
+        "unit_name": "Architecture communications 2"
+    },
+    {
+        "assessment": 100,
+        "examination": 0,
+        "faculty": "Art, Design and Architecture",
+        "s1": true,
+        "s2": false,
+        "unit_code": "ARC2401",
+        "unit_name": "Contemporary architecture"
+    },
+    {
+        "assessment": 100,
+        "examination": 0,
+        "faculty": "Art, Design and Architecture",
+        "s1": false,
+        "s2": true,
+        "unit_code": "ARC2402",
+        "unit_name": "19th and 20th century architecture"
+    },
+    {
+        "assessment": 100,
+        "examination": 0,
+        "faculty": "Art, Design and Architecture",
+        "s1": true,
+        "s2": false,
+        "unit_code": "CDS1001",
+        "unit_name": "Communication design studio 1"
+    },
+    {
+        "assessment": 100,
+        "examination": 0,
+        "faculty": "Art, Design and Architecture",
+        "s1": false,
+        "s2": true,
+        "unit_code": "CDS1002",
+        "unit_name": "Communication design studio 2"
+    },
+    {
+        "assessment": 100,
+        "examination": 0,
+        "faculty": "Art, Design and Architecture",
+        "s1": false,
+        "s2": true,
+        "unit_code": "CDS1511",
+        "unit_name": "Photographic art direction"
+    },
+    {
+        "assessment": 100,
+        "examination": 0,
+        "faculty": "Art, Design and Architecture",
+        "s1": true,
+        "s2": true,
+        "unit_code": "CDS1531",
+        "unit_name": "Illustration for narrative"
+    },
+    {
+        "assessment": 100,
+        "examination": 0,
+        "faculty": "Art, Design and Architecture",
+        "s1": true,
+        "s2": false,
+        "unit_code": "CDS2001",
+        "unit_name": "Communication design studio 3"
+    },
+    {
+        "assessment": 100,
+        "examination": 0,
+        "faculty": "Art, Design and Architecture",
+        "s1": false,
+        "s2": true,
+        "unit_code": "CDS2002",
+        "unit_name": "Communication design elective studio"
+    },
+    {
+        "assessment": 100,
+        "examination": 0,
+        "faculty": "Art, Design and Architecture",
+        "s1": true,
+        "s2": true,
+        "unit_code": "CDS2511",
+        "unit_name": "Branding for designers"
+    },
+    {
+        "assessment": 100,
+        "examination": 0,
+        "faculty": "Art, Design and Architecture",
+        "s1": true,
+        "s2": true,
+        "unit_code": "CDS2512",
+        "unit_name": "Packaging design"
+    },
+    {
+        "assessment": 100,
+        "examination": 0,
+        "faculty": "Art, Design and Architecture",
+        "s1": true,
+        "s2": true,
+        "unit_code": "CDS2521",
+        "unit_name": "Creative coding"
+    },
+    {
+        "assessment": 100,
+        "examination": 0,
+        "faculty": "Art, Design and Architecture",
+        "s1": false,
+        "s2": true,
+        "unit_code": "CDS2523",
+        "unit_name": "Creative visualisation"
+    },
+    {
+        "assessment": 100,
+        "examination": 0,
+        "faculty": "Art, Design and Architecture",
+        "s1": true,
+        "s2": true,
+        "unit_code": "CDS2524",
+        "unit_name": "Unconventional publishing"
+    },
+    {
+        "assessment": 100,
+        "examination": 0,
+        "faculty": "Art, Design and Architecture",
+        "s1": true,
+        "s2": true,
+        "unit_code": "CDS2531",
+        "unit_name": "Illustration for animation"
+    },
+    {
+        "assessment": 100,
+        "examination": 0,
+        "faculty": "Art, Design and Architecture",
+        "s1": true,
+        "s2": false,
+        "unit_code": "COL1001",
+        "unit_name": "Collaborative design studio 1"
+    },
+    {
+        "assessment": 100,
+        "examination": 0,
+        "faculty": "Art, Design and Architecture",
+        "s1": true,
+        "s2": false,
+        "unit_code": "DGN1001",
+        "unit_name": "Design studio 1"
+    },
+    {
+        "assessment": 100,
+        "examination": 0,
+        "faculty": "Art, Design and Architecture",
+        "s1": false,
+        "s2": true,
+        "unit_code": "DGN1104",
+        "unit_name": "Interdisciplinary design studio 2"
+    },
+    {
+        "assessment": 100,
+        "examination": 0,
+        "faculty": "Art, Design and Architecture",
+        "s1": true,
+        "s2": false,
+        "unit_code": "DGN2003",
+        "unit_name": "Interdisciplinary design studio 3"
+    },
+    {
+        "assessment": 100,
+        "examination": 0,
+        "faculty": "Art, Design and Architecture",
+        "s1": false,
+        "s2": true,
+        "unit_code": "DGN2004",
+        "unit_name": "Interdisciplinary design studio 4"
+    },
+    {
+        "assessment": 100,
+        "examination": 0,
+        "faculty": "Art, Design and Architecture",
+        "s1": true,
+        "s2": true,
+        "unit_code": "DIS1103",
+        "unit_name": "Digital processes for art and design 1"
+    },
+    {
+        "assessment": 100,
+        "examination": 0,
+        "faculty": "Art, Design and Architecture",
+        "s1": false,
+        "s2": true,
+        "unit_code": "DIS1704",
+        "unit_name": "Web design"
+    },
+    {
+        "assessment": 100,
+        "examination": 0,
+        "faculty": "Art, Design and Architecture",
+        "s1": false,
+        "s2": true,
+        "unit_code": "DIS1911",
+        "unit_name": "3D design and visualisation"
+    },
+    {
+        "assessment": 100,
+        "examination": 0,
+        "faculty": "Art, Design and Architecture",
+        "s1": true,
+        "s2": true,
+        "unit_code": "DIS2105",
+        "unit_name": "Digital imaging"
+    },
+    {
+        "assessment": 100,
+        "examination": 0,
+        "faculty": "Art, Design and Architecture",
+        "s1": true,
+        "s2": true,
+        "unit_code": "DIS2601",
+        "unit_name": "Digital audio/video"
+    },
+    {
+        "assessment": 100,
+        "examination": 0,
+        "faculty": "Art, Design and Architecture",
+        "s1": false,
+        "s2": true,
+        "unit_code": "DIS2904",
+        "unit_name": "3D modelling"
+    },
+    {
+        "assessment": 100,
+        "examination": 0,
+        "faculty": "Art, Design and Architecture",
+        "s1": true,
+        "s2": false,
+        "unit_code": "DIS2909",
+        "unit_name": "Electronic design"
+    },
+    {
+        "assessment": 100,
+        "examination": 0,
+        "faculty": "Art, Design and Architecture",
+        "s1": true,
+        "s2": false,
+        "unit_code": "DWG1201",
+        "unit_name": "Drawing 1"
+    },
+    {
+        "assessment": 100,
+        "examination": 0,
+        "faculty": "Art, Design and Architecture",
+        "s1": true,
+        "s2": false,
+        "unit_code": "DWG2501",
+        "unit_name": "Drawing:  Landscape, space and environment"
+    },
+    {
+        "assessment": 100,
+        "examination": 0,
+        "faculty": "Art, Design and Architecture",
+        "s1": true,
+        "s2": false,
+        "unit_code": "DWG2504",
+        "unit_name": "Drawing:  Advanced studies 1"
+    },
+    {
+        "assessment": 100,
+        "examination": 0,
+        "faculty": "Art, Design and Architecture",
+        "s1": false,
+        "s2": true,
+        "unit_code": "DWG2507",
+        "unit_name": "Drawing Conceptual studies 1"
+    },
+    {
+        "assessment": 100,
+        "examination": 0,
+        "faculty": "Art, Design and Architecture",
+        "s1": false,
+        "s2": true,
+        "unit_code": "DWG2508",
+        "unit_name": "Drawing Conceptual studies 2"
+    },
+    {
+        "assessment": 100,
+        "examination": 0,
+        "faculty": "Art, Design and Architecture",
+        "s1": false,
+        "s2": true,
+        "unit_code": "DWG2509",
+        "unit_name": "Drawing: The body 1"
+    },
+    {
+        "assessment": 100,
+        "examination": 0,
+        "faculty": "Art, Design and Architecture",
+        "s1": true,
+        "s2": false,
+        "unit_code": "DWG2511",
+        "unit_name": "Drawing: Anatomy 1"
+    },
+    {
+        "assessment": 100,
+        "examination": 0,
+        "faculty": "Art, Design and Architecture",
+        "s1": true,
+        "s2": false,
+        "unit_code": "FNA1111",
+        "unit_name": "Introduction to contemporary practices 1"
+    },
+    {
+        "assessment": 100,
+        "examination": 0,
+        "faculty": "Art, Design and Architecture",
+        "s1": false,
+        "s2": true,
+        "unit_code": "FNA1112",
+        "unit_name": "Introduction to contemporary practices 2"
+    },
+    {
+        "assessment": 100,
+        "examination": 0,
+        "faculty": "Art, Design and Architecture",
+        "s1": true,
+        "s2": false,
+        "unit_code": "FNA2003",
+        "unit_name": "3D digital modelling for artists"
+    },
+    {
+        "assessment": 100,
+        "examination": 0,
+        "faculty": "Art, Design and Architecture",
+        "s1": true,
+        "s2": false,
+        "unit_code": "FNA2111",
+        "unit_name": "Contemporary practices 3"
+    },
+    {
+        "assessment": 100,
+        "examination": 0,
+        "faculty": "Art, Design and Architecture",
+        "s1": false,
+        "s2": true,
+        "unit_code": "FNA2112",
+        "unit_name": "Contemporary practices 4"
+    },
+    {
+        "assessment": 100,
+        "examination": 0,
+        "faculty": "Art, Design and Architecture",
+        "s1": true,
+        "s2": true,
+        "unit_code": "FNA2903",
+        "unit_name": "Art and design in film"
+    },
+    {
+        "assessment": 100,
+        "examination": 0,
+        "faculty": "Art, Design and Architecture",
+        "s1": true,
+        "s2": false,
+        "unit_code": "GLS1211",
+        "unit_name": "Contemporary glass practices"
+    },
+    {
+        "assessment": 100,
+        "examination": 0,
+        "faculty": "Art, Design and Architecture",
+        "s1": false,
+        "s2": true,
+        "unit_code": "GLS2213",
+        "unit_name": "Contemporary glass sculpture"
+    },
+    {
+        "assessment": 100,
+        "examination": 0,
+        "faculty": "Art, Design and Architecture",
+        "s1": true,
+        "s2": false,
+        "unit_code": "GLS2223",
+        "unit_name": "Contemporary blown and sculpted glass"
+    },
+    {
+        "assessment": 100,
+        "examination": 0,
+        "faculty": "Art, Design and Architecture",
+        "s1": true,
+        "s2": false,
+        "unit_code": "IAR1113",
+        "unit_name": "Interior architecture studio 1"
+    },
+    {
+        "assessment": 100,
+        "examination": 0,
+        "faculty": "Art, Design and Architecture",
+        "s1": false,
+        "s2": true,
+        "unit_code": "IAR1114",
+        "unit_name": "Interior architecture studio 2"
+    },
+    {
+        "assessment": 100,
+        "examination": 0,
+        "faculty": "Art, Design and Architecture",
+        "s1": false,
+        "s2": true,
+        "unit_code": "IAR1411",
+        "unit_name": "Communication and media"
+    },
+    {
+        "assessment": 100,
+        "examination": 0,
+        "faculty": "Art, Design and Architecture",
+        "s1": false,
+        "s2": true,
+        "unit_code": "IAR1602",
+        "unit_name": "Constructions and environments 1"
+    },
+    {
+        "assessment": 100,
+        "examination": 0,
+        "faculty": "Art, Design and Architecture",
+        "s1": true,
+        "s2": false,
+        "unit_code": "IAR2115",
+        "unit_name": "Interior architecture studio 3"
+    },
+    {
+        "assessment": 100,
+        "examination": 0,
+        "faculty": "Art, Design and Architecture",
+        "s1": false,
+        "s2": true,
+        "unit_code": "IAR2116",
+        "unit_name": "Interior architecture studio 4"
+    },
+    {
+        "assessment": 100,
+        "examination": 0,
+        "faculty": "Art, Design and Architecture",
+        "s1": true,
+        "s2": true,
+        "unit_code": "IAR2411",
+        "unit_name": "Contemporary interior architecture"
+    },
+    {
+        "assessment": 100,
+        "examination": 0,
+        "faculty": "Art, Design and Architecture",
+        "s1": true,
+        "s2": false,
+        "unit_code": "IAR2601",
+        "unit_name": "Constructions and environments 2"
+    },
+    {
+        "assessment": 100,
+        "examination": 0,
+        "faculty": "Art, Design and Architecture",
+        "s1": false,
+        "s2": true,
+        "unit_code": "IAR2602",
+        "unit_name": "Constructions and environments 3"
+    },
+    {
+        "assessment": 100,
+        "examination": 0,
+        "faculty": "Art, Design and Architecture",
+        "s1": true,
+        "s2": true,
+        "unit_code": "IDE1502",
+        "unit_name": "Modelmaking and workshop practice"
+    },
+    {
+        "assessment": 100,
+        "examination": 0,
+        "faculty": "Art, Design and Architecture",
+        "s1": true,
+        "s2": true,
+        "unit_code": "IDE1602",
+        "unit_name": "Product drawing"
+    },
+    {
+        "assessment": 100,
+        "examination": 0,
+        "faculty": "Art, Design and Architecture",
+        "s1": true,
+        "s2": false,
+        "unit_code": "IDE2113",
+        "unit_name": "Industrial design studio 3"
+    },
+    {
+        "assessment": 100,
+        "examination": 0,
+        "faculty": "Art, Design and Architecture",
+        "s1": false,
+        "s2": true,
+        "unit_code": "IDE2114",
+        "unit_name": "Industrial design studio 4"
+    },
+    {
+        "assessment": 100,
+        "examination": 0,
+        "faculty": "Art, Design and Architecture",
+        "s1": false,
+        "s2": true,
+        "unit_code": "IDE2120",
+        "unit_name": "Designing for sustainability"
+    },
+    {
+        "assessment": 100,
+        "examination": 0,
+        "faculty": "Art, Design and Architecture",
+        "s1": true,
+        "s2": true,
+        "unit_code": "IDE2211",
+        "unit_name": "Engineering drawing"
+    },
+    {
+        "assessment": 100,
+        "examination": 0,
+        "faculty": "Art, Design and Architecture",
+        "s1": true,
+        "s2": true,
+        "unit_code": "IDE2810",
+        "unit_name": "Furniture 1"
+    },
+    {
+        "assessment": 100,
+        "examination": 0,
+        "faculty": "Art, Design and Architecture",
+        "s1": false,
+        "s2": true,
+        "unit_code": "IDE2811",
+        "unit_name": "Mechanics and electronics for industrial design"
+    },
+    {
+        "assessment": 100,
+        "examination": 0,
+        "faculty": "Art, Design and Architecture",
+        "s1": true,
+        "s2": false,
+        "unit_code": "IDN1001",
+        "unit_name": "Industrial design studio 1"
+    },
+    {
+        "assessment": 100,
+        "examination": 0,
+        "faculty": "Art, Design and Architecture",
+        "s1": false,
+        "s2": true,
+        "unit_code": "IDN1002",
+        "unit_name": "Industrial design studio 2"
+    },
+    {
+        "assessment": 100,
+        "examination": 0,
+        "faculty": "Art, Design and Architecture",
+        "s1": true,
+        "s2": true,
+        "unit_code": "IDN2101",
+        "unit_name": "Concept art for design"
+    },
+    {
+        "assessment": 100,
+        "examination": 0,
+        "faculty": "Art, Design and Architecture",
+        "s1": true,
+        "s2": true,
+        "unit_code": "IDN2102",
+        "unit_name": "Service design studio"
+    },
+    {
+        "assessment": 100,
+        "examination": 0,
+        "faculty": "Art, Design and Architecture",
+        "s1": true,
+        "s2": false,
+        "unit_code": "JWL1311",
+        "unit_name": "Contemporary jewellery practice 1"
+    },
+    {
+        "assessment": 100,
+        "examination": 0,
+        "faculty": "Art, Design and Architecture",
+        "s1": false,
+        "s2": true,
+        "unit_code": "JWL1312",
+        "unit_name": "Contemporary jewellery practice 2"
+    },
+    {
+        "assessment": 100,
+        "examination": 0,
+        "faculty": "Art, Design and Architecture",
+        "s1": true,
+        "s2": false,
+        "unit_code": "JWL2313",
+        "unit_name": "Contemporary jewellery practice 3"
+    },
+    {
+        "assessment": 100,
+        "examination": 0,
+        "faculty": "Art, Design and Architecture",
+        "s1": false,
+        "s2": true,
+        "unit_code": "JWL2314",
+        "unit_name": "Contemporary jewellery practice 4"
+    },
+    {
+        "assessment": 100,
+        "examination": 0,
+        "faculty": "Art, Design and Architecture",
+        "s1": true,
+        "s2": true,
+        "unit_code": "OHS1000",
+        "unit_name": "Introduction to art and design health and safety"
+    },
+    {
+        "assessment": 100,
+        "examination": 0,
+        "faculty": "Art, Design and Architecture",
+        "s1": true,
+        "s2": true,
+        "unit_code": "PHO1203",
+        "unit_name": "Photography 1"
+    },
+    {
+        "assessment": 100,
+        "examination": 0,
+        "faculty": "Art, Design and Architecture",
+        "s1": false,
+        "s2": true,
+        "unit_code": "PHO1204",
+        "unit_name": "Digital imaging for contemporary art"
+    },
+    {
+        "assessment": 100,
+        "examination": 0,
+        "faculty": "Art, Design and Architecture",
+        "s1": true,
+        "s2": false,
+        "unit_code": "PHO2204",
+        "unit_name": "Video art and the moving image 1"
+    },
+    {
+        "assessment": 100,
+        "examination": 0,
+        "faculty": "Art, Design and Architecture",
+        "s1": true,
+        "s2": false,
+        "unit_code": "PHO2207",
+        "unit_name": "Photographic processes"
+    },
+    {
+        "assessment": 100,
+        "examination": 0,
+        "faculty": "Art, Design and Architecture",
+        "s1": false,
+        "s2": true,
+        "unit_code": "PHO2208",
+        "unit_name": "Photographic lighting studio"
+    },
+    {
+        "assessment": 100,
+        "examination": 0,
+        "faculty": "Art, Design and Architecture",
+        "s1": true,
+        "s2": false,
+        "unit_code": "PRM1001",
+        "unit_name": "The contemporary print: Etching and relief printmaking"
+    },
+    {
+        "assessment": 100,
+        "examination": 0,
+        "faculty": "Art, Design and Architecture",
+        "s1": false,
+        "s2": true,
+        "unit_code": "PRM1511",
+        "unit_name": "Artists' books"
+    },
+    {
+        "assessment": 100,
+        "examination": 0,
+        "faculty": "Art, Design and Architecture",
+        "s1": true,
+        "s2": true,
+        "unit_code": "PRM2401",
+        "unit_name": "Screenprinting and the contemporary poster"
+    },
+    {
+        "assessment": 100,
+        "examination": 0,
+        "faculty": "Art, Design and Architecture",
+        "s1": false,
+        "s2": true,
+        "unit_code": "PRM2512",
+        "unit_name": "Artists' books 2"
+    },
+    {
+        "assessment": 100,
+        "examination": 0,
+        "faculty": "Art, Design and Architecture",
+        "s1": true,
+        "s2": true,
+        "unit_code": "PTG1001",
+        "unit_name": "Painting introduction: materials and methods"
+    },
+    {
+        "assessment": 100,
+        "examination": 0,
+        "faculty": "Art, Design and Architecture",
+        "s1": true,
+        "s2": false,
+        "unit_code": "PTG2031",
+        "unit_name": "Abstraction and non-objective painting"
+    },
+    {
+        "assessment": 100,
+        "examination": 0,
+        "faculty": "Art, Design and Architecture",
+        "s1": false,
+        "s2": true,
+        "unit_code": "PTG2032",
+        "unit_name": "Painting: Installation and the expanded field"
+    },
+    {
+        "assessment": 100,
+        "examination": 0,
+        "faculty": "Art, Design and Architecture",
+        "s1": true,
+        "s2": true,
+        "unit_code": "PTG2033",
+        "unit_name": "Representational painting: Narrative and figuration"
+    },
+    {
+        "assessment": 100,
+        "examination": 0,
+        "faculty": "Art, Design and Architecture",
+        "s1": false,
+        "s2": true,
+        "unit_code": "PTG2034",
+        "unit_name": "Sound in the space of art"
+    },
+    {
+        "assessment": 100,
+        "examination": 0,
+        "faculty": "Art, Design and Architecture",
+        "s1": true,
+        "s2": false,
+        "unit_code": "PTG2035",
+        "unit_name": "Interventions: Feminist and conceptual practices"
+    },
+    {
+        "assessment": 100,
+        "examination": 0,
+        "faculty": "Art, Design and Architecture",
+        "s1": true,
+        "s2": false,
+        "unit_code": "SCU1021",
+        "unit_name": "Contemporary casting"
+    },
+    {
+        "assessment": 100,
+        "examination": 0,
+        "faculty": "Art, Design and Architecture",
+        "s1": true,
+        "s2": true,
+        "unit_code": "SCU1022",
+        "unit_name": "Sculptural construction: wood and metal working"
+    },
+    {
+        "assessment": 100,
+        "examination": 0,
+        "faculty": "Art, Design and Architecture",
+        "s1": false,
+        "s2": true,
+        "unit_code": "SCU2021",
+        "unit_name": "Advanced moulding and casting"
+    },
+    {
+        "assessment": 100,
+        "examination": 0,
+        "faculty": "Art, Design and Architecture",
+        "s1": false,
+        "s2": true,
+        "unit_code": "SDN1002",
+        "unit_name": "Spatial design studio 2"
+    },
+    {
+        "assessment": 100,
+        "examination": 0,
+        "faculty": "Art, Design and Architecture",
+        "s1": true,
+        "s2": false,
+        "unit_code": "SDN2001",
+        "unit_name": "Spatial design studio 3"
+    },
+    {
+        "assessment": 100,
+        "examination": 0,
+        "faculty": "Art, Design and Architecture",
+        "s1": true,
+        "s2": true,
+        "unit_code": "TAD2214",
+        "unit_name": "Critical issues in design"
+    },
+    {
+        "assessment": 100,
+        "examination": 0,
+        "faculty": "Art, Design and Architecture",
+        "s1": false,
+        "s2": true,
+        "unit_code": "TDN1002",
+        "unit_name": "Design and the avant-garde"
+    },
+    {
+        "assessment": 100,
+        "examination": 0,
+        "faculty": "Art, Design and Architecture",
+        "s1": true,
+        "s2": false,
+        "unit_code": "TDN2001",
+        "unit_name": "Sociologies of design"
+    },
+    {
+        "assessment": 100,
+        "examination": 0,
+        "faculty": "Art, Design and Architecture",
+        "s1": false,
+        "s2": true,
+        "unit_code": "TDN2002",
+        "unit_name": "Communication design theory"
+    },
+    {
+        "assessment": 100,
+        "examination": 0,
+        "faculty": "Art, Design and Architecture",
+        "s1": true,
+        "s2": true,
+        "unit_code": "TDN2704",
+        "unit_name": "Home and away: design and the city"
+    },
+    {
+        "assessment": 100,
+        "examination": 0,
+        "faculty": "Art, Design and Architecture",
+        "s1": false,
+        "s2": true,
+        "unit_code": "VCO1203",
+        "unit_name": "Introduction to contemporary illustration"
+    },
+    {
+        "assessment": 100,
+        "examination": 0,
+        "faculty": "Art, Design and Architecture",
+        "s1": false,
+        "s2": true,
+        "unit_code": "VCO1302",
+        "unit_name": "Typography 1"
+    },
+    {
+        "assessment": 100,
+        "examination": 0,
+        "faculty": "Art, Design and Architecture",
+        "s1": false,
+        "s2": true,
+        "unit_code": "VCO1303",
+        "unit_name": "The language of graphic design"
+    },
+    {
+        "assessment": 100,
+        "examination": 0,
+        "faculty": "Art, Design and Architecture",
+        "s1": false,
+        "s2": true,
+        "unit_code": "VCO2204",
+        "unit_name": "Illustration as design"
+    },
+    {
+        "assessment": 100,
+        "examination": 0,
+        "faculty": "Art, Design and Architecture",
+        "s1": true,
+        "s2": false,
+        "unit_code": "VCO2304",
+        "unit_name": "Typography 2"
+    },
+    {
+        "assessment": 100,
+        "examination": 0,
+        "faculty": "Art, Design and Architecture",
+        "s1": false,
+        "s2": true,
+        "unit_code": "VCO2402",
+        "unit_name": "Advertising design 1"
+    },
+    {
+        "assessment": 100,
+        "examination": 0,
+        "faculty": "Art, Design and Architecture",
+        "s1": true,
+        "s2": false,
+        "unit_code": "VPR1011",
+        "unit_name": "Visual practices 1"
+    },
+    {
+        "assessment": 100,
+        "examination": 0,
+        "faculty": "Art, Design and Architecture",
+        "s1": false,
+        "s2": true,
+        "unit_code": "VPR1012",
+        "unit_name": "Visual practices 2"
+    },
+    {
+        "assessment": 100,
+        "examination": 0,
+        "faculty": "Art, Design and Architecture",
+        "s1": false,
+        "s2": true,
+        "unit_code": "VPR1113",
+        "unit_name": "Research practices"
+    },
+    {
+        "assessment": 100,
+        "examination": 0,
+        "faculty": "Art, Design and Architecture",
+        "s1": true,
+        "s2": false,
+        "unit_code": "VPR2011",
+        "unit_name": "Research practices advanced"
+    },
+    {
+        "assessment": 100,
+        "examination": 0,
+        "faculty": "Art, Design and Architecture",
+        "s1": false,
+        "s2": true,
+        "unit_code": "VPR2012",
+        "unit_name": "Professional practice"
+    },
+    {
+        "assessment": 50,
+        "examination": 50,
+        "faculty": "Business and Economics",
+        "s1": true,
+        "s2": true,
+        "unit_code": "ACC1100",
+        "unit_name": "Introduction to financial accounting"
+    },
+    {
+        "assessment": 50,
+        "examination": 50,
+        "faculty": "Business and Economics",
+        "s1": true,
+        "s2": true,
+        "unit_code": "ACC1200",
+        "unit_name": "Accounting for managers"
+    },
+    {
+        "assessment": 50,
+        "examination": 50,
+        "faculty": "Business and Economics",
+        "s1": true,
+        "s2": true,
+        "unit_code": "ACC2100",
+        "unit_name": "Financial accounting"
+    },
+    {
+        "assessment": 50,
+        "examination": 50,
+        "faculty": "Business and Economics",
+        "s1": true,
+        "s2": true,
+        "unit_code": "ACC2200",
+        "unit_name": "Introduction to management accounting"
+    },
+    {
+        "assessment": 50,
+        "examination": 50,
+        "faculty": "Business and Economics",
+        "s1": true,
+        "s2": true,
+        "unit_code": "ACC2400",
+        "unit_name": "Accounting information systems"
+    },
+    {
+        "assessment": 50,
+        "examination": 50,
+        "faculty": "Business and Economics",
+        "s1": false,
+        "s2": true,
+        "unit_code": "ACX2900",
+        "unit_name": "Accounting for sustainability"
+    },
+    {
+        "assessment": 40,
+        "examination": 60,
+        "faculty": "Business and Economics",
+        "s1": true,
+        "s2": false,
+        "unit_code": "BEX2440",
+        "unit_name": "Mathematics for economics and business"
+    },
+    {
+        "assessment": 40,
+        "examination": 60,
+        "faculty": "Business and Economics",
+        "s1": false,
+        "s2": true,
+        "unit_code": "BEX2520",
+        "unit_name": "Probability and statistical inference for economics and business"
+    },
+    {
+        "assessment": 50,
+        "examination": 50,
+        "faculty": "Business and Economics",
+        "s1": true,
+        "s2": true,
+        "unit_code": "BFC2140",
+        "unit_name": "Corporate finance 1"
+    },
+    {
+        "assessment": 40,
+        "examination": 60,
+        "faculty": "Business and Economics",
+        "s1": true,
+        "s2": true,
+        "unit_code": "BFC2340",
+        "unit_name": "Debt markets and fixed income securities"
+    },
+    {
+        "assessment": 50,
+        "examination": 50,
+        "faculty": "Business and Economics",
+        "s1": true,
+        "s2": true,
+        "unit_code": "BFC2751",
+        "unit_name": "Derivatives 1"
+    },
+    {
+        "assessment": 50,
+        "examination": 50,
+        "faculty": "Business and Economics",
+        "s1": true,
+        "s2": true,
+        "unit_code": "BFF1001",
+        "unit_name": "Foundations of finance"
+    },
+    {
+        "assessment": 40,
+        "examination": 60,
+        "faculty": "Business and Economics",
+        "s1": true,
+        "s2": true,
+        "unit_code": "BFF2401",
+        "unit_name": "Commercial banking and finance"
+    },
+    {
+        "assessment": 40,
+        "examination": 60,
+        "faculty": "Business and Economics",
+        "s1": true,
+        "s2": true,
+        "unit_code": "BFF2701",
+        "unit_name": "Equity markets"
+    },
+    {
+        "assessment": 40,
+        "examination": 60,
+        "faculty": "Business and Economics",
+        "s1": true,
+        "s2": true,
+        "unit_code": "BTC1110",
+        "unit_name": "Commercial law"
+    },
+    {
+        "assessment": 50,
+        "examination": 50,
+        "faculty": "Business and Economics",
+        "s1": true,
+        "s2": true,
+        "unit_code": "BTC2000",
+        "unit_name": "Australian company law"
+    },
+    {
+        "assessment": 40,
+        "examination": 60,
+        "faculty": "Business and Economics",
+        "s1": true,
+        "s2": true,
+        "unit_code": "BTF1010",
+        "unit_name": "Business law"
+    },
+    {
+        "assessment": 50,
+        "examination": 50,
+        "faculty": "Business and Economics",
+        "s1": true,
+        "s2": true,
+        "unit_code": "BTF2000",
+        "unit_name": "Australian corporations law"
+    },
+    {
+        "assessment": 50,
+        "examination": 50,
+        "faculty": "Business and Economics",
+        "s1": false,
+        "s2": true,
+        "unit_code": "BTF2223",
+        "unit_name": "Corporate crime"
+    },
+    {
+        "assessment": 40,
+        "examination": 60,
+        "faculty": "Business and Economics",
+        "s1": false,
+        "s2": true,
+        "unit_code": "BTF2601",
+        "unit_name": "Banking law"
+    },
+    {
+        "assessment": 40,
+        "examination": 60,
+        "faculty": "Business and Economics",
+        "s1": true,
+        "s2": true,
+        "unit_code": "ECC1000",
+        "unit_name": "Principles of microeconomics"
+    },
+    {
+        "assessment": 40,
+        "examination": 60,
+        "faculty": "Business and Economics",
+        "s1": true,
+        "s2": true,
+        "unit_code": "ECC1100",
+        "unit_name": "Principles of macroeconomics"
+    },
+    {
+        "assessment": 40,
+        "examination": 60,
+        "faculty": "Business and Economics",
+        "s1": true,
+        "s2": true,
+        "unit_code": "ECC2000",
+        "unit_name": "Intermediate microeconomics"
+    },
+    {
+        "assessment": 40,
+        "examination": 60,
+        "faculty": "Business and Economics",
+        "s1": true,
+        "s2": true,
+        "unit_code": "ECC2010",
+        "unit_name": "Intermediate macroeconomics"
+    },
+    {
+        "assessment": 40,
+        "examination": 60,
+        "faculty": "Business and Economics",
+        "s1": false,
+        "s2": true,
+        "unit_code": "ECC2300",
+        "unit_name": "Current issues in macroeconomic policy"
+    },
+    {
+        "assessment": 50,
+        "examination": 50,
+        "faculty": "Business and Economics",
+        "s1": false,
+        "s2": true,
+        "unit_code": "ECC2360",
+        "unit_name": "Environmental economics"
+    },
+    {
+        "assessment": 50,
+        "examination": 50,
+        "faculty": "Business and Economics",
+        "s1": true,
+        "s2": false,
+        "unit_code": "ECC2400",
+        "unit_name": "Current issues in applied microeconomics"
+    },
+    {
+        "assessment": 60,
+        "examination": 40,
+        "faculty": "Business and Economics",
+        "s1": true,
+        "s2": false,
+        "unit_code": "ECC2450",
+        "unit_name": "Sports economics"
+    },
+    {
+        "assessment": 50,
+        "examination": 50,
+        "faculty": "Business and Economics",
+        "s1": false,
+        "s2": true,
+        "unit_code": "ECC2600",
+        "unit_name": "Behavioural economics"
+    },
+    {
+        "assessment": 40,
+        "examination": 60,
+        "faculty": "Business and Economics",
+        "s1": false,
+        "s2": true,
+        "unit_code": "ECC2610",
+        "unit_name": "Game theory and strategic thinking"
+    },
+    {
+        "assessment": 50,
+        "examination": 50,
+        "faculty": "Business and Economics",
+        "s1": true,
+        "s2": false,
+        "unit_code": "ECC2800",
+        "unit_name": "Prosperity, poverty and sustainability in a globalised world"
+    },
+    {
+        "assessment": 50,
+        "examination": 50,
+        "faculty": "Business and Economics",
+        "s1": true,
+        "s2": true,
+        "unit_code": "ECF1100",
+        "unit_name": "Microeconomics"
+    },
+    {
+        "assessment": 40,
+        "examination": 60,
+        "faculty": "Business and Economics",
+        "s1": true,
+        "s2": true,
+        "unit_code": "ECF1200",
+        "unit_name": "Macroeconomics"
+    },
+    {
+        "assessment": 40,
+        "examination": 60,
+        "faculty": "Business and Economics",
+        "s1": true,
+        "s2": false,
+        "unit_code": "ECF2331",
+        "unit_name": "Macroeconomic and monetary policy"
+    },
+    {
+        "assessment": 50,
+        "examination": 50,
+        "faculty": "Business and Economics",
+        "s1": false,
+        "s2": true,
+        "unit_code": "ECF2550",
+        "unit_name": "Business in Asia"
+    },
+    {
+        "assessment": 40,
+        "examination": 60,
+        "faculty": "Business and Economics",
+        "s1": true,
+        "s2": false,
+        "unit_code": "ECF2721",
+        "unit_name": "Trade finance and foreign exchange"
+    },
+    {
+        "assessment": 40,
+        "examination": 60,
+        "faculty": "Business and Economics",
+        "s1": true,
+        "s2": false,
+        "unit_code": "ECF2731",
+        "unit_name": "Managerial economics"
+    },
+    {
+        "assessment": 40,
+        "examination": 60,
+        "faculty": "Business and Economics",
+        "s1": true,
+        "s2": true,
+        "unit_code": "ETC1000",
+        "unit_name": "Business and economic statistics"
+    },
+    {
+        "assessment": 50,
+        "examination": 50,
+        "faculty": "Business and Economics",
+        "s1": true,
+        "s2": true,
+        "unit_code": "ETC1010",
+        "unit_name": "Data modelling and computing"
+    },
+    {
+        "assessment": 40,
+        "examination": 60,
+        "faculty": "Business and Economics",
+        "s1": true,
+        "s2": true,
+        "unit_code": "ETC2410",
+        "unit_name": "Introductory econometrics"
+    },
+    {
+        "assessment": 40,
+        "examination": 60,
+        "faculty": "Business and Economics",
+        "s1": false,
+        "s2": true,
+        "unit_code": "ETC2420",
+        "unit_name": "Statistical thinking"
+    },
+    {
+        "assessment": 40,
+        "examination": 60,
+        "faculty": "Business and Economics",
+        "s1": true,
+        "s2": false,
+        "unit_code": "ETC2430",
+        "unit_name": "Actuarial statistics"
+    },
+    {
+        "assessment": 50,
+        "examination": 50,
+        "faculty": "Business and Economics",
+        "s1": true,
+        "s2": true,
+        "unit_code": "ETF1100",
+        "unit_name": "Business statistics"
+    },
+    {
+        "assessment": 40,
+        "examination": 60,
+        "faculty": "Business and Economics",
+        "s1": true,
+        "s2": true,
+        "unit_code": "ETF2121",
+        "unit_name": "Data analysis in business"
+    },
+    {
+        "assessment": 40,
+        "examination": 60,
+        "faculty": "Business and Economics",
+        "s1": false,
+        "s2": true,
+        "unit_code": "ETF2480",
+        "unit_name": "Business modelling"
+    },
+    {
+        "assessment": 40,
+        "examination": 60,
+        "faculty": "Business and Economics",
+        "s1": true,
+        "s2": true,
+        "unit_code": "ETF2700",
+        "unit_name": "Mathematics for business"
+    },
+    {
+        "assessment": 50,
+        "examination": 50,
+        "faculty": "Business and Economics",
+        "s1": false,
+        "s2": true,
+        "unit_code": "ETX2250",
+        "unit_name": "Data visualisation and analytics"
+    },
+    {
+        "assessment": 100,
+        "examination": 0,
+        "faculty": "Business and Economics",
+        "s1": true,
+        "s2": true,
+        "unit_code": "MGC1010",
+        "unit_name": "Introduction to management"
+    },
+    {
+        "assessment": 70,
+        "examination": 30,
+        "faculty": "Business and Economics",
+        "s1": true,
+        "s2": true,
+        "unit_code": "MGC2021",
+        "unit_name": "Organisations and society"
+    },
+    {
+        "assessment": 50,
+        "examination": 50,
+        "faculty": "Business and Economics",
+        "s1": false,
+        "s2": true,
+        "unit_code": "MGC2120",
+        "unit_name": "Managing international business"
+    },
+    {
+        "assessment": 60,
+        "examination": 40,
+        "faculty": "Business and Economics",
+        "s1": true,
+        "s2": true,
+        "unit_code": "MGC2230",
+        "unit_name": "Organisational behaviour"
+    },
+    {
+        "assessment": 50,
+        "examination": 50,
+        "faculty": "Business and Economics",
+        "s1": false,
+        "s2": true,
+        "unit_code": "MGC2420",
+        "unit_name": "Employee relations"
+    },
+    {
+        "assessment": 60,
+        "examination": 40,
+        "faculty": "Business and Economics",
+        "s1": true,
+        "s2": false,
+        "unit_code": "MGC2430",
+        "unit_name": "Human resource management"
+    },
+    {
+        "assessment": 100,
+        "examination": 0,
+        "faculty": "Business and Economics",
+        "s1": true,
+        "s2": true,
+        "unit_code": "MGF1100",
+        "unit_name": "Managerial communication"
+    },
+    {
+        "assessment": 60,
+        "examination": 40,
+        "faculty": "Business and Economics",
+        "s1": true,
+        "s2": true,
+        "unit_code": "MGF2341",
+        "unit_name": "Managing employee relations"
+    },
+    {
+        "assessment": 100,
+        "examination": 0,
+        "faculty": "Business and Economics",
+        "s1": true,
+        "s2": true,
+        "unit_code": "MGF2351",
+        "unit_name": "International business"
+    },
+    {
+        "assessment": 60,
+        "examination": 40,
+        "faculty": "Business and Economics",
+        "s1": false,
+        "s2": true,
+        "unit_code": "MGF2656",
+        "unit_name": "HRM and managing global workforces"
+    },
+    {
+        "assessment": 50,
+        "examination": 50,
+        "faculty": "Business and Economics",
+        "s1": true,
+        "s2": true,
+        "unit_code": "MKC1200",
+        "unit_name": "Principles of marketing"
+    },
+    {
+        "assessment": 50,
+        "examination": 50,
+        "faculty": "Business and Economics",
+        "s1": true,
+        "s2": false,
+        "unit_code": "MKC2110",
+        "unit_name": "Buyer behaviour in marketing"
+    },
+    {
+        "assessment": 50,
+        "examination": 50,
+        "faculty": "Business and Economics",
+        "s1": false,
+        "s2": true,
+        "unit_code": "MKC2130",
+        "unit_name": "Marketing decision analysis"
+    },
+    {
+        "assessment": 50,
+        "examination": 50,
+        "faculty": "Business and Economics",
+        "s1": true,
+        "s2": false,
+        "unit_code": "MKC2500",
+        "unit_name": "Marketing research analysis"
+    },
+    {
+        "assessment": 50,
+        "examination": 50,
+        "faculty": "Business and Economics",
+        "s1": false,
+        "s2": true,
+        "unit_code": "MKC2610",
+        "unit_name": "Strategic retailing in the global market"
+    },
+    {
+        "assessment": 50,
+        "examination": 50,
+        "faculty": "Business and Economics",
+        "s1": true,
+        "s2": true,
+        "unit_code": "MKF1120",
+        "unit_name": "Marketing theory and practice"
+    },
+    {
+        "assessment": 50,
+        "examination": 50,
+        "faculty": "Business and Economics",
+        "s1": true,
+        "s2": true,
+        "unit_code": "MKF2111",
+        "unit_name": "Buyer behaviour"
+    },
+    {
+        "assessment": 50,
+        "examination": 50,
+        "faculty": "Business and Economics",
+        "s1": true,
+        "s2": true,
+        "unit_code": "MKF2121",
+        "unit_name": "Marketing research methods"
+    },
+    {
+        "assessment": 60,
+        "examination": 40,
+        "faculty": "Business and Economics",
+        "s1": false,
+        "s2": true,
+        "unit_code": "MKF2401",
+        "unit_name": "Marketing issues in packaging design"
+    },
+    {
+        "assessment": 50,
+        "examination": 50,
+        "faculty": "Business and Economics",
+        "s1": true,
+        "s2": true,
+        "unit_code": "MKF2521",
+        "unit_name": "Brand management"
+    },
+    {
+        "assessment": 55,
+        "examination": 45,
+        "faculty": "Business and Economics",
+        "s1": true,
+        "s2": false,
+        "unit_code": "MKF2540",
+        "unit_name": "Retail management principles"
+    },
+    {
+        "assessment": 100,
+        "examination": 0,
+        "faculty": "Business and Economics",
+        "s1": true,
+        "s2": true,
+        "unit_code": "MKF2801",
+        "unit_name": "Marketing insights"
+    },
+    {
+        "assessment": 60,
+        "examination": 40,
+        "faculty": "Business and Economics",
+        "s1": true,
+        "s2": false,
+        "unit_code": "MKX2531",
+        "unit_name": "Not for profit marketing"
+    },
+    {
+        "assessment": 100,
+        "examination": 0,
+        "faculty": "Education",
+        "s1": true,
+        "s2": false,
+        "unit_code": "EDF1010",
+        "unit_name": "Learning in a university context"
+    },
+    {
+        "assessment": 100,
+        "examination": 0,
+        "faculty": "Education",
+        "s1": false,
+        "s2": true,
+        "unit_code": "EDF1011",
+        "unit_name": "Knowledge and context"
+    },
+    {
+        "assessment": 100,
+        "examination": 0,
+        "faculty": "Education",
+        "s1": false,
+        "s2": true,
+        "unit_code": "EDF1012",
+        "unit_name": "Mathematics for tertiary study"
+    },
+    {
+        "assessment": 100,
+        "examination": 0,
+        "faculty": "Education",
+        "s1": false,
+        "s2": true,
+        "unit_code": "EDF1053",
+        "unit_name": "Primary professional experience 1A"
+    },
+    {
+        "assessment": 100,
+        "examination": 0,
+        "faculty": "Education",
+        "s1": false,
+        "s2": true,
+        "unit_code": "EDF1054",
+        "unit_name": "Primary professional experience 1B"
+    },
+    {
+        "assessment": 100,
+        "examination": 0,
+        "faculty": "Education",
+        "s1": false,
+        "s2": true,
+        "unit_code": "EDF1055",
+        "unit_name": "Secondary professional experience 1A"
+    },
+    {
+        "assessment": 100,
+        "examination": 0,
+        "faculty": "Education",
+        "s1": false,
+        "s2": true,
+        "unit_code": "EDF1056",
+        "unit_name": "Secondary professional experience 1B"
+    },
+    {
+        "assessment": 100,
+        "examination": 0,
+        "faculty": "Education",
+        "s1": true,
+        "s2": false,
+        "unit_code": "EDF1101",
+        "unit_name": "Fieldwork experience 1A"
+    },
+    {
+        "assessment": 100,
+        "examination": 0,
+        "faculty": "Education",
+        "s1": false,
+        "s2": true,
+        "unit_code": "EDF1102",
+        "unit_name": "Fieldwork experience 1B"
+    },
+    {
+        "assessment": 100,
+        "examination": 0,
+        "faculty": "Education",
+        "s1": false,
+        "s2": true,
+        "unit_code": "EDF1205",
+        "unit_name": "English education 1"
+    },
+    {
+        "assessment": 100,
+        "examination": 0,
+        "faculty": "Education",
+        "s1": true,
+        "s2": false,
+        "unit_code": "EDF1206",
+        "unit_name": "Mathematics education 1"
+    },
+    {
+        "assessment": 100,
+        "examination": 0,
+        "faculty": "Education",
+        "s1": true,
+        "s2": false,
+        "unit_code": "EDF1303",
+        "unit_name": "Understanding learning and learners"
+    },
+    {
+        "assessment": 100,
+        "examination": 0,
+        "faculty": "Education",
+        "s1": false,
+        "s2": true,
+        "unit_code": "EDF1304",
+        "unit_name": "Understanding teaching for learning"
+    },
+    {
+        "assessment": 100,
+        "examination": 0,
+        "faculty": "Education",
+        "s1": true,
+        "s2": false,
+        "unit_code": "EDF1551",
+        "unit_name": "Foundation to inclusive education"
+    },
+    {
+        "assessment": 100,
+        "examination": 0,
+        "faculty": "Education",
+        "s1": false,
+        "s2": true,
+        "unit_code": "EDF1552",
+        "unit_name": "Using assessment to respond to diversity across the school years"
+    },
+    {
+        "assessment": 100,
+        "examination": 0,
+        "faculty": "Education",
+        "s1": true,
+        "s2": false,
+        "unit_code": "EDF2005",
+        "unit_name": "Professional responsibilities, practice and relationships"
+    },
+    {
+        "assessment": 100,
+        "examination": 0,
+        "faculty": "Education",
+        "s1": true,
+        "s2": false,
+        "unit_code": "EDF2006",
+        "unit_name": "Education priorities"
+    },
+    {
+        "assessment": 100,
+        "examination": 0,
+        "faculty": "Education",
+        "s1": false,
+        "s2": true,
+        "unit_code": "EDF2007",
+        "unit_name": "Adolescent development and learning"
+    },
+    {
+        "assessment": 100,
+        "examination": 0,
+        "faculty": "Education",
+        "s1": false,
+        "s2": true,
+        "unit_code": "EDF2008",
+        "unit_name": "Becoming a specialist teacher"
+    },
+    {
+        "assessment": 100,
+        "examination": 0,
+        "faculty": "Education",
+        "s1": false,
+        "s2": true,
+        "unit_code": "EDF2020",
+        "unit_name": "English and literacies 1"
+    },
+    {
+        "assessment": 100,
+        "examination": 0,
+        "faculty": "Education",
+        "s1": true,
+        "s2": false,
+        "unit_code": "EDF2021",
+        "unit_name": "Mathematics and numeracy 1"
+    },
+    {
+        "assessment": 100,
+        "examination": 0,
+        "faculty": "Education",
+        "s1": false,
+        "s2": true,
+        "unit_code": "EDF2031",
+        "unit_name": "Indigenous perspectives on teaching and learning"
+    },
+    {
+        "assessment": 100,
+        "examination": 0,
+        "faculty": "Education",
+        "s1": true,
+        "s2": false,
+        "unit_code": "EDF2053",
+        "unit_name": "Primary professional experience 2A"
+    },
+    {
+        "assessment": 100,
+        "examination": 0,
+        "faculty": "Education",
+        "s1": true,
+        "s2": false,
+        "unit_code": "EDF2054",
+        "unit_name": "Primary professional experience 2B"
+    },
+    {
+        "assessment": 100,
+        "examination": 0,
+        "faculty": "Education",
+        "s1": false,
+        "s2": true,
+        "unit_code": "EDF2055",
+        "unit_name": "Secondary professional experience 2A"
+    },
+    {
+        "assessment": 100,
+        "examination": 0,
+        "faculty": "Education",
+        "s1": false,
+        "s2": true,
+        "unit_code": "EDF2056",
+        "unit_name": "Secondary professional experience 2B"
+    },
+    {
+        "assessment": 100,
+        "examination": 0,
+        "faculty": "Education",
+        "s1": true,
+        "s2": false,
+        "unit_code": "EDF2101",
+        "unit_name": "Professional experience 2A"
+    },
+    {
+        "assessment": 100,
+        "examination": 0,
+        "faculty": "Education",
+        "s1": false,
+        "s2": true,
+        "unit_code": "EDF2102",
+        "unit_name": "Professional experience 2B"
+    },
+    {
+        "assessment": 100,
+        "examination": 0,
+        "faculty": "Education",
+        "s1": true,
+        "s2": false,
+        "unit_code": "EDF2210",
+        "unit_name": "Fostering positive child and adolescent behaviour and development"
+    },
+    {
+        "assessment": 100,
+        "examination": 0,
+        "faculty": "Education",
+        "s1": true,
+        "s2": false,
+        "unit_code": "EDF2211",
+        "unit_name": "Classroom practice"
+    },
+    {
+        "assessment": 100,
+        "examination": 0,
+        "faculty": "Education",
+        "s1": true,
+        "s2": false,
+        "unit_code": "EDF2214",
+        "unit_name": "Science education"
+    },
+    {
+        "assessment": 100,
+        "examination": 0,
+        "faculty": "Education",
+        "s1": false,
+        "s2": true,
+        "unit_code": "EDF2215",
+        "unit_name": "Mathematics education 2"
+    },
+    {
+        "assessment": 100,
+        "examination": 0,
+        "faculty": "Education",
+        "s1": true,
+        "s2": false,
+        "unit_code": "EDF2551",
+        "unit_name": "Understanding behaviour in classrooms and schools"
+    },
+    {
+        "assessment": 100,
+        "examination": 0,
+        "faculty": "Education",
+        "s1": false,
+        "s2": true,
+        "unit_code": "EDF2552",
+        "unit_name": "Learning and teaching for students with diverse needs in various education settings"
+    },
+    {
+        "assessment": 55,
+        "examination": 45,
+        "faculty": "Law",
+        "s1": true,
+        "s2": true,
+        "unit_code": "LAW1111",
+        "unit_name": "Foundations of law"
+    },
+    {
+        "assessment": 70,
+        "examination": 30,
+        "faculty": "Law",
+        "s1": true,
+        "s2": true,
+        "unit_code": "LAW1112",
+        "unit_name": "Public law and statutory interpretation"
+    },
+    {
+        "assessment": 40,
+        "examination": 60,
+        "faculty": "Law",
+        "s1": true,
+        "s2": true,
+        "unit_code": "LAW1113",
+        "unit_name": "Torts"
+    },
+    {
+        "assessment": 50,
+        "examination": 50,
+        "faculty": "Law",
+        "s1": true,
+        "s2": true,
+        "unit_code": "LAW1114",
+        "unit_name": "Criminal law 1"
+    },
+    {
+        "assessment": 20,
+        "examination": 80,
+        "faculty": "Law",
+        "s1": true,
+        "s2": false,
+        "unit_code": "LAW2101",
+        "unit_name": "Contract A"
+    },
+    {
+        "assessment": 20,
+        "examination": 80,
+        "faculty": "Law",
+        "s1": false,
+        "s2": true,
+        "unit_code": "LAW2102",
+        "unit_name": "Contract B"
+    },
+    {
+        "assessment": 40,
+        "examination": 60,
+        "faculty": "Law",
+        "s1": true,
+        "s2": true,
+        "unit_code": "LAW2111",
+        "unit_name": "Constitutional law"
+    },
+    {
+        "assessment": 40,
+        "examination": 60,
+        "faculty": "Law",
+        "s1": true,
+        "s2": true,
+        "unit_code": "LAW2112",
+        "unit_name": "Property A"
+    },
+    {
+        "assessment": 60,
+        "examination": 40,
+        "faculty": "Medicine, Nursing and Health Sciences",
+        "s1": true,
+        "s2": false,
+        "unit_code": "BMA1011",
+        "unit_name": "Foundations of anatomy and physiology for health practice 1"
+    },
+    {
+        "assessment": 100,
+        "examination": 0,
+        "faculty": "Medicine, Nursing and Health Sciences",
+        "s1": false,
+        "s2": true,
+        "unit_code": "BME2032",
+        "unit_name": "Biomedical industry based learning"
+    },
+    {
+        "assessment": 40,
+        "examination": 60,
+        "faculty": "Medicine, Nursing and Health Sciences",
+        "s1": true,
+        "s2": false,
+        "unit_code": "BMS1011",
+        "unit_name": "Biomedical chemistry"
+    },
+    {
+        "assessment": 50,
+        "examination": 50,
+        "faculty": "Medicine, Nursing and Health Sciences",
+        "s1": true,
+        "s2": false,
+        "unit_code": "BMS1021",
+        "unit_name": "Cells, tissues and organisms"
+    },
+    {
+        "assessment": 50,
+        "examination": 50,
+        "faculty": "Medicine, Nursing and Health Sciences",
+        "s1": true,
+        "s2": false,
+        "unit_code": "BMS1031",
+        "unit_name": "Medical biophysics"
+    },
+    {
+        "assessment": 50,
+        "examination": 50,
+        "faculty": "Medicine, Nursing and Health Sciences",
+        "s1": false,
+        "s2": true,
+        "unit_code": "BMS1042",
+        "unit_name": "Public health and preventive medicine"
+    },
+    {
+        "assessment": 60,
+        "examination": 40,
+        "faculty": "Medicine, Nursing and Health Sciences",
+        "s1": false,
+        "s2": true,
+        "unit_code": "BMS1052",
+        "unit_name": "Human neurobiology"
+    },
+    {
+        "assessment": 40,
+        "examination": 60,
+        "faculty": "Medicine, Nursing and Health Sciences",
+        "s1": false,
+        "s2": true,
+        "unit_code": "BMS1062",
+        "unit_name": "Molecular biology"
+    },
+    {
+        "assessment": 60,
+        "examination": 40,
+        "faculty": "Medicine, Nursing and Health Sciences",
+        "s1": true,
+        "s2": false,
+        "unit_code": "BMS2011",
+        "unit_name": "Structure of the human body: An evolutionary and functional perspective"
+    },
+    {
+        "assessment": 45,
+        "examination": 55,
+        "faculty": "Medicine, Nursing and Health Sciences",
+        "s1": true,
+        "s2": false,
+        "unit_code": "BMS2021",
+        "unit_name": "Human molecular cell biology"
+    },
+    {
+        "assessment": 50,
+        "examination": 50,
+        "faculty": "Medicine, Nursing and Health Sciences",
+        "s1": true,
+        "s2": false,
+        "unit_code": "BMS2031",
+        "unit_name": "Body systems"
+    },
+    {
+        "assessment": 55,
+        "examination": 45,
+        "faculty": "Medicine, Nursing and Health Sciences",
+        "s1": false,
+        "s2": true,
+        "unit_code": "BMS2042",
+        "unit_name": "Human genetics"
+    },
+    {
+        "assessment": 90,
+        "examination": 10,
+        "faculty": "Medicine, Nursing and Health Sciences",
+        "s1": false,
+        "s2": true,
+        "unit_code": "BMS2052",
+        "unit_name": "Microbes in health and disease"
+    },
+    {
+        "assessment": 60,
+        "examination": 40,
+        "faculty": "Medicine, Nursing and Health Sciences",
+        "s1": false,
+        "s2": true,
+        "unit_code": "BMS2062",
+        "unit_name": "Introduction to bioinformatics"
+    },
+    {
+        "assessment": 55,
+        "examination": 45,
+        "faculty": "Medicine, Nursing and Health Sciences",
+        "s1": true,
+        "s2": false,
+        "unit_code": "HSC1100",
+        "unit_name": "Introduction to research and evidence"
+    },
+    {
+        "assessment": 55,
+        "examination": 45,
+        "faculty": "Medicine, Nursing and Health Sciences",
+        "s1": true,
+        "s2": false,
+        "unit_code": "HSC1200",
+        "unit_name": "Introduction to public health"
+    },
+    {
+        "assessment": 65,
+        "examination": 35,
+        "faculty": "Medicine, Nursing and Health Sciences",
+        "s1": false,
+        "s2": true,
+        "unit_code": "HSC1300",
+        "unit_name": "Human health and disease"
+    },
+    {
+        "assessment": 60,
+        "examination": 40,
+        "faculty": "Medicine, Nursing and Health Sciences",
+        "s1": false,
+        "s2": true,
+        "unit_code": "HSC1400",
+        "unit_name": "The Australian healthcare system"
+    },
+    {
+        "assessment": 60,
+        "examination": 40,
+        "faculty": "Medicine, Nursing and Health Sciences",
+        "s1": true,
+        "s2": false,
+        "unit_code": "HSC2100",
+        "unit_name": "Emerging challenges in health"
+    },
+    {
+        "assessment": 50,
+        "examination": 50,
+        "faculty": "Medicine, Nursing and Health Sciences",
+        "s1": true,
+        "s2": false,
+        "unit_code": "HSC2200",
+        "unit_name": "Health and the human lifespan"
+    },
+    {
+        "assessment": 60,
+        "examination": 40,
+        "faculty": "Medicine, Nursing and Health Sciences",
+        "s1": true,
+        "s2": false,
+        "unit_code": "HSC2300",
+        "unit_name": "Health promotion and disease prevention"
+    },
+    {
+        "assessment": 85,
+        "examination": 15,
+        "faculty": "Medicine, Nursing and Health Sciences",
+        "s1": true,
+        "s2": false,
+        "unit_code": "MED1011",
+        "unit_name": "Medicine 1"
+    },
+    {
+        "assessment": 85,
+        "examination": 15,
+        "faculty": "Medicine, Nursing and Health Sciences",
+        "s1": false,
+        "s2": true,
+        "unit_code": "MED1022",
+        "unit_name": "Medicine 2"
+    },
+    {
+        "assessment": 100,
+        "examination": 0,
+        "faculty": "Medicine, Nursing and Health Sciences",
+        "s1": false,
+        "s2": false,
+        "unit_code": "MED1100",
+        "unit_name": "Introduction to medical practice"
+    },
+    {
+        "assessment": 70,
+        "examination": 30,
+        "faculty": "Medicine, Nursing and Health Sciences",
+        "s1": false,
+        "s2": false,
+        "unit_code": "MED1200",
+        "unit_name": "Priniciples of medicine 1"
+    },
+    {
+        "assessment": 85,
+        "examination": 15,
+        "faculty": "Medicine, Nursing and Health Sciences",
+        "s1": true,
+        "s2": false,
+        "unit_code": "MED2031",
+        "unit_name": "Medicine 3"
+    },
+    {
+        "assessment": 85,
+        "examination": 15,
+        "faculty": "Medicine, Nursing and Health Sciences",
+        "s1": false,
+        "s2": true,
+        "unit_code": "MED2042",
+        "unit_name": "Medicine 4"
+    },
+    {
+        "assessment": 100,
+        "examination": 0,
+        "faculty": "Medicine, Nursing and Health Sciences",
+        "s1": false,
+        "s2": false,
+        "unit_code": "MED2100",
+        "unit_name": "Foundations of medical practice"
+    },
+    {
+        "assessment": 75,
+        "examination": 25,
+        "faculty": "Medicine, Nursing and Health Sciences",
+        "s1": false,
+        "s2": false,
+        "unit_code": "MED2200",
+        "unit_name": "Principles of medicine 2"
+    },
+    {
+        "assessment": 100,
+        "examination": 0,
+        "faculty": "Medicine, Nursing and Health Sciences",
+        "s1": true,
+        "s2": false,
+        "unit_code": "NUR1013",
+        "unit_name": "Indigenous health for nursing and midwifery practice"
+    },
+    {
+        "assessment": 100,
+        "examination": 0,
+        "faculty": "Medicine, Nursing and Health Sciences",
+        "s1": true,
+        "s2": false,
+        "unit_code": "NUR1110",
+        "unit_name": "Communication and scholarship in nursing and midwifery"
+    },
+    {
+        "assessment": 60,
+        "examination": 40,
+        "faculty": "Medicine, Nursing and Health Sciences",
+        "s1": true,
+        "s2": false,
+        "unit_code": "NUR1111",
+        "unit_name": "Global health and cultural competence in nursing and midwifery practice"
+    },
+    {
+        "assessment": 90,
+        "examination": 10,
+        "faculty": "Medicine, Nursing and Health Sciences",
+        "s1": true,
+        "s2": false,
+        "unit_code": "NUR1112",
+        "unit_name": "Fundamental skills and knowledge for nursing and midwifery practice 1"
+    },
+    {
+        "assessment": 60,
+        "examination": 40,
+        "faculty": "Medicine, Nursing and Health Sciences",
+        "s1": false,
+        "s2": true,
+        "unit_code": "NUR1113",
+        "unit_name": "Law, ethics and leadership in nursing and midwifery"
+    },
+    {
+        "assessment": 60,
+        "examination": 40,
+        "faculty": "Medicine, Nursing and Health Sciences",
+        "s1": false,
+        "s2": true,
+        "unit_code": "NUR1114",
+        "unit_name": "Fundamental skills and knowledge for nursing and midwifery practice 2"
+    },
+    {
+        "assessment": 55,
+        "examination": 45,
+        "faculty": "Medicine, Nursing and Health Sciences",
+        "s1": false,
+        "s2": true,
+        "unit_code": "NUR2005",
+        "unit_name": "Introduction to maternity and paediatric nursing"
+    },
+    {
+        "assessment": 45,
+        "examination": 55,
+        "faculty": "Medicine, Nursing and Health Sciences",
+        "s1": false,
+        "s2": true,
+        "unit_code": "NUR2207",
+        "unit_name": "Mental health clinical practice"
+    },
+    {
+        "assessment": 100,
+        "examination": 0,
+        "faculty": "Medicine, Nursing and Health Sciences",
+        "s1": true,
+        "s2": false,
+        "unit_code": "NUR2223",
+        "unit_name": "Safety in healthcare contexts"
+    },
+    {
+        "assessment": 60,
+        "examination": 40,
+        "faculty": "Medicine, Nursing and Health Sciences",
+        "s1": true,
+        "s2": false,
+        "unit_code": "NUR2225",
+        "unit_name": "Mental health nursing practice contexts"
+    },
+    {
+        "assessment": 70,
+        "examination": 30,
+        "faculty": "Medicine, Nursing and Health Sciences",
+        "s1": true,
+        "s2": false,
+        "unit_code": "NUR2226",
+        "unit_name": "Nursing practice contexts 1"
+    },
+    {
+        "assessment": 100,
+        "examination": 0,
+        "faculty": "Medicine, Nursing and Health Sciences",
+        "s1": false,
+        "s2": true,
+        "unit_code": "NUR2227",
+        "unit_name": "Primary health care and health promotion in nursing and midwifery contexts"
+    },
+    {
+        "assessment": 70,
+        "examination": 30,
+        "faculty": "Medicine, Nursing and Health Sciences",
+        "s1": false,
+        "s2": true,
+        "unit_code": "NUR2228",
+        "unit_name": "Nursing practice contexts 2"
+    },
+    {
+        "assessment": 50,
+        "examination": 50,
+        "faculty": "Medicine, Nursing and Health Sciences",
+        "s1": false,
+        "s2": true,
+        "unit_code": "NUR2229",
+        "unit_name": "Nursing practice contexts 3"
+    },
+    {
+        "assessment": 50,
+        "examination": 50,
+        "faculty": "Medicine, Nursing and Health Sciences",
+        "s1": false,
+        "s2": true,
+        "unit_code": "NUR2447",
+        "unit_name": "Clinical concepts"
+    },
+    {
+        "assessment": 100,
+        "examination": 0,
+        "faculty": "Medicine, Nursing and Health Sciences",
+        "s1": true,
+        "s2": false,
+        "unit_code": "NUT1001",
+        "unit_name": "Personal and professional perspectives in nutrition"
+    },
+    {
+        "assessment": 60,
+        "examination": 40,
+        "faculty": "Medicine, Nursing and Health Sciences",
+        "s1": false,
+        "s2": true,
+        "unit_code": "NUT1002",
+        "unit_name": "Evaluating the evidence: Nutrition and population health"
+    },
+    {
+        "assessment": 50,
+        "examination": 50,
+        "faculty": "Medicine, Nursing and Health Sciences",
+        "s1": true,
+        "s2": false,
+        "unit_code": "NUT1010",
+        "unit_name": "Human nutrition: An introduction to nutrients"
+    },
+    {
+        "assessment": 80,
+        "examination": 20,
+        "faculty": "Medicine, Nursing and Health Sciences",
+        "s1": true,
+        "s2": false,
+        "unit_code": "NUT1101",
+        "unit_name": "Science foundations"
+    },
+    {
+        "assessment": 50,
+        "examination": 50,
+        "faculty": "Medicine, Nursing and Health Sciences",
+        "s1": false,
+        "s2": true,
+        "unit_code": "NUT1102",
+        "unit_name": "Food science"
+    },
+    {
+        "assessment": 50,
+        "examination": 50,
+        "faculty": "Medicine, Nursing and Health Sciences",
+        "s1": false,
+        "s2": true,
+        "unit_code": "NUT1103",
+        "unit_name": "Human biology for nutrition"
+    },
+    {
+        "assessment": 60,
+        "examination": 40,
+        "faculty": "Medicine, Nursing and Health Sciences",
+        "s1": true,
+        "s2": false,
+        "unit_code": "NUT2001",
+        "unit_name": "Health across the lifespan"
+    },
+    {
+        "assessment": 100,
+        "examination": 0,
+        "faculty": "Medicine, Nursing and Health Sciences",
+        "s1": false,
+        "s2": true,
+        "unit_code": "NUT2002",
+        "unit_name": "Applied research methods in nutrition"
+    },
+    {
+        "assessment": 60,
+        "examination": 40,
+        "faculty": "Medicine, Nursing and Health Sciences",
+        "s1": true,
+        "s2": false,
+        "unit_code": "NUT2102",
+        "unit_name": "Food: Science, composition and skills"
+    },
+    {
+        "assessment": 80,
+        "examination": 20,
+        "faculty": "Medicine, Nursing and Health Sciences",
+        "s1": false,
+        "s2": true,
+        "unit_code": "NUT2103",
+        "unit_name": "Integrated science systems"
+    },
+    {
+        "assessment": 50,
+        "examination": 50,
+        "faculty": "Medicine, Nursing and Health Sciences",
+        "s1": false,
+        "s2": true,
+        "unit_code": "NUT2104",
+        "unit_name": "Nutritional biochemistry"
+    },
+    {
+        "assessment": 100,
+        "examination": 0,
+        "faculty": "Medicine, Nursing and Health Sciences",
+        "s1": true,
+        "s2": false,
+        "unit_code": "PBH1102",
+        "unit_name": "Introduction to communicating health"
+    },
+    {
+        "assessment": 100,
+        "examination": 0,
+        "faculty": "Medicine, Nursing and Health Sciences",
+        "s1": false,
+        "s2": true,
+        "unit_code": "PBH1104",
+        "unit_name": "Global health: Opportunities and challenges"
+    },
+    {
+        "assessment": 65,
+        "examination": 35,
+        "faculty": "Medicine, Nursing and Health Sciences",
+        "s1": false,
+        "s2": true,
+        "unit_code": "PBH2001",
+        "unit_name": "Foundations of epidemiology"
+    },
+    {
+        "assessment": 65,
+        "examination": 35,
+        "faculty": "Medicine, Nursing and Health Sciences",
+        "s1": false,
+        "s2": true,
+        "unit_code": "PBH2002",
+        "unit_name": "Foundations of biostatistics"
+    },
+    {
+        "assessment": 100,
+        "examination": 0,
+        "faculty": "Medicine, Nursing and Health Sciences",
+        "s1": true,
+        "s2": false,
+        "unit_code": "PBH2003",
+        "unit_name": "Culture, society and health"
+    },
+    {
+        "assessment": 100,
+        "examination": 0,
+        "faculty": "Medicine, Nursing and Health Sciences",
+        "s1": false,
+        "s2": true,
+        "unit_code": "PBH2004",
+        "unit_name": "Health, law and ethics"
+    },
+    {
+        "assessment": 100,
+        "examination": 0,
+        "faculty": "Medicine, Nursing and Health Sciences",
+        "s1": false,
+        "s2": true,
+        "unit_code": "PBH2005",
+        "unit_name": "Health program planning"
+    },
+    {
+        "assessment": 60,
+        "examination": 40,
+        "faculty": "Medicine, Nursing and Health Sciences",
+        "s1": false,
+        "s2": true,
+        "unit_code": "PBH2006",
+        "unit_name": "Treatment and technologies"
+    },
+    {
+        "assessment": 60,
+        "examination": 40,
+        "faculty": "Medicine, Nursing and Health Sciences",
+        "s1": false,
+        "s2": true,
+        "unit_code": "PBH2008",
+        "unit_name": "Introduction to health policy and politics"
+    },
+    {
+        "assessment": 50,
+        "examination": 50,
+        "faculty": "Medicine, Nursing and Health Sciences",
+        "s1": true,
+        "s2": false,
+        "unit_code": "PMH1011",
+        "unit_name": "Mental health in the community"
+    },
+    {
+        "assessment": 50,
+        "examination": 50,
+        "faculty": "Medicine, Nursing and Health Sciences",
+        "s1": true,
+        "s2": false,
+        "unit_code": "PSY1011",
+        "unit_name": "Psychology 1A"
+    },
+    {
+        "assessment": 50,
+        "examination": 50,
+        "faculty": "Medicine, Nursing and Health Sciences",
+        "s1": false,
+        "s2": true,
+        "unit_code": "PSY1022",
+        "unit_name": "Psychology 1B"
+    },
+    {
+        "assessment": 55,
+        "examination": 45,
+        "faculty": "Medicine, Nursing and Health Sciences",
+        "s1": true,
+        "s2": false,
+        "unit_code": "PSY2031",
+        "unit_name": "Developmental and biological psychology"
+    },
+    {
+        "assessment": 55,
+        "examination": 45,
+        "faculty": "Medicine, Nursing and Health Sciences",
+        "s1": false,
+        "s2": true,
+        "unit_code": "PSY2042",
+        "unit_name": "Personality and social psychology"
+    },
+    {
+        "assessment": 55,
+        "examination": 45,
+        "faculty": "Medicine, Nursing and Health Sciences",
+        "s1": true,
+        "s2": false,
+        "unit_code": "PSY2061",
+        "unit_name": "Biological psychology"
+    },
+    {
+        "assessment": 55,
+        "examination": 45,
+        "faculty": "Medicine, Nursing and Health Sciences",
+        "s1": true,
+        "s2": false,
+        "unit_code": "PSY2071",
+        "unit_name": "Developmental psychology"
+    },
+    {
+        "assessment": 65,
+        "examination": 35,
+        "faculty": "Medicine, Nursing and Health Sciences",
+        "s1": false,
+        "s2": true,
+        "unit_code": "RAD1012",
+        "unit_name": "Radiographic science and practice 2"
+    },
+    {
+        "assessment": 50,
+        "examination": 50,
+        "faculty": "Medicine, Nursing and Health Sciences",
+        "s1": true,
+        "s2": false,
+        "unit_code": "RAD1021",
+        "unit_name": "Radiologic physics and radiation protection"
+    },
+    {
+        "assessment": 70,
+        "examination": 30,
+        "faculty": "Medicine, Nursing and Health Sciences",
+        "s1": false,
+        "s2": true,
+        "unit_code": "RAD1022",
+        "unit_name": "Medical radiation science: Physical principles"
+    },
+    {
+        "assessment": 85,
+        "examination": 15,
+        "faculty": "Medicine, Nursing and Health Sciences",
+        "s1": true,
+        "s2": false,
+        "unit_code": "RAD1031",
+        "unit_name": "Radiologic biology 1"
+    },
+    {
+        "assessment": 50,
+        "examination": 50,
+        "faculty": "Medicine, Nursing and Health Sciences",
+        "s1": true,
+        "s2": false,
+        "unit_code": "RAD1061",
+        "unit_name": "Radiographic science and practice 1"
+    },
+    {
+        "assessment": 80,
+        "examination": 20,
+        "faculty": "Medicine, Nursing and Health Sciences",
+        "s1": false,
+        "s2": true,
+        "unit_code": "RAD1082",
+        "unit_name": "Radiologic biology 2"
+    },
+    {
+        "assessment": 85,
+        "examination": 15,
+        "faculty": "Medicine, Nursing and Health Sciences",
+        "s1": false,
+        "s2": true,
+        "unit_code": "RAD2001",
+        "unit_name": "Medical imaging science: Radiographic principles"
+    },
+    {
+        "assessment": 60,
+        "examination": 40,
+        "faculty": "Medicine, Nursing and Health Sciences",
+        "s1": true,
+        "s2": false,
+        "unit_code": "RAD2002",
+        "unit_name": "Medical imaging anatomy"
+    },
+    {
+        "assessment": 70,
+        "examination": 30,
+        "faculty": "Medicine, Nursing and Health Sciences",
+        "s1": false,
+        "s2": true,
+        "unit_code": "RAD2003",
+        "unit_name": "Medical imaging science: Nuclear medicine"
+    },
+    {
+        "assessment": 60,
+        "examination": 40,
+        "faculty": "Medicine, Nursing and Health Sciences",
+        "s1": true,
+        "s2": false,
+        "unit_code": "RAD2004",
+        "unit_name": "Pathophysiology for medical radiation science 1"
+    },
+    {
+        "assessment": 60,
+        "examination": 40,
+        "faculty": "Medicine, Nursing and Health Sciences",
+        "s1": true,
+        "s2": false,
+        "unit_code": "RAD2005",
+        "unit_name": "Medical radiation science: Professional skills 1"
+    },
+    {
+        "assessment": 60,
+        "examination": 40,
+        "faculty": "Medicine, Nursing and Health Sciences",
+        "s1": false,
+        "s2": true,
+        "unit_code": "RAD2006",
+        "unit_name": "Pathophysiology for medical radiation science 2"
+    },
+    {
+        "assessment": 60,
+        "examination": 40,
+        "faculty": "Medicine, Nursing and Health Sciences",
+        "s1": false,
+        "s2": true,
+        "unit_code": "RAD2007",
+        "unit_name": "Medical radiation science: Professional skills 2"
+    },
+    {
+        "assessment": 80,
+        "examination": 20,
+        "faculty": "Medicine, Nursing and Health Sciences",
+        "s1": false,
+        "s2": true,
+        "unit_code": "RAD2012",
+        "unit_name": "Radiographic science and practice 4"
+    },
+    {
+        "assessment": 75,
+        "examination": 25,
+        "faculty": "Medicine, Nursing and Health Sciences",
+        "s1": true,
+        "s2": false,
+        "unit_code": "RAD2051",
+        "unit_name": "Radiographic science and practice 3"
+    },
+    {
+        "assessment": 60,
+        "examination": 40,
+        "faculty": "Medicine, Nursing and Health Sciences",
+        "s1": true,
+        "s2": false,
+        "unit_code": "RAD2061",
+        "unit_name": "Radiologic biology 3"
+    },
+    {
+        "assessment": 55,
+        "examination": 45,
+        "faculty": "Medicine, Nursing and Health Sciences",
+        "s1": false,
+        "s2": true,
+        "unit_code": "RAD2092",
+        "unit_name": "Radiologic biology 4 and sectional anatomy"
+    },
+    {
+        "assessment": 55,
+        "examination": 45,
+        "faculty": "Medicine, Nursing and Health Sciences",
+        "s1": false,
+        "s2": true,
+        "unit_code": "RTS2001",
+        "unit_name": "Professional practice in radiation therapy"
+    },
+    {
+        "assessment": 60,
+        "examination": 40,
+        "faculty": "Medicine, Nursing and Health Sciences",
+        "s1": true,
+        "s2": false,
+        "unit_code": "RTS2101",
+        "unit_name": "Fundamentals of cancer and its management"
+    },
+    {
+        "assessment": 100,
+        "examination": 0,
+        "faculty": "Medicine, Nursing and Health Sciences",
+        "s1": false,
+        "s2": true,
+        "unit_code": "SWK2001",
+        "unit_name": "Introduction to the Australian welfare state"
+    },
+    {
+        "assessment": 100,
+        "examination": 0,
+        "faculty": "Medicine, Nursing and Health Sciences",
+        "s1": false,
+        "s2": true,
+        "unit_code": "SWK2140",
+        "unit_name": "Social welfare and practice with communities"
+    },
+    {
+        "assessment": 60,
+        "examination": 40,
+        "faculty": "Science",
+        "s1": true,
+        "s2": false,
+        "unit_code": "ASP1010",
+        "unit_name": "Earth to cosmos - introductory astronomy"
+    },
+    {
+        "assessment": 60,
+        "examination": 40,
+        "faculty": "Science",
+        "s1": false,
+        "s2": true,
+        "unit_code": "ASP1022",
+        "unit_name": "Life in the universe - astrobiology"
+    },
+    {
+        "assessment": 50,
+        "examination": 50,
+        "faculty": "Science",
+        "s1": true,
+        "s2": false,
+        "unit_code": "ASP2011",
+        "unit_name": "Astronomy"
+    },
+    {
+        "assessment": 50,
+        "examination": 50,
+        "faculty": "Science",
+        "s1": false,
+        "s2": true,
+        "unit_code": "ASP2062",
+        "unit_name": "Introduction to astrophysics"
+    },
+    {
+        "assessment": 40,
+        "examination": 60,
+        "faculty": "Science",
+        "s1": true,
+        "s2": false,
+        "unit_code": "BCH2011",
+        "unit_name": "Structure and function of cellular biomolecules"
+    },
+    {
+        "assessment": 40,
+        "examination": 60,
+        "faculty": "Science",
+        "s1": false,
+        "s2": true,
+        "unit_code": "BCH2022",
+        "unit_name": "Metabolic basis of human diseases"
+    },
+    {
+        "assessment": 50,
+        "examination": 50,
+        "faculty": "Science",
+        "s1": true,
+        "s2": false,
+        "unit_code": "BIO1011",
+        "unit_name": "Blueprints for life"
+    },
+    {
+        "assessment": 50,
+        "examination": 50,
+        "faculty": "Science",
+        "s1": false,
+        "s2": true,
+        "unit_code": "BIO1022",
+        "unit_name": "Life on Earth"
+    },
+    {
+        "assessment": 50,
+        "examination": 50,
+        "faculty": "Science",
+        "s1": false,
+        "s2": true,
+        "unit_code": "BIO1042",
+        "unit_name": "Life in the environment"
+    },
+    {
+        "assessment": 55,
+        "examination": 45,
+        "faculty": "Science",
+        "s1": true,
+        "s2": false,
+        "unit_code": "BIO2011",
+        "unit_name": "Ecology and biodiversity"
+    },
+    {
+        "assessment": 50,
+        "examination": 50,
+        "faculty": "Science",
+        "s1": false,
+        "s2": true,
+        "unit_code": "BIO2022",
+        "unit_name": "Evolutionary ecology"
+    },
+    {
+        "assessment": 100,
+        "examination": 0,
+        "faculty": "Science",
+        "s1": false,
+        "s2": true,
+        "unit_code": "BIO2040",
+        "unit_name": "Conservation biology"
+    },
+    {
+        "assessment": 75,
+        "examination": 25,
+        "faculty": "Science",
+        "s1": true,
+        "s2": false,
+        "unit_code": "BIO2181",
+        "unit_name": "Evolution of plant diversity"
+    },
+    {
+        "assessment": 65,
+        "examination": 35,
+        "faculty": "Science",
+        "s1": true,
+        "s2": false,
+        "unit_code": "BIO2231",
+        "unit_name": "Animal diversity"
+    },
+    {
+        "assessment": 65,
+        "examination": 35,
+        "faculty": "Science",
+        "s1": false,
+        "s2": true,
+        "unit_code": "BIO2242",
+        "unit_name": "Animal structure and function"
+    },
+    {
+        "assessment": 45,
+        "examination": 55,
+        "faculty": "Science",
+        "s1": true,
+        "s2": false,
+        "unit_code": "CHM1011",
+        "unit_name": "Chemistry 1"
+    },
+    {
+        "assessment": 45,
+        "examination": 55,
+        "faculty": "Science",
+        "s1": false,
+        "s2": true,
+        "unit_code": "CHM1022",
+        "unit_name": "Chemistry 2"
+    },
+    {
+        "assessment": 45,
+        "examination": 55,
+        "faculty": "Science",
+        "s1": true,
+        "s2": false,
+        "unit_code": "CHM1051",
+        "unit_name": "Chemistry 1 advanced"
+    },
+    {
+        "assessment": 45,
+        "examination": 55,
+        "faculty": "Science",
+        "s1": false,
+        "s2": true,
+        "unit_code": "CHM1052",
+        "unit_name": "Chemistry 2 advanced"
+    },
+    {
+        "assessment": 50,
+        "examination": 50,
+        "faculty": "Science",
+        "s1": true,
+        "s2": false,
+        "unit_code": "CHM2911",
+        "unit_name": "Inorganic and organic chemistry"
+    },
+    {
+        "assessment": 60,
+        "examination": 40,
+        "faculty": "Science",
+        "s1": false,
+        "s2": true,
+        "unit_code": "CHM2922",
+        "unit_name": "Spectroscopy and analytical chemistry"
+    },
+    {
+        "assessment": 50,
+        "examination": 50,
+        "faculty": "Science",
+        "s1": true,
+        "s2": false,
+        "unit_code": "CHM2951",
+        "unit_name": "Environmental chemistry - water"
+    },
+    {
+        "assessment": 100,
+        "examination": 0,
+        "faculty": "Science",
+        "s1": false,
+        "s2": true,
+        "unit_code": "CHM2962",
+        "unit_name": "Food chemistry"
+    },
+    {
+        "assessment": 100,
+        "examination": 0,
+        "faculty": "Science",
+        "s1": true,
+        "s2": true,
+        "unit_code": "CHM2990",
+        "unit_name": "Introductory chemical research project"
+    },
+    {
+        "assessment": 50,
+        "examination": 50,
+        "faculty": "Science",
+        "s1": true,
+        "s2": false,
+        "unit_code": "DEV2011",
+        "unit_name": "Early human development from cells to tissues"
+    },
+    {
+        "assessment": 50,
+        "examination": 50,
+        "faculty": "Science",
+        "s1": false,
+        "s2": true,
+        "unit_code": "DEV2022",
+        "unit_name": "Human anatomy and development: Tissues and body systems"
+    },
+    {
+        "assessment": 50,
+        "examination": 50,
+        "faculty": "Science",
+        "s1": true,
+        "s2": false,
+        "unit_code": "EAE1011",
+        "unit_name": "Earth, atmosphere and environment 1"
+    },
+    {
+        "assessment": 50,
+        "examination": 50,
+        "faculty": "Science",
+        "s1": false,
+        "s2": true,
+        "unit_code": "EAE1022",
+        "unit_name": "Earth, atmosphere and environment 2"
+    },
+    {
+        "assessment": 50,
+        "examination": 50,
+        "faculty": "Science",
+        "s1": true,
+        "s2": false,
+        "unit_code": "EAE2011",
+        "unit_name": "Environmental problem solving and visualisation"
+    },
+    {
+        "assessment": 60,
+        "examination": 40,
+        "faculty": "Science",
+        "s1": true,
+        "s2": false,
+        "unit_code": "EAE2111",
+        "unit_name": "Introduction to climate science"
+    },
+    {
+        "assessment": 50,
+        "examination": 50,
+        "faculty": "Science",
+        "s1": false,
+        "s2": true,
+        "unit_code": "EAE2122",
+        "unit_name": "Introduction to atmospheric physics and dynamics"
+    },
+    {
+        "assessment": 50,
+        "examination": 50,
+        "faculty": "Science",
+        "s1": false,
+        "s2": true,
+        "unit_code": "EAE2322",
+        "unit_name": "Environmental earth science"
+    },
+    {
+        "assessment": 50,
+        "examination": 50,
+        "faculty": "Science",
+        "s1": true,
+        "s2": false,
+        "unit_code": "EAE2511",
+        "unit_name": "Deep earth processes"
+    },
+    {
+        "assessment": 60,
+        "examination": 40,
+        "faculty": "Science",
+        "s1": false,
+        "s2": true,
+        "unit_code": "EAE2522",
+        "unit_name": "Sediments and basins"
+    },
+    {
+        "assessment": 85,
+        "examination": 15,
+        "faculty": "Science",
+        "s1": false,
+        "s2": true,
+        "unit_code": "EAE2532",
+        "unit_name": "Field geology and geological mapping"
+    },
+    {
+        "assessment": 60,
+        "examination": 40,
+        "faculty": "Science",
+        "s1": false,
+        "s2": true,
+        "unit_code": "ENV2022",
+        "unit_name": "Environmental field skills and monitoring"
+    },
+    {
+        "assessment": 50,
+        "examination": 50,
+        "faculty": "Science",
+        "s1": true,
+        "s2": false,
+        "unit_code": "GEN2041",
+        "unit_name": "Foundations of genetics"
+    },
+    {
+        "assessment": 50,
+        "examination": 50,
+        "faculty": "Science",
+        "s1": false,
+        "s2": true,
+        "unit_code": "GEN2052",
+        "unit_name": "Genomics and population genetics"
+    },
+    {
+        "assessment": 50,
+        "examination": 50,
+        "faculty": "Science",
+        "s1": true,
+        "s2": false,
+        "unit_code": "IMM2011",
+        "unit_name": "Basic immunology: The body's defence system"
+    },
+    {
+        "assessment": 50,
+        "examination": 50,
+        "faculty": "Science",
+        "s1": false,
+        "s2": true,
+        "unit_code": "IMM2022",
+        "unit_name": "Immunology in health and disease"
+    },
+    {
+        "assessment": 50,
+        "examination": 50,
+        "faculty": "Science",
+        "s1": true,
+        "s2": false,
+        "unit_code": "MCB2011",
+        "unit_name": "Molecular biology and the cell"
+    },
+    {
+        "assessment": 50,
+        "examination": 50,
+        "faculty": "Science",
+        "s1": false,
+        "s2": true,
+        "unit_code": "MCB2022",
+        "unit_name": "The dynamic cell"
+    },
+    {
+        "assessment": 60,
+        "examination": 40,
+        "faculty": "Science",
+        "s1": true,
+        "s2": false,
+        "unit_code": "MIC2011",
+        "unit_name": "Introduction to microbiology and microbial biotechnology"
+    },
+    {
+        "assessment": 40,
+        "examination": 60,
+        "faculty": "Science",
+        "s1": true,
+        "s2": true,
+        "unit_code": "MTH1010",
+        "unit_name": "Functions and their applications"
+    },
+    {
+        "assessment": 40,
+        "examination": 60,
+        "faculty": "Science",
+        "s1": true,
+        "s2": true,
+        "unit_code": "MTH1020",
+        "unit_name": "Analysis of change"
+    },
+    {
+        "assessment": 40,
+        "examination": 60,
+        "faculty": "Science",
+        "s1": true,
+        "s2": true,
+        "unit_code": "MTH1030",
+        "unit_name": "Techniques for modelling"
+    },
+    {
+        "assessment": 40,
+        "examination": 60,
+        "faculty": "Science",
+        "s1": true,
+        "s2": false,
+        "unit_code": "MTH1035",
+        "unit_name": "Techniques for modelling (advanced)"
+    },
+    {
+        "assessment": 40,
+        "examination": 60,
+        "faculty": "Science",
+        "s1": true,
+        "s2": true,
+        "unit_code": "MTH2010",
+        "unit_name": "Multivariable calculus"
+    },
+    {
+        "assessment": 40,
+        "examination": 60,
+        "faculty": "Science",
+        "s1": false,
+        "s2": true,
+        "unit_code": "MTH2015",
+        "unit_name": "Multivariable calculus (advanced)"
+    },
+    {
+        "assessment": 40,
+        "examination": 60,
+        "faculty": "Science",
+        "s1": true,
+        "s2": false,
+        "unit_code": "MTH2021",
+        "unit_name": "Linear algebra with applications"
+    },
+    {
+        "assessment": 40,
+        "examination": 60,
+        "faculty": "Science",
+        "s1": true,
+        "s2": false,
+        "unit_code": "MTH2025",
+        "unit_name": "Linear algebra (advanced)"
+    },
+    {
+        "assessment": 40,
+        "examination": 60,
+        "faculty": "Science",
+        "s1": false,
+        "s2": true,
+        "unit_code": "MTH2032",
+        "unit_name": "Differential equations with modelling"
+    },
+    {
+        "assessment": 40,
+        "examination": 60,
+        "faculty": "Science",
+        "s1": false,
+        "s2": true,
+        "unit_code": "MTH2040",
+        "unit_name": "Mathematical modelling"
+    },
+    {
+        "assessment": 40,
+        "examination": 60,
+        "faculty": "Science",
+        "s1": false,
+        "s2": true,
+        "unit_code": "MTH2051",
+        "unit_name": "Introduction to computational mathematics"
+    },
+    {
+        "assessment": 40,
+        "examination": 60,
+        "faculty": "Science",
+        "s1": true,
+        "s2": false,
+        "unit_code": "MTH2121",
+        "unit_name": "Algebra and number theory"
+    },
+    {
+        "assessment": 40,
+        "examination": 60,
+        "faculty": "Science",
+        "s1": true,
+        "s2": false,
+        "unit_code": "MTH2132",
+        "unit_name": "The nature and beauty of mathematics"
+    },
+    {
+        "assessment": 40,
+        "examination": 60,
+        "faculty": "Science",
+        "s1": true,
+        "s2": false,
+        "unit_code": "MTH2140",
+        "unit_name": "Real analysis"
+    },
+    {
+        "assessment": 40,
+        "examination": 60,
+        "faculty": "Science",
+        "s1": true,
+        "s2": false,
+        "unit_code": "MTH2222",
+        "unit_name": "Mathematics of uncertainty"
+    },
+    {
+        "assessment": 40,
+        "examination": 60,
+        "faculty": "Science",
+        "s1": false,
+        "s2": true,
+        "unit_code": "MTH2232",
+        "unit_name": "Mathematical statistics"
+    },
+    {
+        "assessment": 50,
+        "examination": 50,
+        "faculty": "Science",
+        "s1": false,
+        "s2": true,
+        "unit_code": "PHA2022",
+        "unit_name": "Drugs and society"
+    },
+    {
+        "assessment": 60,
+        "examination": 40,
+        "faculty": "Science",
+        "s1": true,
+        "s2": false,
+        "unit_code": "PHS1001",
+        "unit_name": "Foundation physics"
+    },
+    {
+        "assessment": 60,
+        "examination": 40,
+        "faculty": "Science",
+        "s1": false,
+        "s2": true,
+        "unit_code": "PHS1002",
+        "unit_name": "Physics for engineering"
+    },
+    {
+        "assessment": 60,
+        "examination": 40,
+        "faculty": "Science",
+        "s1": true,
+        "s2": false,
+        "unit_code": "PHS1011",
+        "unit_name": "Classical physics and relativity"
+    },
+    {
+        "assessment": 60,
+        "examination": 40,
+        "faculty": "Science",
+        "s1": false,
+        "s2": true,
+        "unit_code": "PHS1022",
+        "unit_name": "Fields and quantum physics"
+    },
+    {
+        "assessment": 60,
+        "examination": 40,
+        "faculty": "Science",
+        "s1": true,
+        "s2": false,
+        "unit_code": "PHS1031",
+        "unit_name": "Physics for the living world"
+    },
+    {
+        "assessment": 60,
+        "examination": 40,
+        "faculty": "Science",
+        "s1": true,
+        "s2": false,
+        "unit_code": "PHS2061",
+        "unit_name": "Quantum and thermal physics"
+    },
+    {
+        "assessment": 60,
+        "examination": 40,
+        "faculty": "Science",
+        "s1": false,
+        "s2": true,
+        "unit_code": "PHS2062",
+        "unit_name": "Electromagnetism and optics"
+    },
+    {
+        "assessment": 60,
+        "examination": 40,
+        "faculty": "Science",
+        "s1": true,
+        "s2": false,
+        "unit_code": "PHS2081",
+        "unit_name": "Atomic, nuclear and condensed matter physics"
+    },
+    {
+        "assessment": 100,
+        "examination": 0,
+        "faculty": "Science",
+        "s1": true,
+        "s2": true,
+        "unit_code": "PHS2350",
+        "unit_name": "Physics and astronomy introductory research project 1"
+    },
+    {
+        "assessment": 100,
+        "examination": 0,
+        "faculty": "Science",
+        "s1": true,
+        "s2": true,
+        "unit_code": "PHS2360",
+        "unit_name": "Physics and astronomy introductory research project 2"
+    },
+    {
+        "assessment": 85,
+        "examination": 15,
+        "faculty": "Science",
+        "s1": true,
+        "s2": false,
+        "unit_code": "PHY2011",
+        "unit_name": "Neuroscience of communication, sensory and control systems"
+    },
+    {
+        "assessment": 50,
+        "examination": 50,
+        "faculty": "Science",
+        "s1": false,
+        "s2": true,
+        "unit_code": "PHY2032",
+        "unit_name": "Endocrine control systems"
+    },
+    {
+        "assessment": 60,
+        "examination": 40,
+        "faculty": "Science",
+        "s1": false,
+        "s2": true,
+        "unit_code": "PHY2042",
+        "unit_name": "Body systems physiology"
+    },
+    {
+        "assessment": 40,
+        "examination": 60,
+        "faculty": "Science",
+        "s1": true,
+        "s2": true,
+        "unit_code": "SCI1020",
+        "unit_name": "Introduction to statistical reasoning"
+    },
+    {
+        "assessment": 100,
+        "examination": 0,
+        "faculty": "Science",
+        "s1": false,
+        "s2": true,
+        "unit_code": "SCI1200",
+        "unit_name": "Humans, evolution and modern society"
+    },
+    {
+        "assessment": 100,
+        "examination": 0,
+        "faculty": "Science",
+        "s1": false,
+        "s2": true,
+        "unit_code": "SCI1300",
+        "unit_name": "Climate change: From science to society"
+    },
+    {
+        "assessment": 100,
+        "examination": 0,
+        "faculty": "Science",
+        "s1": true,
+        "s2": false,
+        "unit_code": "SCI1501",
+        "unit_name": "Impact through science 1A"
+    },
+    {
+        "assessment": 100,
+        "examination": 0,
+        "faculty": "Science",
+        "s1": false,
+        "s2": true,
+        "unit_code": "SCI1502",
+        "unit_name": "Impact through science 1B"
+    },
+    {
+        "assessment": 60,
+        "examination": 40,
+        "faculty": "Science",
+        "s1": true,
+        "s2": true,
+        "unit_code": "SCI2010",
+        "unit_name": "Scientific practice and communication"
+    },
+    {
+        "assessment": 70,
+        "examination": 30,
+        "faculty": "Science",
+        "s1": true,
+        "s2": true,
+        "unit_code": "SCI2015",
+        "unit_name": "Scientific practice and communication (advanced)"
+    },
+    {
+        "assessment": 100,
+        "examination": 0,
+        "faculty": "Science",
+        "s1": true,
+        "s2": false,
+        "unit_code": "SCI2501",
+        "unit_name": "Impact through science 2A"
+    },
+    {
+        "assessment": 100,
+        "examination": 0,
+        "faculty": "Science",
+        "s1": false,
+        "s2": true,
+        "unit_code": "SCI2502",
+        "unit_name": "Impact through science 2B"
+    },
+    {
+        "assessment": 40,
+        "examination": 60,
+        "faculty": "Science",
+        "s1": true,
+        "s2": true,
+        "unit_code": "STA1010",
+        "unit_name": "Statistical methods for science"
+    }
+]
