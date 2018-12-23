@@ -1,12 +1,11 @@
 {
     "short_name": "Monash Units",
     "name": "Monash University Units",
-    "start_url": "/?source=pwa",
+    "start_url": "/monash/?source=pwa",
     "background_color": "#3F51B5",
     "display": "standalone",
-    "scope": "/",
+    "scope": "/monash/",
     "theme_color": "#3F51B5",
-    "orientation": "landscape",
     "icons": [
         {
             "src": "\/android-icon-36x36.png",
