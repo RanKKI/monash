@@ -53,7 +53,7 @@
                             <th class="mdui-hidden-sm-down">Title</th>
                             <th class="mdui-hidden-sm-down mdui-hidden-md-down">Faculty</th>
                             <th class="mdui-table-col-numeric">Exam</th>
-                            <th class="mdui-table-col-numeric mdui-hidden-md-down">Other</th>
+                            <th class="mdui-table-col-numeric mdui-hidden-xs-down">Other</th>
                             <th>S1</th>
                             <th>S2</th>
                         </tr>
@@ -64,7 +64,7 @@
                             <td class="mdui-hidden-sm-down">{{ unit.unit_name }}</td>
                             <td class="mdui-hidden-sm-down mdui-hidden-md-down">{{ unit.faculty }}</td>
                             <td class="mdui-text-center">{{ unit.examination }}</td>
-                            <td class="mdui-text-center mdui-hidden-md-down">{{ unit.assessment }}</td>
+                            <td class="mdui-text-center mdui-hidden-xs-down">{{ unit.assessment }}</td>
                             <td :bgcolor=getColor(unit.s1)></td>
                             <td :bgcolor=getColor(unit.s2)></td>
                         </tr>
