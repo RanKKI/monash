@@ -3,10 +3,26 @@
 
 <head>
     <meta charset="UTF-8">
-    <title>Title</title>
+    <title>Monash Uni Units</title>
     <link rel="stylesheet" href="https://cdnjs.loli.net/ajax/libs/mdui/0.4.2/css/mdui.min.css">
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <meta name="theme-color" content="#3F51B5">
+
+    <link rel="apple-touch-icon" sizes="57x57" href="https://raw.githubusercontent.com/RanKKI/monash/master/icons.ico/apple-icon-57x57.png">
+    <link rel="apple-touch-icon" sizes="60x60" href="https://raw.githubusercontent.com/RanKKI/monash/master/icons.ico/apple-icon-60x60.png">
+    <link rel="apple-touch-icon" sizes="72x72" href="https://raw.githubusercontent.com/RanKKI/monash/master/icons.ico/apple-icon-72x72.png">
+    <link rel="apple-touch-icon" sizes="76x76" href="https://raw.githubusercontent.com/RanKKI/monash/master/icons.ico/apple-icon-76x76.png">
+    <link rel="apple-touch-icon" sizes="114x114" href="https://raw.githubusercontent.com/RanKKI/monash/master/icons.ico/apple-icon-114x114.png">
+    <link rel="apple-touch-icon" sizes="120x120" href="https://raw.githubusercontent.com/RanKKI/monash/master/icons.ico/apple-icon-120x120.png">
+    <link rel="apple-touch-icon" sizes="144x144" href="https://raw.githubusercontent.com/RanKKI/monash/master/icons.ico/apple-icon-144x144.png">
+    <link rel="apple-touch-icon" sizes="152x152" href="https://raw.githubusercontent.com/RanKKI/monash/master/icons.ico/apple-icon-152x152.png">
+    <link rel="apple-touch-icon" sizes="180x180" href="https://raw.githubusercontent.com/RanKKI/monash/master/icons.ico/apple-icon-180x180.png">
+    <link rel="icon" type="image/png" sizes="192x192" href="https://raw.githubusercontent.com/RanKKI/monash/master/icons.ico/android-icon-192x192.png">
+    <link rel="icon" type="image/png" sizes="32x32" href="https://raw.githubusercontent.com/RanKKI/monash/master/icons.ico/favicon-32x32.png">
+    <link rel="icon" type="image/png" sizes="96x96" href="https://raw.githubusercontent.com/RanKKI/monash/master/icons.ico/favicon-96x96.png">
+    <link rel="icon" type="image/png" sizes="16x16" href="https://raw.githubusercontent.com/RanKKI/monash/master/icons.ico/favicon-16x16.png">
+    <link rel="manifest" href="https://raw.githubusercontent.com/RanKKI/monash/master/icons.ico/manifest.json">
+    <meta name="msapplication-TileImage" content="https://raw.githubusercontent.com/RanKKI/monash/master/icons.ico/ms-icon-144x144.png">
     <!-- Global site tag (gtag.js) - Google Analytics -->
     <script src="https://www.googletagmanager.com/gtag/js?id=UA-102355473-2"></script>
     <script>
@@ -129,13 +145,15 @@
         </div>
         <div class="mdui-dialog" id="selected_unit">
             <div class="mdui-dialog-content">
-                <p>Unit name: {{selected_unit.unit_name}}</p>
-                <p>Unit code: {{selected_unit.unit_code}}</p>
-                <p>Faculty: {{selected_unit.faculty}}</p>
-                <p>Exam: {{selected_unit.examination}}</p>
-                <p>Other assessment: {{selected_unit.assessment}}</p>
-                <p>Semester 1: {{selected_unit.s1 ? "✓":"✕"}}</p>
-                <p>Semester 2: {{selected_unit.s2 ? "✓":"✕"}}</p>
+                <div>
+                    <p>Unit name: {{selected_unit.unit_name}}</p>
+                    <p>Unit code: {{selected_unit.unit_code}}</p>
+                    <p>Faculty: {{selected_unit.faculty}}</p>
+                    <p>Exam: {{selected_unit.examination}}</p>
+                    <p>Other assessment: {{selected_unit.assessment}}</p>
+                    <p>Semester 1: {{selected_unit.s1 ? "✓":"✕"}}</p>
+                    <p>Semester 2: {{selected_unit.s2 ? "✓":"✕"}}</p>
+                </div>
             </div>
             <div class="mdui-dialog-actions">
                 <button class="mdui-btn mdui-ripple" mdui-dialog-close>好的。</button>
@@ -155,8 +173,8 @@
                     return d ? "#00FF00" : "#FF0000"
                 },
                 selectUnit: function (index) {
-                    this.selected_unit = this.units[index]
                     new mdui.Dialog("#selected_unit").open();
+                    this.selected_unit = this.units[index]
                 },
                 filterUnits: function () {
                     let self = this;
@@ -213,7 +231,7 @@
                     "exam": "any",
                     "year": "any",
                 },
-                "selected_unit": {}
+                "selected_unit": {},
             },
             created: function () {
                 let self = this;
@@ -226,6 +244,34 @@
             }
         })
     </script>
+    <script>
+        function setCookie(name, value, days) {
+            let expires = "";
+            if (days) {
+                const date = new Date();
+                date.setTime(date.getTime() + (days * 24 * 60 * 60 * 1000));
+                expires = "; expires=" + date.toUTCString();
+            }
+            document.cookie = name + "=" + (value || "") + expires + "; path=/";
+        }
+
+        function getCookie(name) {
+            const nameEQ = name + "=";
+            const ca = document.cookie.split(';');
+            for (let i = 0; i < ca.length; i++) {
+                let c = ca[i];
+                while (c.charAt(0) === ' ') c = c.substring(1, c.length);
+                if (c.indexOf(nameEQ) === 0) return c.substring(nameEQ.length, c.length);
+            }
+            return null;
+        }
+
+        if (getCookie("viewed") == null || !getCookie("viewed")) {
+            new mdui.Dialog("#help").open();
+            setCookie("viewed", true, 90)
+        }
+    </script>
+
 </body>
 
 </html>
