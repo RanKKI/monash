@@ -37,8 +37,9 @@
     <div id="app">
         <header class="mdui-appbar mdui-appbar-fixed">
             <div class="mdui-toolbar mdui-color-theme">
-                <a href="/monash" class="mdui-typo-headline">Monash Uni Units</a>
-                <a href="/changelog">Change log</a>
+                <a href="/monash" class="mdui-typo-headline mdui-hidden-xs-down">Monash Uni Units</a>
+                <a href="/monash">Home</a>
+                <a href="/monash/changelog">Change log</a>
                 <div class="mdui-toolbar-spacer"></div>
                 <span class="mdui-btn mdui-btn-icon mdui-ripple mdui-ripple-white" mdui-dialog="{target: '#search_dialog'}"
                     mdui-tooltip="{content: '搜索'}"><i class="mdui-icon material-icons">search</i></span>
@@ -131,6 +132,7 @@
                     mdui-dialog-confirm>搜索</button>
             </div>
         </div>
+
         <div class="mdui-dialog" id="help">
             <div class="mdui-dialog-content">
                 <p>此项目用于帮助Monash学生快速的挑选课程.</p>
@@ -144,9 +146,10 @@
                 </p>
             </div>
             <div class="mdui-dialog-actions">
-                <button class="mdui-btn mdui-ripple" mdui-dialog-close>知道了。</button>
+                <button class="mdui-btn mdui-ripple" mdui-dialog-cancel>知道了。</button>
             </div>
         </div>
+
         <div class="mdui-dialog" id="selected_unit">
             <div class="mdui-dialog-content">
                 <div>
@@ -162,15 +165,38 @@
                 </div>
             </div>
             <div class="mdui-dialog-actions">
-                <button class="mdui-btn mdui-ripple" mdui-dialog-close>好的。</button>
+                <button class="mdui-btn mdui-ripple" mdui-dialog-cancel>好的。</button>
             </div>
         </div>
-        <button mdui-dialog="{target: '#help'}" class="mdui-fab mdui-fab-fixed mdui-ripple mdui-color-theme-accent"><i
+        <button mdui-dialog="{target: '#help'}" class="mdui-fab mdui-fab-fixed mdui-ripple mdui-color-theme-accent" id="help_btn"><i
                 class="mdui-icon material-icons">help</i></button>
+
     </div>
     <script src="https://cdnjs.loli.net/ajax/libs/mdui/0.4.2/js/mdui.min.js"></script>
     <script src="https://cdnjs.loli.net/ajax/libs/vue/2.5.21/vue.min.js"></script>
     <script src="https://cdnjs.loli.net/ajax/libs/axios/0.9.1/axios.min.js"></script>
+    <script>
+        function setCookie(name, value, days) {
+            let expires = "";
+            if (days) {
+                const date = new Date();
+                date.setTime(date.getTime() + (days * 24 * 60 * 60 * 1000));
+                expires = "; expires=" + date.toUTCString();
+            }
+            document.cookie = name + "=" + (value || "") + expires + "; path=/";
+        }
+
+        function getCookie(name) {
+            const nameEQ = name + "=";
+            const ca = document.cookie.split(';');
+            for (let i = 0; i < ca.length; i++) {
+                let c = ca[i];
+                while (c.charAt(0) === ' ') c = c.substring(1, c.length);
+                if (c.indexOf(nameEQ) === 0) return c.substring(nameEQ.length, c.length);
+            }
+            return null;
+        }
+    </script>
     <script>
         new Vue({
             el: "#app",
@@ -223,7 +249,6 @@
                     }
 
                     self.units = self.units.slice(0, 100)
-
                 }
             },
             data: {
@@ -246,36 +271,14 @@
                         self.all_units = res.data
                         self.all_units.sort(function (a, b) { return a.unit_code > b.unit_code })
                         self.units = self.all_units.slice(0, 100)
+                        history.pushState({}, "", "#");
+                        if (getCookie("viewed") == null || !getCookie("viewed")) {
+                            document.getElementById("help_btn").click()
+                            setCookie("viewed", true, 90)
+                        }
                     })
             }
         })
-    </script>
-    <script>
-        function setCookie(name, value, days) {
-            let expires = "";
-            if (days) {
-                const date = new Date();
-                date.setTime(date.getTime() + (days * 24 * 60 * 60 * 1000));
-                expires = "; expires=" + date.toUTCString();
-            }
-            document.cookie = name + "=" + (value || "") + expires + "; path=/";
-        }
-
-        function getCookie(name) {
-            const nameEQ = name + "=";
-            const ca = document.cookie.split(';');
-            for (let i = 0; i < ca.length; i++) {
-                let c = ca[i];
-                while (c.charAt(0) === ' ') c = c.substring(1, c.length);
-                if (c.indexOf(nameEQ) === 0) return c.substring(nameEQ.length, c.length);
-            }
-            return null;
-        }
-
-        if (getCookie("viewed") == null || !getCookie("viewed")) {
-            new mdui.Dialog("#help").open();
-            setCookie("viewed", true, 90)
-        }
     </script>
 
 </body>
