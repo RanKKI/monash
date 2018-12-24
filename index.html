@@ -31,6 +31,11 @@
         gtag('js', new Date());
         gtag('config', 'UA-102355473-2');
     </script>
+    <script>
+        if (location.protocol != 'https:') {
+            location.href = 'https:' + window.location.href.substring(window.location.protocol.length);
+        }
+    </script>
 </head>
 
 <body class="mdui-appbar-with-toolbar mdui-theme-primary-indigo mdui-theme-accent-pink">
